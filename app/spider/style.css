@@ -1,0 +1,47 @@
+.spider-container{
+    max-width: 770px;
+    margin: 300px auto;
+    font-size: 14px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+
+.spider .label {
+    font-size: 1em;
+  }
+  @media screen and (max-width: 560px) {
+    .spider .label {
+      font-size: 0.9em;
+    }
+  }
+  .spider .rcAxis[key="0"] .rcLine,
+  .spider .rcAxis[key="1"] .rcLine,
+  .spider .rcAxis[key="2"] .rcLine,
+  .spider .rcAxis[key="3"] .rcLine,
+  .spider .rcAxis[key="4"] .rcLine {
+    stroke: #A36650 !important;
+  }
+  .spider .rcAxis[key="5"] .rcLine,
+  .spider .rcAxis[key="6"] .rcLine,
+  .spider .rcAxis[key="7"] .rcLine,
+  .spider .rcAxis[key="8"] .rcLine {
+    stroke: #E8c880 !important;
+  }
+  .spider .rcAxis[key="9"] .rcLine,
+  .spider .rcAxis[key="10"] .rcLine,
+  .spider .rcAxis[key="11"] .rcLine {
+    stroke: #B4b77b !important;
+  }
+  .spider .rcRadarWrapper[key="average_results"] .rcRadarStroke {
+    display: none;
+  }
+  @media screen and (max-width: 374px) {
+    .spider {
+      margin-left: -15px;
+      width: calc(100% + 30px);
+    }
+  }
+  @media screen and (max-width: 480px) {
+    .spider .rcAxisLegend {
+      font-size: 10px;
+    }
+  }
