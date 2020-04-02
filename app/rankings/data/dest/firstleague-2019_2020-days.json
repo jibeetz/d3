@@ -1,0 +1,1891 @@
+{
+  "ligue": "First League",
+  "year": "2019-2020",
+  "days": [
+    {
+      "day": 1,
+      "games": [
+        {
+          "team_dom": "LFC",
+          "team_ext": "NCFC",
+          "goals_team_dom": "4",
+          "goals_team_ext": "1"
+        },
+        {
+          "team_dom": "WHFC",
+          "team_ext": "MCFC",
+          "goals_team_dom": "0",
+          "goals_team_ext": "5"
+        },
+        {
+          "team_dom": "BFC",
+          "team_ext": "SFC",
+          "goals_team_dom": "3",
+          "goals_team_ext": "0"
+        },
+        {
+          "team_dom": "AFCB",
+          "team_ext": "SUFC",
+          "goals_team_dom": "1",
+          "goals_team_ext": "1"
+        },
+        {
+          "team_dom": "WFC",
+          "team_ext": "BHFC",
+          "goals_team_dom": "0",
+          "goals_team_ext": "3"
+        },
+        {
+          "team_dom": "CP",
+          "team_ext": "EFC",
+          "goals_team_dom": "0",
+          "goals_team_ext": "0"
+        },
+        {
+          "team_dom": "THFC",
+          "team_ext": "AVFC",
+          "goals_team_dom": "3",
+          "goals_team_ext": "1"
+        },
+        {
+          "team_dom": "LCFC",
+          "team_ext": "WWFC",
+          "goals_team_dom": "0",
+          "goals_team_ext": "0"
+        },
+        {
+          "team_dom": "NUFC",
+          "team_ext": "AFC",
+          "goals_team_dom": "0",
+          "goals_team_ext": "1"
+        },
+        {
+          "team_dom": "MUFC",
+          "team_ext": "CFC",
+          "goals_team_dom": "4",
+          "goals_team_ext": "0"
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "games": [
+        {
+          "team_dom": "AFC",
+          "team_ext": "BFC",
+          "goals_team_dom": "2",
+          "goals_team_ext": "1"
+        },
+        {
+          "team_dom": "SFC",
+          "team_ext": "LFC",
+          "goals_team_dom": "1",
+          "goals_team_ext": "2"
+        },
+        {
+          "team_dom": "BHFC",
+          "team_ext": "WHFC",
+          "goals_team_dom": "1",
+          "goals_team_ext": "1"
+        },
+        {
+          "team_dom": "AVFC",
+          "team_ext": "AFCB",
+          "goals_team_dom": "1",
+          "goals_team_ext": "2"
+        },
+        {
+          "team_dom": "EFC",
+          "team_ext": "WFC",
+          "goals_team_dom": "1",
+          "goals_team_ext": "0"
+        },
+        {
+          "team_dom": "NCFC",
+          "team_ext": "NUFC",
+          "goals_team_dom": "3",
+          "goals_team_ext": "1"
+        },
+        {
+          "team_dom": "MCFC",
+          "team_ext": "THFC",
+          "goals_team_dom": "2",
+          "goals_team_ext": "2"
+        },
+        {
+          "team_dom": "SUFC",
+          "team_ext": "CP",
+          "goals_team_dom": "1",
+          "goals_team_ext": "0"
+        },
+        {
+          "team_dom": "CFC",
+          "team_ext": "LCFC",
+          "goals_team_dom": "1",
+          "goals_team_ext": "1"
+        },
+        {
+          "team_dom": "WWFC",
+          "team_ext": "MUFC",
+          "goals_team_dom": "1",
+          "goals_team_ext": "1"
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "games": [
+        {
+          "team_dom": "AVFC",
+          "team_ext": "EFC",
+          "goals_team_dom": "2",
+          "goals_team_ext": "0"
+        },
+        {
+          "team_dom": "NCFC",
+          "team_ext": "CFC",
+          "goals_team_dom": "2",
+          "goals_team_ext": "3"
+        },
+        {
+          "team_dom": "MUFC",
+          "team_ext": "CP",
+          "goals_team_dom": "1",
+          "goals_team_ext": "2"
+        },
+        {
+          "team_dom": "BHFC",
+          "team_ext": "SFC",
+          "goals_team_dom": "0",
+          "goals_team_ext": "2"
+        },
+        {
+          "team_dom": "SUFC",
+          "team_ext": "LCFC",
+          "goals_team_dom": "1",
+          "goals_team_ext": "2"
+        },
+        {
+          "team_dom": "WFC",
+          "team_ext": "WHFC",
+          "goals_team_dom": "1",
+          "goals_team_ext": "3"
+        },
+        {
+          "team_dom": "LFC",
+          "team_ext": "AFC",
+          "goals_team_dom": "3",
+          "goals_team_ext": "1"
+        },
+        {
+          "team_dom": "AFCB",
+          "team_ext": "MCFC",
+          "goals_team_dom": "1",
+          "goals_team_ext": "3"
+        },
+        {
+          "team_dom": "THFC",
+          "team_ext": "NUFC",
+          "goals_team_dom": "0",
+          "goals_team_ext": "1"
+        },
+        {
+          "team_dom": "WWFC",
+          "team_ext": "BFC",
+          "goals_team_dom": "1",
+          "goals_team_ext": "1"
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "games": [
+        {
+          "team_dom": "SFC",
+          "team_ext": "MUFC",
+          "goals_team_dom": "1",
+          "goals_team_ext": "1"
+        },
+        {
+          "team_dom": "MCFC",
+          "team_ext": "BHFC",
+          "goals_team_dom": "4",
+          "goals_team_ext": "0"
+        },
+        {
+          "team_dom": "LCFC",
+          "team_ext": "AFCB",
+          "goals_team_dom": "3",
+          "goals_team_ext": "1"
+        },
+        {
+          "team_dom": "CFC",
+          "team_ext": "SUFC",
+          "goals_team_dom": "2",
+          "goals_team_ext": "2"
+        },
+        {
+          "team_dom": "CP",
+          "team_ext": "AVFC",
+          "goals_team_dom": "1",
+          "goals_team_ext": "0"
+        },
+        {
+          "team_dom": "WHFC",
+          "team_ext": "NCFC",
+          "goals_team_dom": "2",
+          "goals_team_ext": "0"
+        },
+        {
+          "team_dom": "NUFC",
+          "team_ext": "WFC",
+          "goals_team_dom": "1",
+          "goals_team_ext": "1"
+        },
+        {
+          "team_dom": "BFC",
+          "team_ext": "LFC",
+          "goals_team_dom": "0",
+          "goals_team_ext": "3"
+        },
+        {
+          "team_dom": "EFC",
+          "team_ext": "WWFC",
+          "goals_team_dom": "3",
+          "goals_team_ext": "2"
+        },
+        {
+          "team_dom": "AFC",
+          "team_ext": "THFC",
+          "goals_team_dom": "2",
+          "goals_team_ext": "2"
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "games": [
+        {
+          "team_dom": "LFC",
+          "team_ext": "NUFC",
+          "goals_team_dom": "3",
+          "goals_team_ext": "1"
+        },
+        {
+          "team_dom": "MUFC",
+          "team_ext": "LCFC",
+          "goals_team_dom": "1",
+          "goals_team_ext": "0"
+        },
+        {
+          "team_dom": "THFC",
+          "team_ext": "CP",
+          "goals_team_dom": "4",
+          "goals_team_ext": "0"
+        },
+        {
+          "team_dom": "SUFC",
+          "team_ext": "SFC",
+          "goals_team_dom": "0",
+          "goals_team_ext": "1"
+        },
+        {
+          "team_dom": "WWFC",
+          "team_ext": "CFC",
+          "goals_team_dom": "2",
+          "goals_team_ext": "5"
+        },
+        {
+          "team_dom": "BHFC",
+          "team_ext": "BFC",
+          "goals_team_dom": "1",
+          "goals_team_ext": "1"
+        },
+        {
+          "team_dom": "NCFC",
+          "team_ext": "MCFC",
+          "goals_team_dom": "3",
+          "goals_team_ext": "2"
+        },
+        {
+          "team_dom": "AFCB",
+          "team_ext": "EFC",
+          "goals_team_dom": "3",
+          "goals_team_ext": "1"
+        },
+        {
+          "team_dom": "WFC",
+          "team_ext": "AFC",
+          "goals_team_dom": "2",
+          "goals_team_ext": "2"
+        },
+        {
+          "team_dom": "AVFC",
+          "team_ext": "WHFC",
+          "goals_team_dom": "0",
+          "goals_team_ext": "0"
+        }
+      ]
+    },
+    {
+      "day": 6,
+      "games": [
+        {
+          "team_dom": "SFC",
+          "team_ext": "AFCB",
+          "goals_team_dom": "1",
+          "goals_team_ext": "3"
+        },
+        {
+          "team_dom": "LCFC",
+          "team_ext": "THFC",
+          "goals_team_dom": "2",
+          "goals_team_ext": "1"
+        },
+        {
+          "team_dom": "MCFC",
+          "team_ext": "WFC",
+          "goals_team_dom": "8",
+          "goals_team_ext": "0"
+        },
+        {
+          "team_dom": "EFC",
+          "team_ext": "SUFC",
+          "goals_team_dom": "0",
+          "goals_team_ext": "2"
+        },
+        {
+          "team_dom": "BFC",
+          "team_ext": "NCFC",
+          "goals_team_dom": "2",
+          "goals_team_ext": "0"
+        },
+        {
+          "team_dom": "NUFC",
+          "team_ext": "BHFC",
+          "goals_team_dom": "0",
+          "goals_team_ext": "0"
+        },
+        {
+          "team_dom": "WHFC",
+          "team_ext": "MUFC",
+          "goals_team_dom": "2",
+          "goals_team_ext": "0"
+        },
+        {
+          "team_dom": "CP",
+          "team_ext": "WWFC",
+          "goals_team_dom": "1",
+          "goals_team_ext": "1"
+        },
+        {
+          "team_dom": "CFC",
+          "team_ext": "LFC",
+          "goals_team_dom": "1",
+          "goals_team_ext": "2"
+        },
+        {
+          "team_dom": "AFC",
+          "team_ext": "AVFC",
+          "goals_team_dom": "3",
+          "goals_team_ext": "2"
+        }
+      ]
+    },
+    {
+      "day": 7,
+      "games": [
+        {
+          "team_dom": "SUFC",
+          "team_ext": "LFC",
+          "goals_team_dom": "0",
+          "goals_team_ext": "1"
+        },
+        {
+          "team_dom": "AFCB",
+          "team_ext": "WHFC",
+          "goals_team_dom": "2",
+          "goals_team_ext": "2"
+        },
+        {
+          "team_dom": "THFC",
+          "team_ext": "SFC",
+          "goals_team_dom": "2",
+          "goals_team_ext": "1"
+        },
+        {
+          "team_dom": "AVFC",
+          "team_ext": "BFC",
+          "goals_team_dom": "2",
+          "goals_team_ext": "2"
+        },
+        {
+          "team_dom": "CFC",
+          "team_ext": "BHFC",
+          "goals_team_dom": "2",
+          "goals_team_ext": "0"
+        },
+        {
+          "team_dom": "CP",
+          "team_ext": "NCFC",
+          "goals_team_dom": "2",
+          "goals_team_ext": "0"
+        },
+        {
+          "team_dom": "WWFC",
+          "team_ext": "WFC",
+          "goals_team_dom": "2",
+          "goals_team_ext": "0"
+        },
+        {
+          "team_dom": "EFC",
+          "team_ext": "MCFC",
+          "goals_team_dom": "1",
+          "goals_team_ext": "3"
+        },
+        {
+          "team_dom": "LCFC",
+          "team_ext": "NUFC",
+          "goals_team_dom": "5",
+          "goals_team_ext": "0"
+        },
+        {
+          "team_dom": "MUFC",
+          "team_ext": "AFC",
+          "goals_team_dom": "1",
+          "goals_team_ext": "1"
+        }
+      ]
+    },
+    {
+      "day": 8,
+      "games": [
+        {
+          "team_dom": "BHFC",
+          "team_ext": "THFC",
+          "goals_team_dom": "3",
+          "goals_team_ext": "0"
+        },
+        {
+          "team_dom": "LFC",
+          "team_ext": "LCFC",
+          "goals_team_dom": "2",
+          "goals_team_ext": "1"
+        },
+        {
+          "team_dom": "BFC",
+          "team_ext": "EFC",
+          "goals_team_dom": "1",
+          "goals_team_ext": "0"
+        },
+        {
+          "team_dom": "WFC",
+          "team_ext": "SUFC",
+          "goals_team_dom": "0",
+          "goals_team_ext": "0"
+        },
+        {
+          "team_dom": "NCFC",
+          "team_ext": "AVFC",
+          "goals_team_dom": "1",
+          "goals_team_ext": "5"
+        },
+        {
+          "team_dom": "WHFC",
+          "team_ext": "CP",
+          "goals_team_dom": "1",
+          "goals_team_ext": "2"
+        },
+        {
+          "team_dom": "MCFC",
+          "team_ext": "WWFC",
+          "goals_team_dom": "0",
+          "goals_team_ext": "2"
+        },
+        {
+          "team_dom": "AFC",
+          "team_ext": "AFCB",
+          "goals_team_dom": "1",
+          "goals_team_ext": "0"
+        },
+        {
+          "team_dom": "SFC",
+          "team_ext": "CFC",
+          "goals_team_dom": "1",
+          "goals_team_ext": "4"
+        },
+        {
+          "team_dom": "NUFC",
+          "team_ext": "MUFC",
+          "goals_team_dom": "1",
+          "goals_team_ext": "0"
+        }
+      ]
+    },
+    {
+      "day": 9,
+      "games": [
+        {
+          "team_dom": "EFC",
+          "team_ext": "WHFC",
+          "goals_team_dom": "2",
+          "goals_team_ext": "0"
+        },
+        {
+          "team_dom": "LCFC",
+          "team_ext": "BFC",
+          "goals_team_dom": "2",
+          "goals_team_ext": "1"
+        },
+        {
+          "team_dom": "CFC",
+          "team_ext": "NUFC",
+          "goals_team_dom": "1",
+          "goals_team_ext": "0"
+        },
+        {
+          "team_dom": "THFC",
+          "team_ext": "WFC",
+          "goals_team_dom": "1",
+          "goals_team_ext": "1"
+        },
+        {
+          "team_dom": "AFCB",
+          "team_ext": "NCFC",
+          "goals_team_dom": "0",
+          "goals_team_ext": "0"
+        },
+        {
+          "team_dom": "WWFC",
+          "team_ext": "SFC",
+          "goals_team_dom": "1",
+          "goals_team_ext": "1"
+        },
+        {
+          "team_dom": "AVFC",
+          "team_ext": "BHFC",
+          "goals_team_dom": "2",
+          "goals_team_ext": "1"
+        },
+        {
+          "team_dom": "CP",
+          "team_ext": "MCFC",
+          "goals_team_dom": "0",
+          "goals_team_ext": "2"
+        },
+        {
+          "team_dom": "MUFC",
+          "team_ext": "LFC",
+          "goals_team_dom": "1",
+          "goals_team_ext": "1"
+        },
+        {
+          "team_dom": "SUFC",
+          "team_ext": "AFC",
+          "goals_team_dom": "1",
+          "goals_team_ext": "0"
+        }
+      ]
+    },
+    {
+      "day": 10,
+      "games": [
+        {
+          "team_dom": "SFC",
+          "team_ext": "LCFC",
+          "goals_team_dom": "0",
+          "goals_team_ext": "9"
+        },
+        {
+          "team_dom": "MCFC",
+          "team_ext": "AVFC",
+          "goals_team_dom": "3",
+          "goals_team_ext": "0"
+        },
+        {
+          "team_dom": "WHFC",
+          "team_ext": "SUFC",
+          "goals_team_dom": "1",
+          "goals_team_ext": "1"
+        },
+        {
+          "team_dom": "WFC",
+          "team_ext": "AFCB",
+          "goals_team_dom": "0",
+          "goals_team_ext": "0"
+        },
+        {
+          "team_dom": "BHFC",
+          "team_ext": "EFC",
+          "goals_team_dom": "3",
+          "goals_team_ext": "2"
+        },
+        {
+          "team_dom": "BFC",
+          "team_ext": "CFC",
+          "goals_team_dom": "2",
+          "goals_team_ext": "4"
+        },
+        {
+          "team_dom": "NUFC",
+          "team_ext": "WWFC",
+          "goals_team_dom": "1",
+          "goals_team_ext": "1"
+        },
+        {
+          "team_dom": "LFC",
+          "team_ext": "THFC",
+          "goals_team_dom": "2",
+          "goals_team_ext": "1"
+        },
+        {
+          "team_dom": "AFC",
+          "team_ext": "CP",
+          "goals_team_dom": "2",
+          "goals_team_ext": "2"
+        },
+        {
+          "team_dom": "NCFC",
+          "team_ext": "MUFC",
+          "goals_team_dom": "1",
+          "goals_team_ext": "3"
+        }
+      ]
+    },
+    {
+      "day": 11,
+      "games": [
+        {
+          "team_dom": "AFCB",
+          "team_ext": "MUFC",
+          "goals_team_dom": "1",
+          "goals_team_ext": "0"
+        },
+        {
+          "team_dom": "AVFC",
+          "team_ext": "LFC",
+          "goals_team_dom": "1",
+          "goals_team_ext": "2"
+        },
+        {
+          "team_dom": "MCFC",
+          "team_ext": "SFC",
+          "goals_team_dom": "2",
+          "goals_team_ext": "1"
+        },
+        {
+          "team_dom": "AFC",
+          "team_ext": "WWFC",
+          "goals_team_dom": "1",
+          "goals_team_ext": "1"
+        },
+        {
+          "team_dom": "SUFC",
+          "team_ext": "BFC",
+          "goals_team_dom": "3",
+          "goals_team_ext": "0"
+        },
+        {
+          "team_dom": "WHFC",
+          "team_ext": "NUFC",
+          "goals_team_dom": "2",
+          "goals_team_ext": "3"
+        },
+        {
+          "team_dom": "BHFC",
+          "team_ext": "NCFC",
+          "goals_team_dom": "2",
+          "goals_team_ext": "0"
+        },
+        {
+          "team_dom": "WFC",
+          "team_ext": "CFC",
+          "goals_team_dom": "1",
+          "goals_team_ext": "2"
+        },
+        {
+          "team_dom": "CP",
+          "team_ext": "LCFC",
+          "goals_team_dom": "0",
+          "goals_team_ext": "2"
+        },
+        {
+          "team_dom": "EFC",
+          "team_ext": "THFC",
+          "goals_team_dom": "1",
+          "goals_team_ext": "1"
+        }
+      ]
+    },
+    {
+      "day": 12,
+      "games": [
+        {
+          "team_dom": "NCFC",
+          "team_ext": "WFC",
+          "goals_team_dom": "0",
+          "goals_team_ext": "2"
+        },
+        {
+          "team_dom": "CFC",
+          "team_ext": "CP",
+          "goals_team_dom": "2",
+          "goals_team_ext": "0"
+        },
+        {
+          "team_dom": "THFC",
+          "team_ext": "SUFC",
+          "goals_team_dom": "1",
+          "goals_team_ext": "1"
+        },
+        {
+          "team_dom": "NUFC",
+          "team_ext": "AFCB",
+          "goals_team_dom": "2",
+          "goals_team_ext": "1"
+        },
+        {
+          "team_dom": "BFC",
+          "team_ext": "WHFC",
+          "goals_team_dom": "3",
+          "goals_team_ext": "0"
+        },
+        {
+          "team_dom": "SFC",
+          "team_ext": "EFC",
+          "goals_team_dom": "1",
+          "goals_team_ext": "2"
+        },
+        {
+          "team_dom": "LCFC",
+          "team_ext": "AFC",
+          "goals_team_dom": "2",
+          "goals_team_ext": "0"
+        },
+        {
+          "team_dom": "MUFC",
+          "team_ext": "BHFC",
+          "goals_team_dom": "3",
+          "goals_team_ext": "1"
+        },
+        {
+          "team_dom": "WWFC",
+          "team_ext": "AVFC",
+          "goals_team_dom": "2",
+          "goals_team_ext": "1"
+        },
+        {
+          "team_dom": "LFC",
+          "team_ext": "MCFC",
+          "goals_team_dom": "3",
+          "goals_team_ext": "1"
+        }
+      ]
+    },
+    {
+      "day": 13,
+      "games": [
+        {
+          "team_dom": "WHFC",
+          "team_ext": "THFC",
+          "goals_team_dom": "2",
+          "goals_team_ext": "3"
+        },
+        {
+          "team_dom": "CP",
+          "team_ext": "LFC",
+          "goals_team_dom": "1",
+          "goals_team_ext": "2"
+        },
+        {
+          "team_dom": "BHFC",
+          "team_ext": "LCFC",
+          "goals_team_dom": "0",
+          "goals_team_ext": "2"
+        },
+        {
+          "team_dom": "AFC",
+          "team_ext": "SFC",
+          "goals_team_dom": "2",
+          "goals_team_ext": "2"
+        },
+        {
+          "team_dom": "AFCB",
+          "team_ext": "WWFC",
+          "goals_team_dom": "1",
+          "goals_team_ext": "2"
+        },
+        {
+          "team_dom": "WFC",
+          "team_ext": "BFC",
+          "goals_team_dom": "0",
+          "goals_team_ext": "3"
+        },
+        {
+          "team_dom": "EFC",
+          "team_ext": "NCFC",
+          "goals_team_dom": "0",
+          "goals_team_ext": "2"
+        },
+        {
+          "team_dom": "MCFC",
+          "team_ext": "CFC",
+          "goals_team_dom": "2",
+          "goals_team_ext": "1"
+        },
+        {
+          "team_dom": "SUFC",
+          "team_ext": "MUFC",
+          "goals_team_dom": "3",
+          "goals_team_ext": "3"
+        },
+        {
+          "team_dom": "AVFC",
+          "team_ext": "NUFC",
+          "goals_team_dom": "2",
+          "goals_team_ext": "0"
+        }
+      ]
+    },
+    {
+      "day": 14,
+      "games": [
+        {
+          "team_dom": "NUFC",
+          "team_ext": "MCFC",
+          "goals_team_dom": "2",
+          "goals_team_ext": "2"
+        },
+        {
+          "team_dom": "LFC",
+          "team_ext": "BHFC",
+          "goals_team_dom": "2",
+          "goals_team_ext": "1"
+        },
+        {
+          "team_dom": "CFC",
+          "team_ext": "WHFC",
+          "goals_team_dom": "0",
+          "goals_team_ext": "1"
+        },
+        {
+          "team_dom": "BFC",
+          "team_ext": "CP",
+          "goals_team_dom": "0",
+          "goals_team_ext": "2"
+        },
+        {
+          "team_dom": "THFC",
+          "team_ext": "AFCB",
+          "goals_team_dom": "3",
+          "goals_team_ext": "2"
+        },
+        {
+          "team_dom": "SFC",
+          "team_ext": "WFC",
+          "goals_team_dom": "2",
+          "goals_team_ext": "1"
+        },
+        {
+          "team_dom": "WWFC",
+          "team_ext": "SUFC",
+          "goals_team_dom": "1",
+          "goals_team_ext": "1"
+        },
+        {
+          "team_dom": "NCFC",
+          "team_ext": "AFC",
+          "goals_team_dom": "2",
+          "goals_team_ext": "2"
+        },
+        {
+          "team_dom": "LCFC",
+          "team_ext": "EFC",
+          "goals_team_dom": "2",
+          "goals_team_ext": "1"
+        },
+        {
+          "team_dom": "MUFC",
+          "team_ext": "AVFC",
+          "goals_team_dom": "2",
+          "goals_team_ext": "2"
+        }
+      ]
+    },
+    {
+      "day": 15,
+      "games": [
+        {
+          "team_dom": "CP",
+          "team_ext": "AFCB",
+          "goals_team_dom": "1",
+          "goals_team_ext": "0"
+        },
+        {
+          "team_dom": "BFC",
+          "team_ext": "MCFC",
+          "goals_team_dom": "1",
+          "goals_team_ext": "4"
+        },
+        {
+          "team_dom": "LCFC",
+          "team_ext": "WFC",
+          "goals_team_dom": "2",
+          "goals_team_ext": "0"
+        },
+        {
+          "team_dom": "CFC",
+          "team_ext": "AVFC",
+          "goals_team_dom": "2",
+          "goals_team_ext": "1"
+        },
+        {
+          "team_dom": "MUFC",
+          "team_ext": "THFC",
+          "goals_team_dom": "2",
+          "goals_team_ext": "1"
+        },
+        {
+          "team_dom": "WWFC",
+          "team_ext": "WHFC",
+          "goals_team_dom": "2",
+          "goals_team_ext": "0"
+        },
+        {
+          "team_dom": "SFC",
+          "team_ext": "NCFC",
+          "goals_team_dom": "2",
+          "goals_team_ext": "1"
+        },
+        {
+          "team_dom": "LFC",
+          "team_ext": "EFC",
+          "goals_team_dom": "5",
+          "goals_team_ext": "2"
+        },
+        {
+          "team_dom": "SUFC",
+          "team_ext": "NUFC",
+          "goals_team_dom": "0",
+          "goals_team_ext": "2"
+        },
+        {
+          "team_dom": "AFC",
+          "team_ext": "BHFC",
+          "goals_team_dom": "1",
+          "goals_team_ext": "2"
+        }
+      ]
+    },
+    {
+      "day": 16,
+      "games": [
+        {
+          "team_dom": "EFC",
+          "team_ext": "CFC",
+          "goals_team_dom": "3",
+          "goals_team_ext": "1"
+        },
+        {
+          "team_dom": "AFCB",
+          "team_ext": "LFC",
+          "goals_team_dom": "0",
+          "goals_team_ext": "3"
+        },
+        {
+          "team_dom": "WFC",
+          "team_ext": "CP",
+          "goals_team_dom": "0",
+          "goals_team_ext": "0"
+        },
+        {
+          "team_dom": "THFC",
+          "team_ext": "BFC",
+          "goals_team_dom": "5",
+          "goals_team_ext": "0"
+        },
+        {
+          "team_dom": "MCFC",
+          "team_ext": "MUFC",
+          "goals_team_dom": "1",
+          "goals_team_ext": "2"
+        },
+        {
+          "team_dom": "AVFC",
+          "team_ext": "LCFC",
+          "goals_team_dom": "1",
+          "goals_team_ext": "4"
+        },
+        {
+          "team_dom": "NCFC",
+          "team_ext": "SUFC",
+          "goals_team_dom": "1",
+          "goals_team_ext": "2"
+        },
+        {
+          "team_dom": "NUFC",
+          "team_ext": "SFC",
+          "goals_team_dom": "2",
+          "goals_team_ext": "1"
+        },
+        {
+          "team_dom": "BHFC",
+          "team_ext": "WWFC",
+          "goals_team_dom": "2",
+          "goals_team_ext": "2"
+        },
+        {
+          "team_dom": "WHFC",
+          "team_ext": "AFC",
+          "goals_team_dom": "1",
+          "goals_team_ext": "3"
+        }
+      ]
+    },
+    {
+      "day": 17,
+      "games": [
+        {
+          "team_dom": "LFC",
+          "team_ext": "WFC",
+          "goals_team_dom": "2",
+          "goals_team_ext": "0"
+        },
+        {
+          "team_dom": "LCFC",
+          "team_ext": "NCFC",
+          "goals_team_dom": "1",
+          "goals_team_ext": "1"
+        },
+        {
+          "team_dom": "CFC",
+          "team_ext": "AFCB",
+          "goals_team_dom": "0",
+          "goals_team_ext": "1"
+        },
+        {
+          "team_dom": "SUFC",
+          "team_ext": "AVFC",
+          "goals_team_dom": "2",
+          "goals_team_ext": "0"
+        },
+        {
+          "team_dom": "BFC",
+          "team_ext": "NUFC",
+          "goals_team_dom": "1",
+          "goals_team_ext": "0"
+        },
+        {
+          "team_dom": "SFC",
+          "team_ext": "WHFC",
+          "goals_team_dom": "0",
+          "goals_team_ext": "1"
+        },
+        {
+          "team_dom": "MUFC",
+          "team_ext": "EFC",
+          "goals_team_dom": "1",
+          "goals_team_ext": "1"
+        },
+        {
+          "team_dom": "WWFC",
+          "team_ext": "THFC",
+          "goals_team_dom": "1",
+          "goals_team_ext": "2"
+        },
+        {
+          "team_dom": "AFC",
+          "team_ext": "MCFC",
+          "goals_team_dom": "0",
+          "goals_team_ext": "3"
+        },
+        {
+          "team_dom": "CP",
+          "team_ext": "BHFC",
+          "goals_team_dom": "1",
+          "goals_team_ext": "1"
+        }
+      ]
+    },
+    {
+      "day": 18,
+      "games": [
+        {
+          "team_dom": "EFC",
+          "team_ext": "AFC",
+          "goals_team_dom": "0",
+          "goals_team_ext": "0"
+        },
+        {
+          "team_dom": "BHFC",
+          "team_ext": "SUFC",
+          "goals_team_dom": "0",
+          "goals_team_ext": "1"
+        },
+        {
+          "team_dom": "NCFC",
+          "team_ext": "WWFC",
+          "goals_team_dom": "1",
+          "goals_team_ext": "2"
+        },
+        {
+          "team_dom": "NUFC",
+          "team_ext": "CP",
+          "goals_team_dom": "1",
+          "goals_team_ext": "0"
+        },
+        {
+          "team_dom": "AFCB",
+          "team_ext": "BFC",
+          "goals_team_dom": "0",
+          "goals_team_ext": "1"
+        },
+        {
+          "team_dom": "AVFC",
+          "team_ext": "SFC",
+          "goals_team_dom": "1",
+          "goals_team_ext": "3"
+        },
+        {
+          "team_dom": "MCFC",
+          "team_ext": "LCFC",
+          "goals_team_dom": "3",
+          "goals_team_ext": "1"
+        },
+        {
+          "team_dom": "WFC",
+          "team_ext": "MUFC",
+          "goals_team_dom": "2",
+          "goals_team_ext": "0"
+        },
+        {
+          "team_dom": "THFC",
+          "team_ext": "CFC",
+          "goals_team_dom": "0",
+          "goals_team_ext": "2"
+        },
+        {
+          "team_dom": "WHFC",
+          "team_ext": "LFC",
+          "goals_team_dom": "0",
+          "goals_team_ext": "2"
+        }
+      ]
+    },
+    {
+      "day": 19,
+      "games": [
+        {
+          "team_dom": "THFC",
+          "team_ext": "BHFC",
+          "goals_team_dom": "2",
+          "goals_team_ext": "1"
+        },
+        {
+          "team_dom": "CFC",
+          "team_ext": "SFC",
+          "goals_team_dom": "0",
+          "goals_team_ext": "2"
+        },
+        {
+          "team_dom": "SUFC",
+          "team_ext": "WFC",
+          "goals_team_dom": "1",
+          "goals_team_ext": "1"
+        },
+        {
+          "team_dom": "EFC",
+          "team_ext": "BFC",
+          "goals_team_dom": "1",
+          "goals_team_ext": "0"
+        },
+        {
+          "team_dom": "AFCB",
+          "team_ext": "AFC",
+          "goals_team_dom": "1",
+          "goals_team_ext": "1"
+        },
+        {
+          "team_dom": "CP",
+          "team_ext": "WHFC",
+          "goals_team_dom": "2",
+          "goals_team_ext": "1"
+        },
+        {
+          "team_dom": "AVFC",
+          "team_ext": "NCFC",
+          "goals_team_dom": "1",
+          "goals_team_ext": "0"
+        },
+        {
+          "team_dom": "MUFC",
+          "team_ext": "NUFC",
+          "goals_team_dom": "4",
+          "goals_team_ext": "1"
+        },
+        {
+          "team_dom": "LCFC",
+          "team_ext": "LFC",
+          "goals_team_dom": "0",
+          "goals_team_ext": "4"
+        },
+        {
+          "team_dom": "WWFC",
+          "team_ext": "MCFC",
+          "goals_team_dom": "3",
+          "goals_team_ext": "2"
+        }
+      ]
+    },
+    {
+      "day": 20,
+      "games": [
+        {
+          "team_dom": "BHFC",
+          "team_ext": "AFCB",
+          "goals_team_dom": "2",
+          "goals_team_ext": "0"
+        },
+        {
+          "team_dom": "WFC",
+          "team_ext": "AVFC",
+          "goals_team_dom": "3",
+          "goals_team_ext": "0"
+        },
+        {
+          "team_dom": "SFC",
+          "team_ext": "CP",
+          "goals_team_dom": "1",
+          "goals_team_ext": "1"
+        },
+        {
+          "team_dom": "NUFC",
+          "team_ext": "EFC",
+          "goals_team_dom": "1",
+          "goals_team_ext": "2"
+        },
+        {
+          "team_dom": "WHFC",
+          "team_ext": "LCFC",
+          "goals_team_dom": "1",
+          "goals_team_ext": "2"
+        },
+        {
+          "team_dom": "NCFC",
+          "team_ext": "THFC",
+          "goals_team_dom": "2",
+          "goals_team_ext": "2"
+        },
+        {
+          "team_dom": "BFC",
+          "team_ext": "MUFC",
+          "goals_team_dom": "0",
+          "goals_team_ext": "2"
+        },
+        {
+          "team_dom": "AFC",
+          "team_ext": "CFC",
+          "goals_team_dom": "1",
+          "goals_team_ext": "2"
+        },
+        {
+          "team_dom": "LFC",
+          "team_ext": "WWFC",
+          "goals_team_dom": "1",
+          "goals_team_ext": "0"
+        },
+        {
+          "team_dom": "MCFC",
+          "team_ext": "SUFC",
+          "goals_team_dom": "2",
+          "goals_team_ext": "0"
+        }
+      ]
+    },
+    {
+      "day": 21,
+      "games": [
+        {
+          "team_dom": "BHFC",
+          "team_ext": "CFC",
+          "goals_team_dom": "1",
+          "goals_team_ext": "1"
+        },
+        {
+          "team_dom": "BFC",
+          "team_ext": "AVFC",
+          "goals_team_dom": "1",
+          "goals_team_ext": "2"
+        },
+        {
+          "team_dom": "NUFC",
+          "team_ext": "LCFC",
+          "goals_team_dom": "0",
+          "goals_team_ext": "3"
+        },
+        {
+          "team_dom": "SFC",
+          "team_ext": "THFC",
+          "goals_team_dom": "1",
+          "goals_team_ext": "0"
+        },
+        {
+          "team_dom": "WFC",
+          "team_ext": "WWFC",
+          "goals_team_dom": "2",
+          "goals_team_ext": "1"
+        },
+        {
+          "team_dom": "MCFC",
+          "team_ext": "EFC",
+          "goals_team_dom": "2",
+          "goals_team_ext": "1"
+        },
+        {
+          "team_dom": "NCFC",
+          "team_ext": "CP",
+          "goals_team_dom": "1",
+          "goals_team_ext": "1"
+        },
+        {
+          "team_dom": "WHFC",
+          "team_ext": "AFCB",
+          "goals_team_dom": "4",
+          "goals_team_ext": "0"
+        },
+        {
+          "team_dom": "AFC",
+          "team_ext": "MUFC",
+          "goals_team_dom": "2",
+          "goals_team_ext": "0"
+        },
+        {
+          "team_dom": "LFC",
+          "team_ext": "SUFC",
+          "goals_team_dom": "2",
+          "goals_team_ext": "0"
+        }
+      ]
+    },
+    {
+      "day": 22,
+      "games": [
+        {
+          "team_dom": "SUFC",
+          "team_ext": "WHFC",
+          "goals_team_dom": "1",
+          "goals_team_ext": "0"
+        },
+        {
+          "team_dom": "CP",
+          "team_ext": "AFC",
+          "goals_team_dom": "1",
+          "goals_team_ext": "1"
+        },
+        {
+          "team_dom": "LCFC",
+          "team_ext": "SFC",
+          "goals_team_dom": "1",
+          "goals_team_ext": "2"
+        },
+        {
+          "team_dom": "CFC",
+          "team_ext": "BFC",
+          "goals_team_dom": "3",
+          "goals_team_ext": "0"
+        },
+        {
+          "team_dom": "MUFC",
+          "team_ext": "NCFC",
+          "goals_team_dom": "4",
+          "goals_team_ext": "0"
+        },
+        {
+          "team_dom": "WWFC",
+          "team_ext": "NUFC",
+          "goals_team_dom": "1",
+          "goals_team_ext": "1"
+        },
+        {
+          "team_dom": "EFC",
+          "team_ext": "BHFC",
+          "goals_team_dom": "1",
+          "goals_team_ext": "0"
+        },
+        {
+          "team_dom": "THFC",
+          "team_ext": "LFC",
+          "goals_team_dom": "0",
+          "goals_team_ext": "1"
+        },
+        {
+          "team_dom": "AFCB",
+          "team_ext": "WFC",
+          "goals_team_dom": "0",
+          "goals_team_ext": "3"
+        },
+        {
+          "team_dom": "AVFC",
+          "team_ext": "MCFC",
+          "goals_team_dom": "1",
+          "goals_team_ext": "6"
+        }
+      ]
+    },
+    {
+      "day": 23,
+      "games": [
+        {
+          "team_dom": "WFC",
+          "team_ext": "THFC",
+          "goals_team_dom": "0",
+          "goals_team_ext": "0"
+        },
+        {
+          "team_dom": "MCFC",
+          "team_ext": "CP",
+          "goals_team_dom": "2",
+          "goals_team_ext": "2"
+        },
+        {
+          "team_dom": "AFC",
+          "team_ext": "SUFC",
+          "goals_team_dom": "1",
+          "goals_team_ext": "1"
+        },
+        {
+          "team_dom": "SFC",
+          "team_ext": "WWFC",
+          "goals_team_dom": "2",
+          "goals_team_ext": "3"
+        },
+        {
+          "team_dom": "WHFC",
+          "team_ext": "EFC",
+          "goals_team_dom": "1",
+          "goals_team_ext": "1"
+        },
+        {
+          "team_dom": "BHFC",
+          "team_ext": "AVFC",
+          "goals_team_dom": "1",
+          "goals_team_ext": "1"
+        },
+        {
+          "team_dom": "NCFC",
+          "team_ext": "AFCB",
+          "goals_team_dom": "1",
+          "goals_team_ext": "0"
+        },
+        {
+          "team_dom": "NUFC",
+          "team_ext": "CFC",
+          "goals_team_dom": "1",
+          "goals_team_ext": "0"
+        },
+        {
+          "team_dom": "BFC",
+          "team_ext": "LCFC",
+          "goals_team_dom": "2",
+          "goals_team_ext": "1"
+        },
+        {
+          "team_dom": "LFC",
+          "team_ext": "MUFC",
+          "goals_team_dom": "2",
+          "goals_team_ext": "0"
+        }
+      ]
+    },
+    {
+      "day": 24,
+      "games": [
+        {
+          "team_dom": "SUFC",
+          "team_ext": "MCFC",
+          "goals_team_dom": "0",
+          "goals_team_ext": "1"
+        },
+        {
+          "team_dom": "CP",
+          "team_ext": "SFC",
+          "goals_team_dom": "0",
+          "goals_team_ext": "2"
+        },
+        {
+          "team_dom": "EFC",
+          "team_ext": "NUFC",
+          "goals_team_dom": "2",
+          "goals_team_ext": "2"
+        },
+        {
+          "team_dom": "AFCB",
+          "team_ext": "BHFC",
+          "goals_team_dom": "3",
+          "goals_team_ext": "1"
+        },
+        {
+          "team_dom": "AVFC",
+          "team_ext": "WFC",
+          "goals_team_dom": "2",
+          "goals_team_ext": "1"
+        },
+        {
+          "team_dom": "CFC",
+          "team_ext": "AFC",
+          "goals_team_dom": "2",
+          "goals_team_ext": "2"
+        },
+        {
+          "team_dom": "LCFC",
+          "team_ext": "WHFC",
+          "goals_team_dom": "4",
+          "goals_team_ext": "1"
+        },
+        {
+          "team_dom": "THFC",
+          "team_ext": "NCFC",
+          "goals_team_dom": "2",
+          "goals_team_ext": "1"
+        },
+        {
+          "team_dom": "MUFC",
+          "team_ext": "BFC",
+          "goals_team_dom": "0",
+          "goals_team_ext": "2"
+        },
+        {
+          "team_dom": "WWFC",
+          "team_ext": "LFC",
+          "goals_team_dom": "1",
+          "goals_team_ext": "2"
+        }
+      ]
+    },
+    {
+      "day": 25,
+      "games": [
+        {
+          "team_dom": "LCFC",
+          "team_ext": "CFC",
+          "goals_team_dom": "2",
+          "goals_team_ext": "2"
+        },
+        {
+          "team_dom": "LFC",
+          "team_ext": "SFC",
+          "goals_team_dom": "4",
+          "goals_team_ext": "0"
+        },
+        {
+          "team_dom": "CP",
+          "team_ext": "SUFC",
+          "goals_team_dom": "0",
+          "goals_team_ext": "1"
+        },
+        {
+          "team_dom": "WFC",
+          "team_ext": "EFC",
+          "goals_team_dom": "2",
+          "goals_team_ext": "3"
+        },
+        {
+          "team_dom": "NUFC",
+          "team_ext": "NCFC",
+          "goals_team_dom": "0",
+          "goals_team_ext": "0"
+        },
+        {
+          "team_dom": "WHFC",
+          "team_ext": "BHFC",
+          "goals_team_dom": "3",
+          "goals_team_ext": "3"
+        },
+        {
+          "team_dom": "AFCB",
+          "team_ext": "AVFC",
+          "goals_team_dom": "2",
+          "goals_team_ext": "1"
+        },
+        {
+          "team_dom": "MUFC",
+          "team_ext": "WWFC",
+          "goals_team_dom": "0",
+          "goals_team_ext": "0"
+        },
+        {
+          "team_dom": "BFC",
+          "team_ext": "AFC",
+          "goals_team_dom": "0",
+          "goals_team_ext": "0"
+        },
+        {
+          "team_dom": "THFC",
+          "team_ext": "MCFC",
+          "goals_team_dom": "2",
+          "goals_team_ext": "0"
+        }
+      ]
+    },
+    {
+      "day": 26,
+      "games": [
+        {
+          "team_dom": "EFC",
+          "team_ext": "CP",
+          "goals_team_dom": "3",
+          "goals_team_ext": "1"
+        },
+        {
+          "team_dom": "BHFC",
+          "team_ext": "WFC",
+          "goals_team_dom": "1",
+          "goals_team_ext": "1"
+        },
+        {
+          "team_dom": "SUFC",
+          "team_ext": "AFCB",
+          "goals_team_dom": "2",
+          "goals_team_ext": "1"
+        },
+        {
+          "team_dom": "WWFC",
+          "team_ext": "LCFC",
+          "goals_team_dom": "0",
+          "goals_team_ext": "0"
+        },
+        {
+          "team_dom": "SFC",
+          "team_ext": "BFC",
+          "goals_team_dom": "1",
+          "goals_team_ext": "2"
+        },
+        {
+          "team_dom": "NCFC",
+          "team_ext": "LFC",
+          "goals_team_dom": "0",
+          "goals_team_ext": "1"
+        },
+        {
+          "team_dom": "AVFC",
+          "team_ext": "THFC",
+          "goals_team_dom": "2",
+          "goals_team_ext": "3"
+        },
+        {
+          "team_dom": "AFC",
+          "team_ext": "NUFC",
+          "goals_team_dom": "4",
+          "goals_team_ext": "0"
+        },
+        {
+          "team_dom": "CFC",
+          "team_ext": "MUFC",
+          "goals_team_dom": "0",
+          "goals_team_ext": "2"
+        },
+        {
+          "team_dom": "MCFC",
+          "team_ext": "WHFC",
+          "goals_team_dom": "2",
+          "goals_team_ext": "0"
+        }
+      ]
+    },
+    {
+      "day": 27,
+      "games": [
+        {
+          "team_dom": "CFC",
+          "team_ext": "THFC",
+          "goals_team_dom": "2",
+          "goals_team_ext": "1"
+        },
+        {
+          "team_dom": "SUFC",
+          "team_ext": "BHFC",
+          "goals_team_dom": "1",
+          "goals_team_ext": "1"
+        },
+        {
+          "team_dom": "BFC",
+          "team_ext": "AFCB",
+          "goals_team_dom": "3",
+          "goals_team_ext": "0"
+        },
+        {
+          "team_dom": "SFC",
+          "team_ext": "AVFC",
+          "goals_team_dom": "2",
+          "goals_team_ext": "0"
+        },
+        {
+          "team_dom": "CP",
+          "team_ext": "NUFC",
+          "goals_team_dom": "1",
+          "goals_team_ext": "0"
+        },
+        {
+          "team_dom": "LCFC",
+          "team_ext": "MCFC",
+          "goals_team_dom": "0",
+          "goals_team_ext": "1"
+        },
+        {
+          "team_dom": "MUFC",
+          "team_ext": "WFC",
+          "goals_team_dom": "3",
+          "goals_team_ext": "0"
+        },
+        {
+          "team_dom": "WWFC",
+          "team_ext": "NCFC",
+          "goals_team_dom": "3",
+          "goals_team_ext": "0"
+        },
+        {
+          "team_dom": "AFC",
+          "team_ext": "EFC",
+          "goals_team_dom": "3",
+          "goals_team_ext": "2"
+        },
+        {
+          "team_dom": "LFC",
+          "team_ext": "WHFC",
+          "goals_team_dom": "3",
+          "goals_team_ext": "2"
+        }
+      ]
+    },
+    {
+      "day": 28,
+      "games": [
+        {
+          "team_dom": "NCFC",
+          "team_ext": "LCFC",
+          "goals_team_dom": "1",
+          "goals_team_ext": "0"
+        },
+        {
+          "team_dom": "BHFC",
+          "team_ext": "CP",
+          "goals_team_dom": "0",
+          "goals_team_ext": "1"
+        },
+        {
+          "team_dom": "AFCB",
+          "team_ext": "CFC",
+          "goals_team_dom": "2",
+          "goals_team_ext": "2"
+        },
+        {
+          "team_dom": "NUFC",
+          "team_ext": "BFC",
+          "goals_team_dom": "0",
+          "goals_team_ext": "0"
+        },
+        {
+          "team_dom": "WHFC",
+          "team_ext": "SFC",
+          "goals_team_dom": "3",
+          "goals_team_ext": "1"
+        },
+        {
+          "team_dom": "WFC",
+          "team_ext": "LFC",
+          "goals_team_dom": "3",
+          "goals_team_ext": "0"
+        },
+        {
+          "team_dom": "AVFC",
+          "team_ext": "SUFC",
+          "goals_team_dom": -1,
+          "goals_team_ext": -1
+        },
+        {
+          "team_dom": "EFC",
+          "team_ext": "MUFC",
+          "goals_team_dom": "1",
+          "goals_team_ext": "1"
+        },
+        {
+          "team_dom": "THFC",
+          "team_ext": "WWFC",
+          "goals_team_dom": "2",
+          "goals_team_ext": "3"
+        },
+        {
+          "team_dom": "MCFC",
+          "team_ext": "AFC",
+          "goals_team_dom": -1,
+          "goals_team_ext": -1
+        }
+      ]
+    },
+    {
+      "day": 29,
+      "games": [
+        {
+          "team_dom": "LFC",
+          "team_ext": "AFCB",
+          "goals_team_dom": "2",
+          "goals_team_ext": "1"
+        },
+        {
+          "team_dom": "WWFC",
+          "team_ext": "BHFC",
+          "goals_team_dom": "0",
+          "goals_team_ext": "0"
+        },
+        {
+          "team_dom": "SUFC",
+          "team_ext": "NCFC",
+          "goals_team_dom": "1",
+          "goals_team_ext": "0"
+        },
+        {
+          "team_dom": "AFC",
+          "team_ext": "WHFC",
+          "goals_team_dom": "1",
+          "goals_team_ext": "0"
+        },
+        {
+          "team_dom": "CP",
+          "team_ext": "WFC",
+          "goals_team_dom": "1",
+          "goals_team_ext": "0"
+        },
+        {
+          "team_dom": "SFC",
+          "team_ext": "NUFC",
+          "goals_team_dom": "0",
+          "goals_team_ext": "1"
+        },
+        {
+          "team_dom": "BFC",
+          "team_ext": "THFC",
+          "goals_team_dom": "1",
+          "goals_team_ext": "1"
+        },
+        {
+          "team_dom": "CFC",
+          "team_ext": "EFC",
+          "goals_team_dom": "4",
+          "goals_team_ext": "0"
+        },
+        {
+          "team_dom": "MUFC",
+          "team_ext": "MCFC",
+          "goals_team_dom": "2",
+          "goals_team_ext": "0"
+        },
+        {
+          "team_dom": "LCFC",
+          "team_ext": "AVFC",
+          "goals_team_dom": "4",
+          "goals_team_ext": "0"
+        }
+      ]
+    }
+  ]
+}

@@ -1,10 +1,9 @@
-#evolution{
+#evolution {
   width: 100%;
-  height: 100%;
   font-family: Sans-Serif, Arial;
 }
 
-#evolution svg{
+#evolution svg {
   /* width: 100%;
   height: 100%; */
 }
@@ -21,6 +20,48 @@
   font-size: 12px;
 }
 
-.title-text {
+.title-text,
+.day-text {
   font-size: 12px;
+}
+
+.day-text {
+  font-weight: bold;
+}
+
+.teams {
+  font-family: Sans-Serif, Arial;
+  display: flex;
+  flex-wrap: wrap;
+  margin: 0 50px 30px 50px;
+  padding: 0;
+  font-size: 0.9em;
+}
+
+.teams li {
+  list-style: none;
+  flex: 1 1 20%;
+  margin: 0 0 5px 0;
+  padding: 0;
+}
+
+.teams li.all {
+  list-style: none;
+  flex: 1 1 100%;
+  margin: 0 0 5px 0;
+  padding: 0;
+}
+
+.teams li label {
+  display: flex;
+  align-content: center;
+}
+
+.line-group,
+.circles-group {
+}
+
+.line-group.hidden,
+.circles-group.hidden {
+  display: none;
 }

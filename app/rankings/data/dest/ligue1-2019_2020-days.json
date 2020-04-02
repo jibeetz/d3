@@ -1,0 +1,1826 @@
+{
+  "ligue": "Ligue 1",
+  "year": "2019-2020",
+  "days": [
+    {
+      "day": 1,
+      "games": [
+        {
+          "team_dom": "ASM",
+          "team_ext": "OL",
+          "goals_team_dom": "0",
+          "goals_team_ext": "3"
+        },
+        {
+          "team_dom": "OM",
+          "team_ext": "SDR",
+          "goals_team_dom": "0",
+          "goals_team_ext": "2"
+        },
+        {
+          "team_dom": "SB",
+          "team_ext": "TFC",
+          "goals_team_dom": "1",
+          "goals_team_ext": "1"
+        },
+        {
+          "team_dom": "MHSC",
+          "team_ext": "SRFC",
+          "goals_team_dom": "0",
+          "goals_team_ext": "1"
+        },
+        {
+          "team_dom": "DFCO",
+          "team_ext": "ASSE",
+          "goals_team_dom": "1",
+          "goals_team_ext": "2"
+        },
+        {
+          "team_dom": "OGCN",
+          "team_ext": "ASCF",
+          "goals_team_dom": "2",
+          "goals_team_ext": "1"
+        },
+        {
+          "team_dom": "SCOA",
+          "team_ext": "FCGB",
+          "goals_team_dom": "3",
+          "goals_team_ext": "1"
+        },
+        {
+          "team_dom": "LOSC",
+          "team_ext": "FCN",
+          "goals_team_dom": "2",
+          "goals_team_ext": "1"
+        },
+        {
+          "team_dom": "RCSA",
+          "team_ext": "FCM",
+          "goals_team_dom": "1",
+          "goals_team_ext": "1"
+        },
+        {
+          "team_dom": "PSG",
+          "team_ext": "NO",
+          "goals_team_dom": "3",
+          "goals_team_ext": "0"
+        }
+      ]
+    },
+    {
+      "day": 2,
+      "games": [
+        {
+          "team_dom": "OL",
+          "team_ext": "SCOA",
+          "goals_team_dom": "6",
+          "goals_team_ext": "0"
+        },
+        {
+          "team_dom": "FCN",
+          "team_ext": "OM",
+          "goals_team_dom": "0",
+          "goals_team_ext": "0"
+        },
+        {
+          "team_dom": "ASCF",
+          "team_ext": "LOSC",
+          "goals_team_dom": "1",
+          "goals_team_ext": "0"
+        },
+        {
+          "team_dom": "NO",
+          "team_ext": "OGCN",
+          "goals_team_dom": "1",
+          "goals_team_ext": "2"
+        },
+        {
+          "team_dom": "TFC",
+          "team_ext": "DFCO",
+          "goals_team_dom": "1",
+          "goals_team_ext": "0"
+        },
+        {
+          "team_dom": "FCM",
+          "team_ext": "ASM",
+          "goals_team_dom": "3",
+          "goals_team_ext": "0"
+        },
+        {
+          "team_dom": "FCGB",
+          "team_ext": "MHSC",
+          "goals_team_dom": "1",
+          "goals_team_ext": "1"
+        },
+        {
+          "team_dom": "ASSE",
+          "team_ext": "SB",
+          "goals_team_dom": "1",
+          "goals_team_ext": "1"
+        },
+        {
+          "team_dom": "SDR",
+          "team_ext": "RCSA",
+          "goals_team_dom": "0",
+          "goals_team_ext": "0"
+        },
+        {
+          "team_dom": "SRFC",
+          "team_ext": "PSG",
+          "goals_team_dom": "2",
+          "goals_team_ext": "1"
+        }
+      ]
+    },
+    {
+      "day": 3,
+      "games": [
+        {
+          "team_dom": "SCOA",
+          "team_ext": "FCM",
+          "goals_team_dom": "3",
+          "goals_team_ext": "0"
+        },
+        {
+          "team_dom": "SB",
+          "team_ext": "SDR",
+          "goals_team_dom": "1",
+          "goals_team_ext": "0"
+        },
+        {
+          "team_dom": "ASCF",
+          "team_ext": "FCN",
+          "goals_team_dom": "1",
+          "goals_team_ext": "2"
+        },
+        {
+          "team_dom": "DFCO",
+          "team_ext": "FCGB",
+          "goals_team_dom": "0",
+          "goals_team_ext": "2"
+        },
+        {
+          "team_dom": "ASM",
+          "team_ext": "NO",
+          "goals_team_dom": "2",
+          "goals_team_ext": "2"
+        },
+        {
+          "team_dom": "RCSA",
+          "team_ext": "SRFC",
+          "goals_team_dom": "0",
+          "goals_team_ext": "2"
+        },
+        {
+          "team_dom": "PSG",
+          "team_ext": "TFC",
+          "goals_team_dom": "4",
+          "goals_team_ext": "0"
+        },
+        {
+          "team_dom": "MHSC",
+          "team_ext": "OL",
+          "goals_team_dom": "1",
+          "goals_team_ext": "0"
+        },
+        {
+          "team_dom": "LOSC",
+          "team_ext": "ASSE",
+          "goals_team_dom": "3",
+          "goals_team_ext": "0"
+        },
+        {
+          "team_dom": "OGCN",
+          "team_ext": "OM",
+          "goals_team_dom": "1",
+          "goals_team_ext": "2"
+        }
+      ]
+    },
+    {
+      "day": 4,
+      "games": [
+        {
+          "team_dom": "FCM",
+          "team_ext": "PSG",
+          "goals_team_dom": "0",
+          "goals_team_ext": "2"
+        },
+        {
+          "team_dom": "OL",
+          "team_ext": "FCGB",
+          "goals_team_dom": "1",
+          "goals_team_ext": "1"
+        },
+        {
+          "team_dom": "SCOA",
+          "team_ext": "DFCO",
+          "goals_team_dom": "2",
+          "goals_team_ext": "0"
+        },
+        {
+          "team_dom": "NO",
+          "team_ext": "SB",
+          "goals_team_dom": "3",
+          "goals_team_ext": "0"
+        },
+        {
+          "team_dom": "FCN",
+          "team_ext": "MHSC",
+          "goals_team_dom": "1",
+          "goals_team_ext": "0"
+        },
+        {
+          "team_dom": "TFC",
+          "team_ext": "ASCF",
+          "goals_team_dom": "2",
+          "goals_team_ext": "0"
+        },
+        {
+          "team_dom": "SRFC",
+          "team_ext": "OGCN",
+          "goals_team_dom": "1",
+          "goals_team_ext": "2"
+        },
+        {
+          "team_dom": "SDR",
+          "team_ext": "LOSC",
+          "goals_team_dom": "2",
+          "goals_team_ext": "0"
+        },
+        {
+          "team_dom": "RCSA",
+          "team_ext": "ASM",
+          "goals_team_dom": "2",
+          "goals_team_ext": "2"
+        },
+        {
+          "team_dom": "OM",
+          "team_ext": "ASSE",
+          "goals_team_dom": "1",
+          "goals_team_ext": "0"
+        }
+      ]
+    },
+    {
+      "day": 5,
+      "games": [
+        {
+          "team_dom": "LOSC",
+          "team_ext": "SCOA",
+          "goals_team_dom": "2",
+          "goals_team_ext": "1"
+        },
+        {
+          "team_dom": "ASCF",
+          "team_ext": "OL",
+          "goals_team_dom": "2",
+          "goals_team_ext": "2"
+        },
+        {
+          "team_dom": "PSG",
+          "team_ext": "RCSA",
+          "goals_team_dom": "1",
+          "goals_team_ext": "0"
+        },
+        {
+          "team_dom": "SB",
+          "team_ext": "SRFC",
+          "goals_team_dom": "0",
+          "goals_team_ext": "0"
+        },
+        {
+          "team_dom": "MHSC",
+          "team_ext": "OGCN",
+          "goals_team_dom": "2",
+          "goals_team_ext": "1"
+        },
+        {
+          "team_dom": "FCGB",
+          "team_ext": "FCM",
+          "goals_team_dom": "2",
+          "goals_team_ext": "0"
+        },
+        {
+          "team_dom": "DFCO",
+          "team_ext": "NO",
+          "goals_team_dom": "0",
+          "goals_team_ext": "0"
+        },
+        {
+          "team_dom": "FCN",
+          "team_ext": "SDR",
+          "goals_team_dom": "1",
+          "goals_team_ext": "0"
+        },
+        {
+          "team_dom": "ASSE",
+          "team_ext": "TFC",
+          "goals_team_dom": "2",
+          "goals_team_ext": "2"
+        },
+        {
+          "team_dom": "ASM",
+          "team_ext": "OM",
+          "goals_team_dom": "3",
+          "goals_team_ext": "4"
+        }
+      ]
+    },
+    {
+      "day": 6,
+      "games": [
+        {
+          "team_dom": "RCSA",
+          "team_ext": "FCN",
+          "goals_team_dom": "2",
+          "goals_team_ext": "1"
+        },
+        {
+          "team_dom": "OM",
+          "team_ext": "MHSC",
+          "goals_team_dom": "1",
+          "goals_team_ext": "1"
+        },
+        {
+          "team_dom": "OGCN",
+          "team_ext": "DFCO",
+          "goals_team_dom": "2",
+          "goals_team_ext": "1"
+        },
+        {
+          "team_dom": "FCGB",
+          "team_ext": "SB",
+          "goals_team_dom": "2",
+          "goals_team_ext": "2"
+        },
+        {
+          "team_dom": "NO",
+          "team_ext": "TFC",
+          "goals_team_dom": "1",
+          "goals_team_ext": "0"
+        },
+        {
+          "team_dom": "SDR",
+          "team_ext": "ASM",
+          "goals_team_dom": "0",
+          "goals_team_ext": "0"
+        },
+        {
+          "team_dom": "FCM",
+          "team_ext": "ASCF",
+          "goals_team_dom": "1",
+          "goals_team_ext": "2"
+        },
+        {
+          "team_dom": "SRFC",
+          "team_ext": "LOSC",
+          "goals_team_dom": "1",
+          "goals_team_ext": "1"
+        },
+        {
+          "team_dom": "SCOA",
+          "team_ext": "ASSE",
+          "goals_team_dom": "4",
+          "goals_team_ext": "1"
+        },
+        {
+          "team_dom": "OL",
+          "team_ext": "PSG",
+          "goals_team_dom": "0",
+          "goals_team_ext": "1"
+        }
+      ]
+    },
+    {
+      "day": 7,
+      "games": [
+        {
+          "team_dom": "DFCO",
+          "team_ext": "OM",
+          "goals_team_dom": "0",
+          "goals_team_ext": "0"
+        },
+        {
+          "team_dom": "ASM",
+          "team_ext": "OGCN",
+          "goals_team_dom": "3",
+          "goals_team_ext": "1"
+        },
+        {
+          "team_dom": "TFC",
+          "team_ext": "SCOA",
+          "goals_team_dom": "0",
+          "goals_team_ext": "2"
+        },
+        {
+          "team_dom": "FCN",
+          "team_ext": "SRFC",
+          "goals_team_dom": "1",
+          "goals_team_ext": "0"
+        },
+        {
+          "team_dom": "LOSC",
+          "team_ext": "RCSA",
+          "goals_team_dom": "2",
+          "goals_team_ext": "0"
+        },
+        {
+          "team_dom": "ASCF",
+          "team_ext": "FCGB",
+          "goals_team_dom": "1",
+          "goals_team_ext": "3"
+        },
+        {
+          "team_dom": "SB",
+          "team_ext": "OL",
+          "goals_team_dom": "2",
+          "goals_team_ext": "2"
+        },
+        {
+          "team_dom": "MHSC",
+          "team_ext": "NO",
+          "goals_team_dom": "1",
+          "goals_team_ext": "0"
+        },
+        {
+          "team_dom": "ASSE",
+          "team_ext": "FCM",
+          "goals_team_dom": "0",
+          "goals_team_ext": "1"
+        },
+        {
+          "team_dom": "PSG",
+          "team_ext": "SDR",
+          "goals_team_dom": "0",
+          "goals_team_ext": "2"
+        }
+      ]
+    },
+    {
+      "day": 8,
+      "games": [
+        {
+          "team_dom": "OL",
+          "team_ext": "FCN",
+          "goals_team_dom": "0",
+          "goals_team_ext": "1"
+        },
+        {
+          "team_dom": "FCGB",
+          "team_ext": "PSG",
+          "goals_team_dom": "0",
+          "goals_team_ext": "1"
+        },
+        {
+          "team_dom": "SCOA",
+          "team_ext": "ASCF",
+          "goals_team_dom": "1",
+          "goals_team_ext": "1"
+        },
+        {
+          "team_dom": "OGCN",
+          "team_ext": "LOSC",
+          "goals_team_dom": "1",
+          "goals_team_ext": "1"
+        },
+        {
+          "team_dom": "SDR",
+          "team_ext": "DFCO",
+          "goals_team_dom": "1",
+          "goals_team_ext": "2"
+        },
+        {
+          "team_dom": "ASM",
+          "team_ext": "SB",
+          "goals_team_dom": "4",
+          "goals_team_ext": "1"
+        },
+        {
+          "team_dom": "FCM",
+          "team_ext": "TFC",
+          "goals_team_dom": "2",
+          "goals_team_ext": "2"
+        },
+        {
+          "team_dom": "RCSA",
+          "team_ext": "MHSC",
+          "goals_team_dom": "1",
+          "goals_team_ext": "0"
+        },
+        {
+          "team_dom": "NO",
+          "team_ext": "ASSE",
+          "goals_team_dom": "0",
+          "goals_team_ext": "1"
+        },
+        {
+          "team_dom": "OM",
+          "team_ext": "SRFC",
+          "goals_team_dom": "1",
+          "goals_team_ext": "1"
+        }
+      ]
+    },
+    {
+      "day": 9,
+      "games": [
+        {
+          "team_dom": "ASCF",
+          "team_ext": "OM",
+          "goals_team_dom": "3",
+          "goals_team_ext": "1"
+        },
+        {
+          "team_dom": "PSG",
+          "team_ext": "SCOA",
+          "goals_team_dom": "4",
+          "goals_team_ext": "0"
+        },
+        {
+          "team_dom": "FCN",
+          "team_ext": "OGCN",
+          "goals_team_dom": "1",
+          "goals_team_ext": "0"
+        },
+        {
+          "team_dom": "TFC",
+          "team_ext": "FCGB",
+          "goals_team_dom": "1",
+          "goals_team_ext": "3"
+        },
+        {
+          "team_dom": "MHSC",
+          "team_ext": "ASM",
+          "goals_team_dom": "3",
+          "goals_team_ext": "1"
+        },
+        {
+          "team_dom": "DFCO",
+          "team_ext": "RCSA",
+          "goals_team_dom": "1",
+          "goals_team_ext": "0"
+        },
+        {
+          "team_dom": "SB",
+          "team_ext": "FCM",
+          "goals_team_dom": "2",
+          "goals_team_ext": "0"
+        },
+        {
+          "team_dom": "LOSC",
+          "team_ext": "NO",
+          "goals_team_dom": "2",
+          "goals_team_ext": "2"
+        },
+        {
+          "team_dom": "SRFC",
+          "team_ext": "SDR",
+          "goals_team_dom": "0",
+          "goals_team_ext": "1"
+        },
+        {
+          "team_dom": "ASSE",
+          "team_ext": "OL",
+          "goals_team_dom": "1",
+          "goals_team_ext": "0"
+        }
+      ]
+    },
+    {
+      "day": 10,
+      "games": [
+        {
+          "team_dom": "OGCN",
+          "team_ext": "PSG",
+          "goals_team_dom": "1",
+          "goals_team_ext": "4"
+        },
+        {
+          "team_dom": "OL",
+          "team_ext": "DFCO",
+          "goals_team_dom": "0",
+          "goals_team_ext": "0"
+        },
+        {
+          "team_dom": "FCM",
+          "team_ext": "FCN",
+          "goals_team_dom": "1",
+          "goals_team_ext": "0"
+        },
+        {
+          "team_dom": "SCOA",
+          "team_ext": "SB",
+          "goals_team_dom": "0",
+          "goals_team_ext": "1"
+        },
+        {
+          "team_dom": "TFC",
+          "team_ext": "LOSC",
+          "goals_team_dom": "2",
+          "goals_team_ext": "1"
+        },
+        {
+          "team_dom": "SDR",
+          "team_ext": "MHSC",
+          "goals_team_dom": "1",
+          "goals_team_ext": "0"
+        },
+        {
+          "team_dom": "NO",
+          "team_ext": "ASCF",
+          "goals_team_dom": "1",
+          "goals_team_ext": "1"
+        },
+        {
+          "team_dom": "FCGB",
+          "team_ext": "ASSE",
+          "goals_team_dom": "0",
+          "goals_team_ext": "1"
+        },
+        {
+          "team_dom": "ASM",
+          "team_ext": "SRFC",
+          "goals_team_dom": "3",
+          "goals_team_ext": "2"
+        },
+        {
+          "team_dom": "OM",
+          "team_ext": "RCSA",
+          "goals_team_dom": "2",
+          "goals_team_ext": "0"
+        }
+      ]
+    },
+    {
+      "day": 11,
+      "games": [
+        {
+          "team_dom": "FCN",
+          "team_ext": "ASM",
+          "goals_team_dom": "0",
+          "goals_team_ext": "1"
+        },
+        {
+          "team_dom": "LOSC",
+          "team_ext": "FCGB",
+          "goals_team_dom": "3",
+          "goals_team_ext": "0"
+        },
+        {
+          "team_dom": "SDR",
+          "team_ext": "NO",
+          "goals_team_dom": "0",
+          "goals_team_ext": "0"
+        },
+        {
+          "team_dom": "MHSC",
+          "team_ext": "SCOA",
+          "goals_team_dom": "0",
+          "goals_team_ext": "0"
+        },
+        {
+          "team_dom": "SB",
+          "team_ext": "DFCO",
+          "goals_team_dom": "2",
+          "goals_team_ext": "0"
+        },
+        {
+          "team_dom": "RCSA",
+          "team_ext": "OGCN",
+          "goals_team_dom": "1",
+          "goals_team_ext": "0"
+        },
+        {
+          "team_dom": "OL",
+          "team_ext": "FCM",
+          "goals_team_dom": "2",
+          "goals_team_ext": "0"
+        },
+        {
+          "team_dom": "SRFC",
+          "team_ext": "TFC",
+          "goals_team_dom": "3",
+          "goals_team_ext": "2"
+        },
+        {
+          "team_dom": "ASSE",
+          "team_ext": "ASCF",
+          "goals_team_dom": "2",
+          "goals_team_ext": "2"
+        },
+        {
+          "team_dom": "PSG",
+          "team_ext": "OM",
+          "goals_team_dom": "4",
+          "goals_team_ext": "0"
+        }
+      ]
+    },
+    {
+      "day": 12,
+      "games": [
+        {
+          "team_dom": "DFCO",
+          "team_ext": "PSG",
+          "goals_team_dom": "2",
+          "goals_team_ext": "1"
+        },
+        {
+          "team_dom": "OM",
+          "team_ext": "LOSC",
+          "goals_team_dom": "2",
+          "goals_team_ext": "1"
+        },
+        {
+          "team_dom": "ASCF",
+          "team_ext": "SB",
+          "goals_team_dom": "1",
+          "goals_team_ext": "0"
+        },
+        {
+          "team_dom": "SCOA",
+          "team_ext": "RCSA",
+          "goals_team_dom": "1",
+          "goals_team_ext": "0"
+        },
+        {
+          "team_dom": "FCM",
+          "team_ext": "MHSC",
+          "goals_team_dom": "2",
+          "goals_team_ext": "2"
+        },
+        {
+          "team_dom": "TFC",
+          "team_ext": "OL",
+          "goals_team_dom": "2",
+          "goals_team_ext": "3"
+        },
+        {
+          "team_dom": "FCGB",
+          "team_ext": "FCN",
+          "goals_team_dom": "2",
+          "goals_team_ext": "0"
+        },
+        {
+          "team_dom": "OGCN",
+          "team_ext": "SDR",
+          "goals_team_dom": "2",
+          "goals_team_ext": "0"
+        },
+        {
+          "team_dom": "ASSE",
+          "team_ext": "ASM",
+          "goals_team_dom": "1",
+          "goals_team_ext": "0"
+        },
+        {
+          "team_dom": "NO",
+          "team_ext": "SRFC",
+          "goals_team_dom": "0",
+          "goals_team_ext": "1"
+        }
+      ]
+    },
+    {
+      "day": 13,
+      "games": [
+        {
+          "team_dom": "OGCN",
+          "team_ext": "FCGB",
+          "goals_team_dom": "1",
+          "goals_team_ext": "1"
+        },
+        {
+          "team_dom": "SB",
+          "team_ext": "PSG",
+          "goals_team_dom": "1",
+          "goals_team_ext": "2"
+        },
+        {
+          "team_dom": "SDR",
+          "team_ext": "SCOA",
+          "goals_team_dom": "0",
+          "goals_team_ext": "0"
+        },
+        {
+          "team_dom": "LOSC",
+          "team_ext": "FCM",
+          "goals_team_dom": "0",
+          "goals_team_ext": "0"
+        },
+        {
+          "team_dom": "ASM",
+          "team_ext": "DFCO",
+          "goals_team_dom": "1",
+          "goals_team_ext": "0"
+        },
+        {
+          "team_dom": "RCSA",
+          "team_ext": "NO",
+          "goals_team_dom": "4",
+          "goals_team_ext": "1"
+        },
+        {
+          "team_dom": "SRFC",
+          "team_ext": "ASCF",
+          "goals_team_dom": "3",
+          "goals_team_ext": "1"
+        },
+        {
+          "team_dom": "MHSC",
+          "team_ext": "TFC",
+          "goals_team_dom": "3",
+          "goals_team_ext": "0"
+        },
+        {
+          "team_dom": "FCN",
+          "team_ext": "ASSE",
+          "goals_team_dom": "2",
+          "goals_team_ext": "3"
+        },
+        {
+          "team_dom": "OM",
+          "team_ext": "OL",
+          "goals_team_dom": "2",
+          "goals_team_ext": "1"
+        }
+      ]
+    },
+    {
+      "day": 14,
+      "games": [
+        {
+          "team_dom": "PSG",
+          "team_ext": "LOSC",
+          "goals_team_dom": "2",
+          "goals_team_ext": "0"
+        },
+        {
+          "team_dom": "OL",
+          "team_ext": "OGCN",
+          "goals_team_dom": "2",
+          "goals_team_ext": "1"
+        },
+        {
+          "team_dom": "SCOA",
+          "team_ext": "NO",
+          "goals_team_dom": "1",
+          "goals_team_ext": "0"
+        },
+        {
+          "team_dom": "FCM",
+          "team_ext": "SDR",
+          "goals_team_dom": "1",
+          "goals_team_ext": "1"
+        },
+        {
+          "team_dom": "SB",
+          "team_ext": "FCN",
+          "goals_team_dom": "1",
+          "goals_team_ext": "1"
+        },
+        {
+          "team_dom": "DFCO",
+          "team_ext": "SRFC",
+          "goals_team_dom": "2",
+          "goals_team_ext": "1"
+        },
+        {
+          "team_dom": "ASCF",
+          "team_ext": "RCSA",
+          "goals_team_dom": "0",
+          "goals_team_ext": "4"
+        },
+        {
+          "team_dom": "FCGB",
+          "team_ext": "ASM",
+          "goals_team_dom": "2",
+          "goals_team_ext": "1"
+        },
+        {
+          "team_dom": "ASSE",
+          "team_ext": "MHSC",
+          "goals_team_dom": "0",
+          "goals_team_ext": "0"
+        },
+        {
+          "team_dom": "TFC",
+          "team_ext": "OM",
+          "goals_team_dom": "0",
+          "goals_team_ext": "2"
+        }
+      ]
+    },
+    {
+      "day": 15,
+      "games": [
+        {
+          "team_dom": "OM",
+          "team_ext": "SB",
+          "goals_team_dom": "2",
+          "goals_team_ext": "1"
+        },
+        {
+          "team_dom": "RCSA",
+          "team_ext": "OL",
+          "goals_team_dom": "1",
+          "goals_team_ext": "2"
+        },
+        {
+          "team_dom": "OGCN",
+          "team_ext": "SCOA",
+          "goals_team_dom": "3",
+          "goals_team_ext": "1"
+        },
+        {
+          "team_dom": "SDR",
+          "team_ext": "FCGB",
+          "goals_team_dom": "1",
+          "goals_team_ext": "1"
+        },
+        {
+          "team_dom": "MHSC",
+          "team_ext": "ASCF",
+          "goals_team_dom": "4",
+          "goals_team_ext": "2"
+        },
+        {
+          "team_dom": "LOSC",
+          "team_ext": "DFCO",
+          "goals_team_dom": "1",
+          "goals_team_ext": "0"
+        },
+        {
+          "team_dom": "NO",
+          "team_ext": "FCM",
+          "goals_team_dom": "1",
+          "goals_team_ext": "1"
+        },
+        {
+          "team_dom": "FCN",
+          "team_ext": "TFC",
+          "goals_team_dom": "2",
+          "goals_team_ext": "1"
+        },
+        {
+          "team_dom": "SRFC",
+          "team_ext": "ASSE",
+          "goals_team_dom": "2",
+          "goals_team_ext": "1"
+        },
+        {
+          "team_dom": "ASM",
+          "team_ext": "PSG",
+          "goals_team_dom": "1",
+          "goals_team_ext": "4"
+        }
+      ]
+    },
+    {
+      "day": 16,
+      "games": [
+        {
+          "team_dom": "SCOA",
+          "team_ext": "OM",
+          "goals_team_dom": "0",
+          "goals_team_ext": "2"
+        },
+        {
+          "team_dom": "FCGB",
+          "team_ext": "NO",
+          "goals_team_dom": "6",
+          "goals_team_ext": "0"
+        },
+        {
+          "team_dom": "SB",
+          "team_ext": "RCSA",
+          "goals_team_dom": "5",
+          "goals_team_ext": "0"
+        },
+        {
+          "team_dom": "OL",
+          "team_ext": "LOSC",
+          "goals_team_dom": "0",
+          "goals_team_ext": "1"
+        },
+        {
+          "team_dom": "FCM",
+          "team_ext": "SRFC",
+          "goals_team_dom": "0",
+          "goals_team_ext": "1"
+        },
+        {
+          "team_dom": "DFCO",
+          "team_ext": "MHSC",
+          "goals_team_dom": "2",
+          "goals_team_ext": "2"
+        },
+        {
+          "team_dom": "ASSE",
+          "team_ext": "OGCN",
+          "goals_team_dom": "4",
+          "goals_team_ext": "1"
+        },
+        {
+          "team_dom": "TFC",
+          "team_ext": "ASM",
+          "goals_team_dom": "1",
+          "goals_team_ext": "2"
+        },
+        {
+          "team_dom": "PSG",
+          "team_ext": "FCN",
+          "goals_team_dom": "2",
+          "goals_team_ext": "0"
+        },
+        {
+          "team_dom": "ASCF",
+          "team_ext": "SDR",
+          "goals_team_dom": "1",
+          "goals_team_ext": "1"
+        }
+      ]
+    },
+    {
+      "day": 17,
+      "games": [
+        {
+          "team_dom": "LOSC",
+          "team_ext": "SB",
+          "goals_team_dom": "1",
+          "goals_team_ext": "0"
+        },
+        {
+          "team_dom": "NO",
+          "team_ext": "OL",
+          "goals_team_dom": "0",
+          "goals_team_ext": "4"
+        },
+        {
+          "team_dom": "MHSC",
+          "team_ext": "PSG",
+          "goals_team_dom": "1",
+          "goals_team_ext": "3"
+        },
+        {
+          "team_dom": "SRFC",
+          "team_ext": "SCOA",
+          "goals_team_dom": "2",
+          "goals_team_ext": "1"
+        },
+        {
+          "team_dom": "ASM",
+          "team_ext": "ASCF",
+          "goals_team_dom": "3",
+          "goals_team_ext": "0"
+        },
+        {
+          "team_dom": "OGCN",
+          "team_ext": "FCM",
+          "goals_team_dom": "4",
+          "goals_team_ext": "1"
+        },
+        {
+          "team_dom": "RCSA",
+          "team_ext": "TFC",
+          "goals_team_dom": "4",
+          "goals_team_ext": "2"
+        },
+        {
+          "team_dom": "SDR",
+          "team_ext": "ASSE",
+          "goals_team_dom": "3",
+          "goals_team_ext": "1"
+        },
+        {
+          "team_dom": "FCN",
+          "team_ext": "DFCO",
+          "goals_team_dom": "1",
+          "goals_team_ext": "0"
+        },
+        {
+          "team_dom": "OM",
+          "team_ext": "FCGB",
+          "goals_team_dom": "3",
+          "goals_team_ext": "1"
+        }
+      ]
+    },
+    {
+      "day": 18,
+      "games": [
+        {
+          "team_dom": "LOSC",
+          "team_ext": "MHSC",
+          "goals_team_dom": "2",
+          "goals_team_ext": "1"
+        },
+        {
+          "team_dom": "FCM",
+          "team_ext": "OM",
+          "goals_team_dom": "1",
+          "goals_team_ext": "1"
+        },
+        {
+          "team_dom": "NO",
+          "team_ext": "FCN",
+          "goals_team_dom": "0",
+          "goals_team_ext": "1"
+        },
+        {
+          "team_dom": "TFC",
+          "team_ext": "SDR",
+          "goals_team_dom": "0",
+          "goals_team_ext": "1"
+        },
+        {
+          "team_dom": "SCOA",
+          "team_ext": "ASM",
+          "goals_team_dom": "0",
+          "goals_team_ext": "0"
+        },
+        {
+          "team_dom": "SB",
+          "team_ext": "OGCN",
+          "goals_team_dom": "0",
+          "goals_team_ext": "0"
+        },
+        {
+          "team_dom": "ASCF",
+          "team_ext": "DFCO",
+          "goals_team_dom": "1",
+          "goals_team_ext": "1"
+        },
+        {
+          "team_dom": "FCGB",
+          "team_ext": "RCSA",
+          "goals_team_dom": "0",
+          "goals_team_ext": "1"
+        },
+        {
+          "team_dom": "OL",
+          "team_ext": "SRFC",
+          "goals_team_dom": "0",
+          "goals_team_ext": "1"
+        },
+        {
+          "team_dom": "ASSE",
+          "team_ext": "PSG",
+          "goals_team_dom": "0",
+          "goals_team_ext": "4"
+        }
+      ]
+    },
+    {
+      "day": 19,
+      "games": [
+        {
+          "team_dom": "PSG",
+          "team_ext": "ASCF",
+          "goals_team_dom": "4",
+          "goals_team_ext": "1"
+        },
+        {
+          "team_dom": "OM",
+          "team_ext": "NO",
+          "goals_team_dom": "3",
+          "goals_team_ext": "1"
+        },
+        {
+          "team_dom": "SRFC",
+          "team_ext": "FCGB",
+          "goals_team_dom": "1",
+          "goals_team_ext": "0"
+        },
+        {
+          "team_dom": "ASM",
+          "team_ext": "LOSC",
+          "goals_team_dom": "5",
+          "goals_team_ext": "1"
+        },
+        {
+          "team_dom": "FCN",
+          "team_ext": "SCOA",
+          "goals_team_dom": "1",
+          "goals_team_ext": "2"
+        },
+        {
+          "team_dom": "SDR",
+          "team_ext": "OL",
+          "goals_team_dom": "1",
+          "goals_team_ext": "1"
+        },
+        {
+          "team_dom": "RCSA",
+          "team_ext": "ASSE",
+          "goals_team_dom": "2",
+          "goals_team_ext": "1"
+        },
+        {
+          "team_dom": "MHSC",
+          "team_ext": "SB",
+          "goals_team_dom": "4",
+          "goals_team_ext": "0"
+        },
+        {
+          "team_dom": "OGCN",
+          "team_ext": "TFC",
+          "goals_team_dom": "3",
+          "goals_team_ext": "0"
+        },
+        {
+          "team_dom": "DFCO",
+          "team_ext": "FCM",
+          "goals_team_dom": "2",
+          "goals_team_ext": "2"
+        }
+      ]
+    },
+    {
+      "day": 20,
+      "games": [
+        {
+          "team_dom": "SRFC",
+          "team_ext": "OM",
+          "goals_team_dom": "0",
+          "goals_team_ext": "1"
+        },
+        {
+          "team_dom": "FCGB",
+          "team_ext": "OL",
+          "goals_team_dom": "1",
+          "goals_team_ext": "2"
+        },
+        {
+          "team_dom": "NO",
+          "team_ext": "SDR",
+          "goals_team_dom": "2",
+          "goals_team_ext": "0"
+        },
+        {
+          "team_dom": "SCOA",
+          "team_ext": "OGCN",
+          "goals_team_dom": "1",
+          "goals_team_ext": "1"
+        },
+        {
+          "team_dom": "ASCF",
+          "team_ext": "MHSC",
+          "goals_team_dom": "1",
+          "goals_team_ext": "2"
+        },
+        {
+          "team_dom": "FCM",
+          "team_ext": "RCSA",
+          "goals_team_dom": "1",
+          "goals_team_ext": "0"
+        },
+        {
+          "team_dom": "TFC",
+          "team_ext": "SB",
+          "goals_team_dom": "2",
+          "goals_team_ext": "5"
+        },
+        {
+          "team_dom": "ASSE",
+          "team_ext": "FCN",
+          "goals_team_dom": "0",
+          "goals_team_ext": "2"
+        },
+        {
+          "team_dom": "DFCO",
+          "team_ext": "LOSC",
+          "goals_team_dom": "1",
+          "goals_team_ext": "0"
+        },
+        {
+          "team_dom": "PSG",
+          "team_ext": "ASM",
+          "goals_team_dom": "3",
+          "goals_team_ext": "3"
+        }
+      ]
+    },
+    {
+      "day": 21,
+      "games": [
+        {
+          "team_dom": "OGCN",
+          "team_ext": "SRFC",
+          "goals_team_dom": "1",
+          "goals_team_ext": "1"
+        },
+        {
+          "team_dom": "OM",
+          "team_ext": "SCOA",
+          "goals_team_dom": "0",
+          "goals_team_ext": "0"
+        },
+        {
+          "team_dom": "MHSC",
+          "team_ext": "DFCO",
+          "goals_team_dom": "2",
+          "goals_team_ext": "1"
+        },
+        {
+          "team_dom": "SDR",
+          "team_ext": "FCM",
+          "goals_team_dom": "0",
+          "goals_team_ext": "1"
+        },
+        {
+          "team_dom": "ASM",
+          "team_ext": "RCSA",
+          "goals_team_dom": "1",
+          "goals_team_ext": "3"
+        },
+        {
+          "team_dom": "SB",
+          "team_ext": "ASCF",
+          "goals_team_dom": "2",
+          "goals_team_ext": "1"
+        },
+        {
+          "team_dom": "ASSE",
+          "team_ext": "NO",
+          "goals_team_dom": "2",
+          "goals_team_ext": "1"
+        },
+        {
+          "team_dom": "OL",
+          "team_ext": "TFC",
+          "goals_team_dom": "3",
+          "goals_team_ext": "0"
+        },
+        {
+          "team_dom": "FCN",
+          "team_ext": "FCGB",
+          "goals_team_dom": "0",
+          "goals_team_ext": "1"
+        },
+        {
+          "team_dom": "LOSC",
+          "team_ext": "PSG",
+          "goals_team_dom": "0",
+          "goals_team_ext": "2"
+        }
+      ]
+    },
+    {
+      "day": 22,
+      "games": [
+        {
+          "team_dom": "SRFC",
+          "team_ext": "FCN",
+          "goals_team_dom": "3",
+          "goals_team_ext": "2"
+        },
+        {
+          "team_dom": "PSG",
+          "team_ext": "MHSC",
+          "goals_team_dom": "5",
+          "goals_team_ext": "0"
+        },
+        {
+          "team_dom": "RCSA",
+          "team_ext": "LOSC",
+          "goals_team_dom": "1",
+          "goals_team_ext": "2"
+        },
+        {
+          "team_dom": "SCOA",
+          "team_ext": "SDR",
+          "goals_team_dom": "1",
+          "goals_team_ext": "4"
+        },
+        {
+          "team_dom": "NO",
+          "team_ext": "ASM",
+          "goals_team_dom": "3",
+          "goals_team_ext": "1"
+        },
+        {
+          "team_dom": "DFCO",
+          "team_ext": "SB",
+          "goals_team_dom": "3",
+          "goals_team_ext": "0"
+        },
+        {
+          "team_dom": "ASCF",
+          "team_ext": "TFC",
+          "goals_team_dom": "0",
+          "goals_team_ext": "0"
+        },
+        {
+          "team_dom": "OGCN",
+          "team_ext": "OL",
+          "goals_team_dom": "2",
+          "goals_team_ext": "1"
+        },
+        {
+          "team_dom": "FCM",
+          "team_ext": "ASSE",
+          "goals_team_dom": "3",
+          "goals_team_ext": "1"
+        },
+        {
+          "team_dom": "FCGB",
+          "team_ext": "OM",
+          "goals_team_dom": "0",
+          "goals_team_ext": "0"
+        }
+      ]
+    },
+    {
+      "day": 23,
+      "games": [
+        {
+          "team_dom": "LOSC",
+          "team_ext": "SRFC",
+          "goals_team_dom": "1",
+          "goals_team_ext": "0"
+        },
+        {
+          "team_dom": "ASM",
+          "team_ext": "SCOA",
+          "goals_team_dom": "1",
+          "goals_team_ext": "0"
+        },
+        {
+          "team_dom": "FCN",
+          "team_ext": "PSG",
+          "goals_team_dom": "1",
+          "goals_team_ext": "2"
+        },
+        {
+          "team_dom": "MHSC",
+          "team_ext": "FCM",
+          "goals_team_dom": "1",
+          "goals_team_ext": "1"
+        },
+        {
+          "team_dom": "OL",
+          "team_ext": "ASCF",
+          "goals_team_dom": "0",
+          "goals_team_ext": "0"
+        },
+        {
+          "team_dom": "SDR",
+          "team_ext": "OGCN",
+          "goals_team_dom": "1",
+          "goals_team_ext": "1"
+        },
+        {
+          "team_dom": "SB",
+          "team_ext": "FCGB",
+          "goals_team_dom": "1",
+          "goals_team_ext": "1"
+        },
+        {
+          "team_dom": "TFC",
+          "team_ext": "RCSA",
+          "goals_team_dom": "0",
+          "goals_team_ext": "1"
+        },
+        {
+          "team_dom": "NO",
+          "team_ext": "DFCO",
+          "goals_team_dom": "2",
+          "goals_team_ext": "0"
+        },
+        {
+          "team_dom": "ASSE",
+          "team_ext": "OM",
+          "goals_team_dom": "0",
+          "goals_team_ext": "2"
+        }
+      ]
+    },
+    {
+      "day": 24,
+      "games": [
+        {
+          "team_dom": "SCOA",
+          "team_ext": "LOSC",
+          "goals_team_dom": "0",
+          "goals_team_ext": "2"
+        },
+        {
+          "team_dom": "OM",
+          "team_ext": "TFC",
+          "goals_team_dom": "1",
+          "goals_team_ext": "0"
+        },
+        {
+          "team_dom": "SRFC",
+          "team_ext": "SB",
+          "goals_team_dom": "0",
+          "goals_team_ext": "0"
+        },
+        {
+          "team_dom": "OGCN",
+          "team_ext": "NO",
+          "goals_team_dom": "1",
+          "goals_team_ext": "3"
+        },
+        {
+          "team_dom": "ASCF",
+          "team_ext": "ASM",
+          "goals_team_dom": "1",
+          "goals_team_ext": "2"
+        },
+        {
+          "team_dom": "DFCO",
+          "team_ext": "FCN",
+          "goals_team_dom": "3",
+          "goals_team_ext": "3"
+        },
+        {
+          "team_dom": "FCM",
+          "team_ext": "FCGB",
+          "goals_team_dom": "1",
+          "goals_team_ext": "2"
+        },
+        {
+          "team_dom": "MHSC",
+          "team_ext": "ASSE",
+          "goals_team_dom": "1",
+          "goals_team_ext": "0"
+        },
+        {
+          "team_dom": "RCSA",
+          "team_ext": "SDR",
+          "goals_team_dom": "3",
+          "goals_team_ext": "0"
+        },
+        {
+          "team_dom": "PSG",
+          "team_ext": "OL",
+          "goals_team_dom": "4",
+          "goals_team_ext": "2"
+        }
+      ]
+    },
+    {
+      "day": 25,
+      "games": [
+        {
+          "team_dom": "ASM",
+          "team_ext": "MHSC",
+          "goals_team_dom": "1",
+          "goals_team_ext": "0"
+        },
+        {
+          "team_dom": "ASCF",
+          "team_ext": "PSG",
+          "goals_team_dom": "4",
+          "goals_team_ext": "4"
+        },
+        {
+          "team_dom": "FCGB",
+          "team_ext": "DFCO",
+          "goals_team_dom": "2",
+          "goals_team_ext": "2"
+        },
+        {
+          "team_dom": "TFC",
+          "team_ext": "OGCN",
+          "goals_team_dom": "0",
+          "goals_team_ext": "2"
+        },
+        {
+          "team_dom": "FCN",
+          "team_ext": "FCM",
+          "goals_team_dom": "0",
+          "goals_team_ext": "0"
+        },
+        {
+          "team_dom": "NO",
+          "team_ext": "SCOA",
+          "goals_team_dom": "1",
+          "goals_team_ext": "0"
+        },
+        {
+          "team_dom": "OL",
+          "team_ext": "RCSA",
+          "goals_team_dom": "1",
+          "goals_team_ext": "1"
+        },
+        {
+          "team_dom": "SDR",
+          "team_ext": "SRFC",
+          "goals_team_dom": "1",
+          "goals_team_ext": "0"
+        },
+        {
+          "team_dom": "SB",
+          "team_ext": "ASSE",
+          "goals_team_dom": "3",
+          "goals_team_ext": "2"
+        },
+        {
+          "team_dom": "LOSC",
+          "team_ext": "OM",
+          "goals_team_dom": "1",
+          "goals_team_ext": "2"
+        }
+      ]
+    },
+    {
+      "day": 26,
+      "games": [
+        {
+          "team_dom": "OGCN",
+          "team_ext": "SB",
+          "goals_team_dom": "2",
+          "goals_team_ext": "2"
+        },
+        {
+          "team_dom": "FCM",
+          "team_ext": "OL",
+          "goals_team_dom": "0",
+          "goals_team_ext": "2"
+        },
+        {
+          "team_dom": "OM",
+          "team_ext": "FCN",
+          "goals_team_dom": "1",
+          "goals_team_ext": "3"
+        },
+        {
+          "team_dom": "LOSC",
+          "team_ext": "TFC",
+          "goals_team_dom": "3",
+          "goals_team_ext": "0"
+        },
+        {
+          "team_dom": "DFCO",
+          "team_ext": "ASM",
+          "goals_team_dom": "1",
+          "goals_team_ext": "1"
+        },
+        {
+          "team_dom": "SCOA",
+          "team_ext": "MHSC",
+          "goals_team_dom": "1",
+          "goals_team_ext": "0"
+        },
+        {
+          "team_dom": "RCSA",
+          "team_ext": "ASCF",
+          "goals_team_dom": "0",
+          "goals_team_ext": "0"
+        },
+        {
+          "team_dom": "ASSE",
+          "team_ext": "SDR",
+          "goals_team_dom": "1",
+          "goals_team_ext": "1"
+        },
+        {
+          "team_dom": "SRFC",
+          "team_ext": "NO",
+          "goals_team_dom": "2",
+          "goals_team_ext": "1"
+        },
+        {
+          "team_dom": "PSG",
+          "team_ext": "FCGB",
+          "goals_team_dom": "4",
+          "goals_team_ext": "3"
+        }
+      ]
+    },
+    {
+      "day": 27,
+      "games": [
+        {
+          "team_dom": "NO",
+          "team_ext": "OM",
+          "goals_team_dom": "2",
+          "goals_team_ext": "3"
+        },
+        {
+          "team_dom": "PSG",
+          "team_ext": "DFCO",
+          "goals_team_dom": "4",
+          "goals_team_ext": "0"
+        },
+        {
+          "team_dom": "TFC",
+          "team_ext": "SRFC",
+          "goals_team_dom": "0",
+          "goals_team_ext": "2"
+        },
+        {
+          "team_dom": "ASM",
+          "team_ext": "SDR",
+          "goals_team_dom": "1",
+          "goals_team_ext": "1"
+        },
+        {
+          "team_dom": "MHSC",
+          "team_ext": "RCSA",
+          "goals_team_dom": "3",
+          "goals_team_ext": "0"
+        },
+        {
+          "team_dom": "SB",
+          "team_ext": "SCOA",
+          "goals_team_dom": "0",
+          "goals_team_ext": "1"
+        },
+        {
+          "team_dom": "ASCF",
+          "team_ext": "FCM",
+          "goals_team_dom": "0",
+          "goals_team_ext": "1"
+        },
+        {
+          "team_dom": "FCN",
+          "team_ext": "LOSC",
+          "goals_team_dom": "0",
+          "goals_team_ext": "1"
+        },
+        {
+          "team_dom": "FCGB",
+          "team_ext": "OGCN",
+          "goals_team_dom": "1",
+          "goals_team_ext": "1"
+        },
+        {
+          "team_dom": "OL",
+          "team_ext": "ASSE",
+          "goals_team_dom": "2",
+          "goals_team_ext": "0"
+        }
+      ]
+    },
+    {
+      "day": 28,
+      "games": [
+        {
+          "team_dom": "OM",
+          "team_ext": "ASCF",
+          "goals_team_dom": "2",
+          "goals_team_ext": "2"
+        },
+        {
+          "team_dom": "OGCN",
+          "team_ext": "ASM",
+          "goals_team_dom": "2",
+          "goals_team_ext": "1"
+        },
+        {
+          "team_dom": "SDR",
+          "team_ext": "SB",
+          "goals_team_dom": "1",
+          "goals_team_ext": "0"
+        },
+        {
+          "team_dom": "SCOA",
+          "team_ext": "FCN",
+          "goals_team_dom": "2",
+          "goals_team_ext": "0"
+        },
+        {
+          "team_dom": "FCM",
+          "team_ext": "NO",
+          "goals_team_dom": "2",
+          "goals_team_ext": "1"
+        },
+        {
+          "team_dom": "DFCO",
+          "team_ext": "TFC",
+          "goals_team_dom": "2",
+          "goals_team_ext": "1"
+        },
+        {
+          "team_dom": "ASSE",
+          "team_ext": "FCGB",
+          "goals_team_dom": "1",
+          "goals_team_ext": "1"
+        },
+        {
+          "team_dom": "SRFC",
+          "team_ext": "MHSC",
+          "goals_team_dom": "5",
+          "goals_team_ext": "0"
+        },
+        {
+          "team_dom": "LOSC",
+          "team_ext": "OL",
+          "goals_team_dom": "1",
+          "goals_team_ext": "0"
+        },
+        {
+          "team_dom": "RCSA",
+          "team_ext": "PSG",
+          "goals_team_dom": -1,
+          "goals_team_ext": -1
+        }
+      ]
+    }
+  ]
+}

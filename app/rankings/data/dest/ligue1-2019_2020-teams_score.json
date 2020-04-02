@@ -1,0 +1,4586 @@
+{
+  "ligue": "Ligue 1",
+  "year": "2019-2020",
+  "teams": [
+    {
+      "id": "PSG",
+      "games": [
+        {
+          "day": 1,
+          "goals_scored": "3",
+          "goals_taken": "0",
+          "opponent": "NO",
+          "location": "dom",
+          "points": 3
+        },
+        {
+          "day": 2,
+          "goals_scored": "1",
+          "goals_taken": "2",
+          "opponent": "SRFC",
+          "location": "ext",
+          "points": 3
+        },
+        {
+          "day": 3,
+          "goals_scored": "4",
+          "goals_taken": "0",
+          "opponent": "TFC",
+          "location": "dom",
+          "points": 6
+        },
+        {
+          "day": 4,
+          "goals_scored": "2",
+          "goals_taken": "0",
+          "opponent": "FCM",
+          "location": "ext",
+          "points": 9
+        },
+        {
+          "day": 5,
+          "goals_scored": "1",
+          "goals_taken": "0",
+          "opponent": "RCSA",
+          "location": "dom",
+          "points": 12
+        },
+        {
+          "day": 6,
+          "goals_scored": "1",
+          "goals_taken": "0",
+          "opponent": "OL",
+          "location": "ext",
+          "points": 15
+        },
+        {
+          "day": 7,
+          "goals_scored": "0",
+          "goals_taken": "2",
+          "opponent": "SDR",
+          "location": "dom",
+          "points": 15
+        },
+        {
+          "day": 8,
+          "goals_scored": "1",
+          "goals_taken": "0",
+          "opponent": "FCGB",
+          "location": "ext",
+          "points": 18
+        },
+        {
+          "day": 9,
+          "goals_scored": "4",
+          "goals_taken": "0",
+          "opponent": "SCOA",
+          "location": "dom",
+          "points": 21
+        },
+        {
+          "day": 10,
+          "goals_scored": "4",
+          "goals_taken": "1",
+          "opponent": "OGCN",
+          "location": "ext",
+          "points": 24
+        },
+        {
+          "day": 11,
+          "goals_scored": "4",
+          "goals_taken": "0",
+          "opponent": "OM",
+          "location": "dom",
+          "points": 27
+        },
+        {
+          "day": 12,
+          "goals_scored": "1",
+          "goals_taken": "2",
+          "opponent": "DFCO",
+          "location": "ext",
+          "points": 27
+        },
+        {
+          "day": 13,
+          "goals_scored": "2",
+          "goals_taken": "1",
+          "opponent": "SB",
+          "location": "ext",
+          "points": 30
+        },
+        {
+          "day": 14,
+          "goals_scored": "2",
+          "goals_taken": "0",
+          "opponent": "LOSC",
+          "location": "dom",
+          "points": 33
+        },
+        {
+          "day": 15,
+          "goals_scored": "4",
+          "goals_taken": "1",
+          "opponent": "ASM",
+          "location": "ext",
+          "points": 36
+        },
+        {
+          "day": 16,
+          "goals_scored": "2",
+          "goals_taken": "0",
+          "opponent": "FCN",
+          "location": "dom",
+          "points": 39
+        },
+        {
+          "day": 17,
+          "goals_scored": "3",
+          "goals_taken": "1",
+          "opponent": "MHSC",
+          "location": "ext",
+          "points": 42
+        },
+        {
+          "day": 18,
+          "goals_scored": "4",
+          "goals_taken": "0",
+          "opponent": "ASSE",
+          "location": "ext",
+          "points": 45
+        },
+        {
+          "day": 19,
+          "goals_scored": "4",
+          "goals_taken": "1",
+          "opponent": "ASCF",
+          "location": "dom",
+          "points": 48
+        },
+        {
+          "day": 20,
+          "goals_scored": "3",
+          "goals_taken": "3",
+          "opponent": "ASM",
+          "location": "dom",
+          "points": 49
+        },
+        {
+          "day": 21,
+          "goals_scored": "2",
+          "goals_taken": "0",
+          "opponent": "LOSC",
+          "location": "ext",
+          "points": 52
+        },
+        {
+          "day": 22,
+          "goals_scored": "5",
+          "goals_taken": "0",
+          "opponent": "MHSC",
+          "location": "dom",
+          "points": 55
+        },
+        {
+          "day": 23,
+          "goals_scored": "2",
+          "goals_taken": "1",
+          "opponent": "FCN",
+          "location": "ext",
+          "points": 58
+        },
+        {
+          "day": 24,
+          "goals_scored": "4",
+          "goals_taken": "2",
+          "opponent": "OL",
+          "location": "dom",
+          "points": 61
+        },
+        {
+          "day": 25,
+          "goals_scored": "4",
+          "goals_taken": "4",
+          "opponent": "ASCF",
+          "location": "ext",
+          "points": 62
+        },
+        {
+          "day": 26,
+          "goals_scored": "4",
+          "goals_taken": "3",
+          "opponent": "FCGB",
+          "location": "dom",
+          "points": 65
+        },
+        {
+          "day": 27,
+          "goals_scored": "4",
+          "goals_taken": "0",
+          "opponent": "DFCO",
+          "location": "dom",
+          "points": 68
+        },
+        {
+          "day": 28,
+          "goals_scored": -1,
+          "goals_taken": -1,
+          "opponent": "RCSA",
+          "location": "ext",
+          "points": 68
+        }
+      ]
+    },
+    {
+      "id": "OM",
+      "games": [
+        {
+          "day": 1,
+          "goals_scored": "0",
+          "goals_taken": "2",
+          "opponent": "SDR",
+          "location": "dom",
+          "points": 0
+        },
+        {
+          "day": 2,
+          "goals_scored": "0",
+          "goals_taken": "0",
+          "opponent": "FCN",
+          "location": "ext",
+          "points": 1
+        },
+        {
+          "day": 3,
+          "goals_scored": "2",
+          "goals_taken": "1",
+          "opponent": "OGCN",
+          "location": "ext",
+          "points": 4
+        },
+        {
+          "day": 4,
+          "goals_scored": "1",
+          "goals_taken": "0",
+          "opponent": "ASSE",
+          "location": "dom",
+          "points": 7
+        },
+        {
+          "day": 5,
+          "goals_scored": "4",
+          "goals_taken": "3",
+          "opponent": "ASM",
+          "location": "ext",
+          "points": 10
+        },
+        {
+          "day": 6,
+          "goals_scored": "1",
+          "goals_taken": "1",
+          "opponent": "MHSC",
+          "location": "dom",
+          "points": 11
+        },
+        {
+          "day": 7,
+          "goals_scored": "0",
+          "goals_taken": "0",
+          "opponent": "DFCO",
+          "location": "ext",
+          "points": 12
+        },
+        {
+          "day": 8,
+          "goals_scored": "1",
+          "goals_taken": "1",
+          "opponent": "SRFC",
+          "location": "dom",
+          "points": 13
+        },
+        {
+          "day": 9,
+          "goals_scored": "1",
+          "goals_taken": "3",
+          "opponent": "ASCF",
+          "location": "ext",
+          "points": 13
+        },
+        {
+          "day": 10,
+          "goals_scored": "2",
+          "goals_taken": "0",
+          "opponent": "RCSA",
+          "location": "dom",
+          "points": 16
+        },
+        {
+          "day": 11,
+          "goals_scored": "0",
+          "goals_taken": "4",
+          "opponent": "PSG",
+          "location": "ext",
+          "points": 16
+        },
+        {
+          "day": 12,
+          "goals_scored": "2",
+          "goals_taken": "1",
+          "opponent": "LOSC",
+          "location": "dom",
+          "points": 19
+        },
+        {
+          "day": 13,
+          "goals_scored": "2",
+          "goals_taken": "1",
+          "opponent": "OL",
+          "location": "dom",
+          "points": 22
+        },
+        {
+          "day": 14,
+          "goals_scored": "2",
+          "goals_taken": "0",
+          "opponent": "TFC",
+          "location": "ext",
+          "points": 25
+        },
+        {
+          "day": 15,
+          "goals_scored": "2",
+          "goals_taken": "1",
+          "opponent": "SB",
+          "location": "dom",
+          "points": 28
+        },
+        {
+          "day": 16,
+          "goals_scored": "2",
+          "goals_taken": "0",
+          "opponent": "SCOA",
+          "location": "ext",
+          "points": 31
+        },
+        {
+          "day": 17,
+          "goals_scored": "3",
+          "goals_taken": "1",
+          "opponent": "FCGB",
+          "location": "dom",
+          "points": 34
+        },
+        {
+          "day": 18,
+          "goals_scored": "1",
+          "goals_taken": "1",
+          "opponent": "FCM",
+          "location": "ext",
+          "points": 35
+        },
+        {
+          "day": 19,
+          "goals_scored": "3",
+          "goals_taken": "1",
+          "opponent": "NO",
+          "location": "dom",
+          "points": 38
+        },
+        {
+          "day": 20,
+          "goals_scored": "1",
+          "goals_taken": "0",
+          "opponent": "SRFC",
+          "location": "ext",
+          "points": 41
+        },
+        {
+          "day": 21,
+          "goals_scored": "0",
+          "goals_taken": "0",
+          "opponent": "SCOA",
+          "location": "dom",
+          "points": 42
+        },
+        {
+          "day": 22,
+          "goals_scored": "0",
+          "goals_taken": "0",
+          "opponent": "FCGB",
+          "location": "ext",
+          "points": 43
+        },
+        {
+          "day": 23,
+          "goals_scored": "2",
+          "goals_taken": "0",
+          "opponent": "ASSE",
+          "location": "ext",
+          "points": 46
+        },
+        {
+          "day": 24,
+          "goals_scored": "1",
+          "goals_taken": "0",
+          "opponent": "TFC",
+          "location": "dom",
+          "points": 49
+        },
+        {
+          "day": 25,
+          "goals_scored": "2",
+          "goals_taken": "1",
+          "opponent": "LOSC",
+          "location": "ext",
+          "points": 52
+        },
+        {
+          "day": 26,
+          "goals_scored": "1",
+          "goals_taken": "3",
+          "opponent": "FCN",
+          "location": "dom",
+          "points": 52
+        },
+        {
+          "day": 27,
+          "goals_scored": "3",
+          "goals_taken": "2",
+          "opponent": "NO",
+          "location": "ext",
+          "points": 55
+        },
+        {
+          "day": 28,
+          "goals_scored": "2",
+          "goals_taken": "2",
+          "opponent": "ASCF",
+          "location": "dom",
+          "points": 56
+        }
+      ]
+    },
+    {
+      "id": "OL",
+      "games": [
+        {
+          "day": 1,
+          "goals_scored": "3",
+          "goals_taken": "0",
+          "opponent": "ASM",
+          "location": "ext",
+          "points": 3
+        },
+        {
+          "day": 2,
+          "goals_scored": "6",
+          "goals_taken": "0",
+          "opponent": "SCOA",
+          "location": "dom",
+          "points": 6
+        },
+        {
+          "day": 3,
+          "goals_scored": "0",
+          "goals_taken": "1",
+          "opponent": "MHSC",
+          "location": "ext",
+          "points": 6
+        },
+        {
+          "day": 4,
+          "goals_scored": "1",
+          "goals_taken": "1",
+          "opponent": "FCGB",
+          "location": "dom",
+          "points": 7
+        },
+        {
+          "day": 5,
+          "goals_scored": "2",
+          "goals_taken": "2",
+          "opponent": "ASCF",
+          "location": "ext",
+          "points": 8
+        },
+        {
+          "day": 6,
+          "goals_scored": "0",
+          "goals_taken": "1",
+          "opponent": "PSG",
+          "location": "dom",
+          "points": 8
+        },
+        {
+          "day": 7,
+          "goals_scored": "2",
+          "goals_taken": "2",
+          "opponent": "SB",
+          "location": "ext",
+          "points": 9
+        },
+        {
+          "day": 8,
+          "goals_scored": "0",
+          "goals_taken": "1",
+          "opponent": "FCN",
+          "location": "dom",
+          "points": 9
+        },
+        {
+          "day": 9,
+          "goals_scored": "0",
+          "goals_taken": "1",
+          "opponent": "ASSE",
+          "location": "ext",
+          "points": 9
+        },
+        {
+          "day": 10,
+          "goals_scored": "0",
+          "goals_taken": "0",
+          "opponent": "DFCO",
+          "location": "dom",
+          "points": 10
+        },
+        {
+          "day": 11,
+          "goals_scored": "2",
+          "goals_taken": "0",
+          "opponent": "FCM",
+          "location": "dom",
+          "points": 13
+        },
+        {
+          "day": 12,
+          "goals_scored": "3",
+          "goals_taken": "2",
+          "opponent": "TFC",
+          "location": "ext",
+          "points": 16
+        },
+        {
+          "day": 13,
+          "goals_scored": "1",
+          "goals_taken": "2",
+          "opponent": "OM",
+          "location": "ext",
+          "points": 16
+        },
+        {
+          "day": 14,
+          "goals_scored": "2",
+          "goals_taken": "1",
+          "opponent": "OGCN",
+          "location": "dom",
+          "points": 19
+        },
+        {
+          "day": 15,
+          "goals_scored": "2",
+          "goals_taken": "1",
+          "opponent": "RCSA",
+          "location": "ext",
+          "points": 22
+        },
+        {
+          "day": 16,
+          "goals_scored": "0",
+          "goals_taken": "1",
+          "opponent": "LOSC",
+          "location": "dom",
+          "points": 22
+        },
+        {
+          "day": 17,
+          "goals_scored": "4",
+          "goals_taken": "0",
+          "opponent": "NO",
+          "location": "ext",
+          "points": 25
+        },
+        {
+          "day": 18,
+          "goals_scored": "0",
+          "goals_taken": "1",
+          "opponent": "SRFC",
+          "location": "dom",
+          "points": 25
+        },
+        {
+          "day": 19,
+          "goals_scored": "1",
+          "goals_taken": "1",
+          "opponent": "SDR",
+          "location": "ext",
+          "points": 26
+        },
+        {
+          "day": 20,
+          "goals_scored": "2",
+          "goals_taken": "1",
+          "opponent": "FCGB",
+          "location": "ext",
+          "points": 29
+        },
+        {
+          "day": 21,
+          "goals_scored": "3",
+          "goals_taken": "0",
+          "opponent": "TFC",
+          "location": "dom",
+          "points": 32
+        },
+        {
+          "day": 22,
+          "goals_scored": "1",
+          "goals_taken": "2",
+          "opponent": "OGCN",
+          "location": "ext",
+          "points": 32
+        },
+        {
+          "day": 23,
+          "goals_scored": "0",
+          "goals_taken": "0",
+          "opponent": "ASCF",
+          "location": "dom",
+          "points": 33
+        },
+        {
+          "day": 24,
+          "goals_scored": "2",
+          "goals_taken": "4",
+          "opponent": "PSG",
+          "location": "ext",
+          "points": 33
+        },
+        {
+          "day": 25,
+          "goals_scored": "1",
+          "goals_taken": "1",
+          "opponent": "RCSA",
+          "location": "dom",
+          "points": 34
+        },
+        {
+          "day": 26,
+          "goals_scored": "2",
+          "goals_taken": "0",
+          "opponent": "FCM",
+          "location": "ext",
+          "points": 37
+        },
+        {
+          "day": 27,
+          "goals_scored": "2",
+          "goals_taken": "0",
+          "opponent": "ASSE",
+          "location": "dom",
+          "points": 40
+        },
+        {
+          "day": 28,
+          "goals_scored": "0",
+          "goals_taken": "1",
+          "opponent": "LOSC",
+          "location": "ext",
+          "points": 40
+        }
+      ]
+    },
+    {
+      "id": "ASCF",
+      "games": [
+        {
+          "day": 1,
+          "goals_scored": "1",
+          "goals_taken": "2",
+          "opponent": "OGCN",
+          "location": "ext",
+          "points": 0
+        },
+        {
+          "day": 2,
+          "goals_scored": "1",
+          "goals_taken": "0",
+          "opponent": "LOSC",
+          "location": "dom",
+          "points": 3
+        },
+        {
+          "day": 3,
+          "goals_scored": "1",
+          "goals_taken": "2",
+          "opponent": "FCN",
+          "location": "dom",
+          "points": 3
+        },
+        {
+          "day": 4,
+          "goals_scored": "0",
+          "goals_taken": "2",
+          "opponent": "TFC",
+          "location": "ext",
+          "points": 3
+        },
+        {
+          "day": 5,
+          "goals_scored": "2",
+          "goals_taken": "2",
+          "opponent": "OL",
+          "location": "dom",
+          "points": 4
+        },
+        {
+          "day": 6,
+          "goals_scored": "2",
+          "goals_taken": "1",
+          "opponent": "FCM",
+          "location": "ext",
+          "points": 7
+        },
+        {
+          "day": 7,
+          "goals_scored": "1",
+          "goals_taken": "3",
+          "opponent": "FCGB",
+          "location": "dom",
+          "points": 7
+        },
+        {
+          "day": 8,
+          "goals_scored": "1",
+          "goals_taken": "1",
+          "opponent": "SCOA",
+          "location": "ext",
+          "points": 8
+        },
+        {
+          "day": 9,
+          "goals_scored": "3",
+          "goals_taken": "1",
+          "opponent": "OM",
+          "location": "dom",
+          "points": 11
+        },
+        {
+          "day": 10,
+          "goals_scored": "1",
+          "goals_taken": "1",
+          "opponent": "NO",
+          "location": "ext",
+          "points": 12
+        },
+        {
+          "day": 11,
+          "goals_scored": "2",
+          "goals_taken": "2",
+          "opponent": "ASSE",
+          "location": "ext",
+          "points": 13
+        },
+        {
+          "day": 12,
+          "goals_scored": "1",
+          "goals_taken": "0",
+          "opponent": "SB",
+          "location": "dom",
+          "points": 16
+        },
+        {
+          "day": 13,
+          "goals_scored": "1",
+          "goals_taken": "3",
+          "opponent": "SRFC",
+          "location": "ext",
+          "points": 16
+        },
+        {
+          "day": 14,
+          "goals_scored": "0",
+          "goals_taken": "4",
+          "opponent": "RCSA",
+          "location": "dom",
+          "points": 16
+        },
+        {
+          "day": 15,
+          "goals_scored": "2",
+          "goals_taken": "4",
+          "opponent": "MHSC",
+          "location": "ext",
+          "points": 16
+        },
+        {
+          "day": 16,
+          "goals_scored": "1",
+          "goals_taken": "1",
+          "opponent": "SDR",
+          "location": "dom",
+          "points": 17
+        },
+        {
+          "day": 17,
+          "goals_scored": "0",
+          "goals_taken": "3",
+          "opponent": "ASM",
+          "location": "ext",
+          "points": 17
+        },
+        {
+          "day": 18,
+          "goals_scored": "1",
+          "goals_taken": "1",
+          "opponent": "DFCO",
+          "location": "dom",
+          "points": 18
+        },
+        {
+          "day": 19,
+          "goals_scored": "1",
+          "goals_taken": "4",
+          "opponent": "PSG",
+          "location": "ext",
+          "points": 18
+        },
+        {
+          "day": 20,
+          "goals_scored": "1",
+          "goals_taken": "2",
+          "opponent": "MHSC",
+          "location": "dom",
+          "points": 18
+        },
+        {
+          "day": 21,
+          "goals_scored": "1",
+          "goals_taken": "2",
+          "opponent": "SB",
+          "location": "ext",
+          "points": 18
+        },
+        {
+          "day": 22,
+          "goals_scored": "0",
+          "goals_taken": "0",
+          "opponent": "TFC",
+          "location": "dom",
+          "points": 19
+        },
+        {
+          "day": 23,
+          "goals_scored": "0",
+          "goals_taken": "0",
+          "opponent": "OL",
+          "location": "ext",
+          "points": 20
+        },
+        {
+          "day": 24,
+          "goals_scored": "1",
+          "goals_taken": "2",
+          "opponent": "ASM",
+          "location": "dom",
+          "points": 20
+        },
+        {
+          "day": 25,
+          "goals_scored": "4",
+          "goals_taken": "4",
+          "opponent": "PSG",
+          "location": "dom",
+          "points": 21
+        },
+        {
+          "day": 26,
+          "goals_scored": "0",
+          "goals_taken": "0",
+          "opponent": "RCSA",
+          "location": "ext",
+          "points": 22
+        },
+        {
+          "day": 27,
+          "goals_scored": "0",
+          "goals_taken": "1",
+          "opponent": "FCM",
+          "location": "dom",
+          "points": 22
+        },
+        {
+          "day": 28,
+          "goals_scored": "2",
+          "goals_taken": "2",
+          "opponent": "OM",
+          "location": "ext",
+          "points": 23
+        }
+      ]
+    },
+    {
+      "id": "MHSC",
+      "games": [
+        {
+          "day": 1,
+          "goals_scored": "0",
+          "goals_taken": "1",
+          "opponent": "SRFC",
+          "location": "dom",
+          "points": 0
+        },
+        {
+          "day": 2,
+          "goals_scored": "1",
+          "goals_taken": "1",
+          "opponent": "FCGB",
+          "location": "ext",
+          "points": 1
+        },
+        {
+          "day": 3,
+          "goals_scored": "1",
+          "goals_taken": "0",
+          "opponent": "OL",
+          "location": "dom",
+          "points": 4
+        },
+        {
+          "day": 4,
+          "goals_scored": "0",
+          "goals_taken": "1",
+          "opponent": "FCN",
+          "location": "ext",
+          "points": 4
+        },
+        {
+          "day": 5,
+          "goals_scored": "2",
+          "goals_taken": "1",
+          "opponent": "OGCN",
+          "location": "dom",
+          "points": 7
+        },
+        {
+          "day": 6,
+          "goals_scored": "1",
+          "goals_taken": "1",
+          "opponent": "OM",
+          "location": "ext",
+          "points": 8
+        },
+        {
+          "day": 7,
+          "goals_scored": "1",
+          "goals_taken": "0",
+          "opponent": "NO",
+          "location": "dom",
+          "points": 11
+        },
+        {
+          "day": 8,
+          "goals_scored": "0",
+          "goals_taken": "1",
+          "opponent": "RCSA",
+          "location": "ext",
+          "points": 11
+        },
+        {
+          "day": 9,
+          "goals_scored": "3",
+          "goals_taken": "1",
+          "opponent": "ASM",
+          "location": "dom",
+          "points": 14
+        },
+        {
+          "day": 10,
+          "goals_scored": "0",
+          "goals_taken": "1",
+          "opponent": "SDR",
+          "location": "ext",
+          "points": 14
+        },
+        {
+          "day": 11,
+          "goals_scored": "0",
+          "goals_taken": "0",
+          "opponent": "SCOA",
+          "location": "dom",
+          "points": 15
+        },
+        {
+          "day": 12,
+          "goals_scored": "2",
+          "goals_taken": "2",
+          "opponent": "FCM",
+          "location": "ext",
+          "points": 16
+        },
+        {
+          "day": 13,
+          "goals_scored": "3",
+          "goals_taken": "0",
+          "opponent": "TFC",
+          "location": "dom",
+          "points": 19
+        },
+        {
+          "day": 14,
+          "goals_scored": "0",
+          "goals_taken": "0",
+          "opponent": "ASSE",
+          "location": "ext",
+          "points": 20
+        },
+        {
+          "day": 15,
+          "goals_scored": "4",
+          "goals_taken": "2",
+          "opponent": "ASCF",
+          "location": "dom",
+          "points": 23
+        },
+        {
+          "day": 16,
+          "goals_scored": "2",
+          "goals_taken": "2",
+          "opponent": "DFCO",
+          "location": "ext",
+          "points": 24
+        },
+        {
+          "day": 17,
+          "goals_scored": "1",
+          "goals_taken": "3",
+          "opponent": "PSG",
+          "location": "dom",
+          "points": 24
+        },
+        {
+          "day": 18,
+          "goals_scored": "1",
+          "goals_taken": "2",
+          "opponent": "LOSC",
+          "location": "ext",
+          "points": 24
+        },
+        {
+          "day": 19,
+          "goals_scored": "4",
+          "goals_taken": "0",
+          "opponent": "SB",
+          "location": "dom",
+          "points": 27
+        },
+        {
+          "day": 20,
+          "goals_scored": "2",
+          "goals_taken": "1",
+          "opponent": "ASCF",
+          "location": "ext",
+          "points": 30
+        },
+        {
+          "day": 21,
+          "goals_scored": "2",
+          "goals_taken": "1",
+          "opponent": "DFCO",
+          "location": "dom",
+          "points": 33
+        },
+        {
+          "day": 22,
+          "goals_scored": "0",
+          "goals_taken": "5",
+          "opponent": "PSG",
+          "location": "ext",
+          "points": 33
+        },
+        {
+          "day": 23,
+          "goals_scored": "1",
+          "goals_taken": "1",
+          "opponent": "FCM",
+          "location": "dom",
+          "points": 34
+        },
+        {
+          "day": 24,
+          "goals_scored": "1",
+          "goals_taken": "0",
+          "opponent": "ASSE",
+          "location": "dom",
+          "points": 37
+        },
+        {
+          "day": 25,
+          "goals_scored": "0",
+          "goals_taken": "1",
+          "opponent": "ASM",
+          "location": "ext",
+          "points": 37
+        },
+        {
+          "day": 26,
+          "goals_scored": "0",
+          "goals_taken": "1",
+          "opponent": "SCOA",
+          "location": "ext",
+          "points": 37
+        },
+        {
+          "day": 27,
+          "goals_scored": "3",
+          "goals_taken": "0",
+          "opponent": "RCSA",
+          "location": "dom",
+          "points": 40
+        },
+        {
+          "day": 28,
+          "goals_scored": "0",
+          "goals_taken": "5",
+          "opponent": "SRFC",
+          "location": "ext",
+          "points": 40
+        }
+      ]
+    },
+    {
+      "id": "ASSE",
+      "games": [
+        {
+          "day": 1,
+          "goals_scored": "2",
+          "goals_taken": "1",
+          "opponent": "DFCO",
+          "location": "ext",
+          "points": 3
+        },
+        {
+          "day": 2,
+          "goals_scored": "1",
+          "goals_taken": "1",
+          "opponent": "SB",
+          "location": "dom",
+          "points": 4
+        },
+        {
+          "day": 3,
+          "goals_scored": "0",
+          "goals_taken": "3",
+          "opponent": "LOSC",
+          "location": "ext",
+          "points": 4
+        },
+        {
+          "day": 4,
+          "goals_scored": "0",
+          "goals_taken": "1",
+          "opponent": "OM",
+          "location": "ext",
+          "points": 4
+        },
+        {
+          "day": 5,
+          "goals_scored": "2",
+          "goals_taken": "2",
+          "opponent": "TFC",
+          "location": "dom",
+          "points": 5
+        },
+        {
+          "day": 6,
+          "goals_scored": "1",
+          "goals_taken": "4",
+          "opponent": "SCOA",
+          "location": "ext",
+          "points": 5
+        },
+        {
+          "day": 7,
+          "goals_scored": "0",
+          "goals_taken": "1",
+          "opponent": "FCM",
+          "location": "dom",
+          "points": 5
+        },
+        {
+          "day": 8,
+          "goals_scored": "1",
+          "goals_taken": "0",
+          "opponent": "NO",
+          "location": "ext",
+          "points": 8
+        },
+        {
+          "day": 9,
+          "goals_scored": "1",
+          "goals_taken": "0",
+          "opponent": "OL",
+          "location": "dom",
+          "points": 11
+        },
+        {
+          "day": 10,
+          "goals_scored": "1",
+          "goals_taken": "0",
+          "opponent": "FCGB",
+          "location": "ext",
+          "points": 14
+        },
+        {
+          "day": 11,
+          "goals_scored": "2",
+          "goals_taken": "2",
+          "opponent": "ASCF",
+          "location": "dom",
+          "points": 15
+        },
+        {
+          "day": 12,
+          "goals_scored": "1",
+          "goals_taken": "0",
+          "opponent": "ASM",
+          "location": "dom",
+          "points": 18
+        },
+        {
+          "day": 13,
+          "goals_scored": "3",
+          "goals_taken": "2",
+          "opponent": "FCN",
+          "location": "ext",
+          "points": 21
+        },
+        {
+          "day": 14,
+          "goals_scored": "0",
+          "goals_taken": "0",
+          "opponent": "MHSC",
+          "location": "dom",
+          "points": 22
+        },
+        {
+          "day": 15,
+          "goals_scored": "1",
+          "goals_taken": "2",
+          "opponent": "SRFC",
+          "location": "ext",
+          "points": 22
+        },
+        {
+          "day": 16,
+          "goals_scored": "4",
+          "goals_taken": "1",
+          "opponent": "OGCN",
+          "location": "dom",
+          "points": 25
+        },
+        {
+          "day": 17,
+          "goals_scored": "1",
+          "goals_taken": "3",
+          "opponent": "SDR",
+          "location": "ext",
+          "points": 25
+        },
+        {
+          "day": 18,
+          "goals_scored": "0",
+          "goals_taken": "4",
+          "opponent": "PSG",
+          "location": "dom",
+          "points": 25
+        },
+        {
+          "day": 19,
+          "goals_scored": "1",
+          "goals_taken": "2",
+          "opponent": "RCSA",
+          "location": "ext",
+          "points": 25
+        },
+        {
+          "day": 20,
+          "goals_scored": "0",
+          "goals_taken": "2",
+          "opponent": "FCN",
+          "location": "dom",
+          "points": 25
+        },
+        {
+          "day": 21,
+          "goals_scored": "2",
+          "goals_taken": "1",
+          "opponent": "NO",
+          "location": "dom",
+          "points": 28
+        },
+        {
+          "day": 22,
+          "goals_scored": "1",
+          "goals_taken": "3",
+          "opponent": "FCM",
+          "location": "ext",
+          "points": 28
+        },
+        {
+          "day": 23,
+          "goals_scored": "0",
+          "goals_taken": "2",
+          "opponent": "OM",
+          "location": "dom",
+          "points": 28
+        },
+        {
+          "day": 24,
+          "goals_scored": "0",
+          "goals_taken": "1",
+          "opponent": "MHSC",
+          "location": "ext",
+          "points": 28
+        },
+        {
+          "day": 25,
+          "goals_scored": "2",
+          "goals_taken": "3",
+          "opponent": "SB",
+          "location": "ext",
+          "points": 28
+        },
+        {
+          "day": 26,
+          "goals_scored": "1",
+          "goals_taken": "1",
+          "opponent": "SDR",
+          "location": "dom",
+          "points": 29
+        },
+        {
+          "day": 27,
+          "goals_scored": "0",
+          "goals_taken": "2",
+          "opponent": "OL",
+          "location": "ext",
+          "points": 29
+        },
+        {
+          "day": 28,
+          "goals_scored": "1",
+          "goals_taken": "1",
+          "opponent": "FCGB",
+          "location": "dom",
+          "points": 30
+        }
+      ]
+    },
+    {
+      "id": "FCN",
+      "games": [
+        {
+          "day": 1,
+          "goals_scored": "1",
+          "goals_taken": "2",
+          "opponent": "LOSC",
+          "location": "ext",
+          "points": 0
+        },
+        {
+          "day": 2,
+          "goals_scored": "0",
+          "goals_taken": "0",
+          "opponent": "OM",
+          "location": "dom",
+          "points": 1
+        },
+        {
+          "day": 3,
+          "goals_scored": "2",
+          "goals_taken": "1",
+          "opponent": "ASCF",
+          "location": "ext",
+          "points": 4
+        },
+        {
+          "day": 4,
+          "goals_scored": "1",
+          "goals_taken": "0",
+          "opponent": "MHSC",
+          "location": "dom",
+          "points": 7
+        },
+        {
+          "day": 5,
+          "goals_scored": "1",
+          "goals_taken": "0",
+          "opponent": "SDR",
+          "location": "dom",
+          "points": 10
+        },
+        {
+          "day": 6,
+          "goals_scored": "1",
+          "goals_taken": "2",
+          "opponent": "RCSA",
+          "location": "ext",
+          "points": 10
+        },
+        {
+          "day": 7,
+          "goals_scored": "1",
+          "goals_taken": "0",
+          "opponent": "SRFC",
+          "location": "dom",
+          "points": 13
+        },
+        {
+          "day": 8,
+          "goals_scored": "1",
+          "goals_taken": "0",
+          "opponent": "OL",
+          "location": "ext",
+          "points": 16
+        },
+        {
+          "day": 9,
+          "goals_scored": "1",
+          "goals_taken": "0",
+          "opponent": "OGCN",
+          "location": "dom",
+          "points": 19
+        },
+        {
+          "day": 10,
+          "goals_scored": "0",
+          "goals_taken": "1",
+          "opponent": "FCM",
+          "location": "ext",
+          "points": 19
+        },
+        {
+          "day": 11,
+          "goals_scored": "0",
+          "goals_taken": "1",
+          "opponent": "ASM",
+          "location": "dom",
+          "points": 19
+        },
+        {
+          "day": 12,
+          "goals_scored": "0",
+          "goals_taken": "2",
+          "opponent": "FCGB",
+          "location": "ext",
+          "points": 19
+        },
+        {
+          "day": 13,
+          "goals_scored": "2",
+          "goals_taken": "3",
+          "opponent": "ASSE",
+          "location": "dom",
+          "points": 19
+        },
+        {
+          "day": 14,
+          "goals_scored": "1",
+          "goals_taken": "1",
+          "opponent": "SB",
+          "location": "ext",
+          "points": 20
+        },
+        {
+          "day": 15,
+          "goals_scored": "2",
+          "goals_taken": "1",
+          "opponent": "TFC",
+          "location": "dom",
+          "points": 23
+        },
+        {
+          "day": 16,
+          "goals_scored": "0",
+          "goals_taken": "2",
+          "opponent": "PSG",
+          "location": "ext",
+          "points": 23
+        },
+        {
+          "day": 17,
+          "goals_scored": "1",
+          "goals_taken": "0",
+          "opponent": "DFCO",
+          "location": "dom",
+          "points": 26
+        },
+        {
+          "day": 18,
+          "goals_scored": "1",
+          "goals_taken": "0",
+          "opponent": "NO",
+          "location": "ext",
+          "points": 29
+        },
+        {
+          "day": 19,
+          "goals_scored": "1",
+          "goals_taken": "2",
+          "opponent": "SCOA",
+          "location": "dom",
+          "points": 29
+        },
+        {
+          "day": 20,
+          "goals_scored": "2",
+          "goals_taken": "0",
+          "opponent": "ASSE",
+          "location": "ext",
+          "points": 32
+        },
+        {
+          "day": 21,
+          "goals_scored": "0",
+          "goals_taken": "1",
+          "opponent": "FCGB",
+          "location": "dom",
+          "points": 32
+        },
+        {
+          "day": 22,
+          "goals_scored": "2",
+          "goals_taken": "3",
+          "opponent": "SRFC",
+          "location": "ext",
+          "points": 32
+        },
+        {
+          "day": 23,
+          "goals_scored": "1",
+          "goals_taken": "2",
+          "opponent": "PSG",
+          "location": "dom",
+          "points": 32
+        },
+        {
+          "day": 24,
+          "goals_scored": "3",
+          "goals_taken": "3",
+          "opponent": "DFCO",
+          "location": "ext",
+          "points": 33
+        },
+        {
+          "day": 25,
+          "goals_scored": "0",
+          "goals_taken": "0",
+          "opponent": "FCM",
+          "location": "dom",
+          "points": 34
+        },
+        {
+          "day": 26,
+          "goals_scored": "3",
+          "goals_taken": "1",
+          "opponent": "OM",
+          "location": "ext",
+          "points": 37
+        },
+        {
+          "day": 27,
+          "goals_scored": "0",
+          "goals_taken": "1",
+          "opponent": "LOSC",
+          "location": "dom",
+          "points": 37
+        },
+        {
+          "day": 28,
+          "goals_scored": "0",
+          "goals_taken": "2",
+          "opponent": "SCOA",
+          "location": "ext",
+          "points": 37
+        }
+      ]
+    },
+    {
+      "id": "FCM",
+      "games": [
+        {
+          "day": 1,
+          "goals_scored": "1",
+          "goals_taken": "1",
+          "opponent": "RCSA",
+          "location": "ext",
+          "points": 1
+        },
+        {
+          "day": 2,
+          "goals_scored": "3",
+          "goals_taken": "0",
+          "opponent": "ASM",
+          "location": "dom",
+          "points": 4
+        },
+        {
+          "day": 3,
+          "goals_scored": "0",
+          "goals_taken": "3",
+          "opponent": "SCOA",
+          "location": "ext",
+          "points": 4
+        },
+        {
+          "day": 4,
+          "goals_scored": "0",
+          "goals_taken": "2",
+          "opponent": "PSG",
+          "location": "dom",
+          "points": 4
+        },
+        {
+          "day": 5,
+          "goals_scored": "0",
+          "goals_taken": "2",
+          "opponent": "FCGB",
+          "location": "ext",
+          "points": 4
+        },
+        {
+          "day": 6,
+          "goals_scored": "1",
+          "goals_taken": "2",
+          "opponent": "ASCF",
+          "location": "dom",
+          "points": 4
+        },
+        {
+          "day": 7,
+          "goals_scored": "1",
+          "goals_taken": "0",
+          "opponent": "ASSE",
+          "location": "ext",
+          "points": 7
+        },
+        {
+          "day": 8,
+          "goals_scored": "2",
+          "goals_taken": "2",
+          "opponent": "TFC",
+          "location": "dom",
+          "points": 8
+        },
+        {
+          "day": 9,
+          "goals_scored": "0",
+          "goals_taken": "2",
+          "opponent": "SB",
+          "location": "ext",
+          "points": 8
+        },
+        {
+          "day": 10,
+          "goals_scored": "1",
+          "goals_taken": "0",
+          "opponent": "FCN",
+          "location": "dom",
+          "points": 11
+        },
+        {
+          "day": 11,
+          "goals_scored": "0",
+          "goals_taken": "2",
+          "opponent": "OL",
+          "location": "ext",
+          "points": 11
+        },
+        {
+          "day": 12,
+          "goals_scored": "2",
+          "goals_taken": "2",
+          "opponent": "MHSC",
+          "location": "dom",
+          "points": 12
+        },
+        {
+          "day": 13,
+          "goals_scored": "0",
+          "goals_taken": "0",
+          "opponent": "LOSC",
+          "location": "ext",
+          "points": 13
+        },
+        {
+          "day": 14,
+          "goals_scored": "1",
+          "goals_taken": "1",
+          "opponent": "SDR",
+          "location": "dom",
+          "points": 14
+        },
+        {
+          "day": 15,
+          "goals_scored": "1",
+          "goals_taken": "1",
+          "opponent": "NO",
+          "location": "ext",
+          "points": 15
+        },
+        {
+          "day": 16,
+          "goals_scored": "0",
+          "goals_taken": "1",
+          "opponent": "SRFC",
+          "location": "dom",
+          "points": 15
+        },
+        {
+          "day": 17,
+          "goals_scored": "1",
+          "goals_taken": "4",
+          "opponent": "OGCN",
+          "location": "ext",
+          "points": 15
+        },
+        {
+          "day": 18,
+          "goals_scored": "1",
+          "goals_taken": "1",
+          "opponent": "OM",
+          "location": "dom",
+          "points": 16
+        },
+        {
+          "day": 19,
+          "goals_scored": "2",
+          "goals_taken": "2",
+          "opponent": "DFCO",
+          "location": "ext",
+          "points": 17
+        },
+        {
+          "day": 20,
+          "goals_scored": "1",
+          "goals_taken": "0",
+          "opponent": "RCSA",
+          "location": "dom",
+          "points": 20
+        },
+        {
+          "day": 21,
+          "goals_scored": "1",
+          "goals_taken": "0",
+          "opponent": "SDR",
+          "location": "ext",
+          "points": 23
+        },
+        {
+          "day": 22,
+          "goals_scored": "3",
+          "goals_taken": "1",
+          "opponent": "ASSE",
+          "location": "dom",
+          "points": 26
+        },
+        {
+          "day": 23,
+          "goals_scored": "1",
+          "goals_taken": "1",
+          "opponent": "MHSC",
+          "location": "ext",
+          "points": 27
+        },
+        {
+          "day": 24,
+          "goals_scored": "1",
+          "goals_taken": "2",
+          "opponent": "FCGB",
+          "location": "dom",
+          "points": 27
+        },
+        {
+          "day": 25,
+          "goals_scored": "0",
+          "goals_taken": "0",
+          "opponent": "FCN",
+          "location": "ext",
+          "points": 28
+        },
+        {
+          "day": 26,
+          "goals_scored": "0",
+          "goals_taken": "2",
+          "opponent": "OL",
+          "location": "dom",
+          "points": 28
+        },
+        {
+          "day": 27,
+          "goals_scored": "1",
+          "goals_taken": "0",
+          "opponent": "ASCF",
+          "location": "ext",
+          "points": 31
+        },
+        {
+          "day": 28,
+          "goals_scored": "2",
+          "goals_taken": "1",
+          "opponent": "NO",
+          "location": "dom",
+          "points": 34
+        }
+      ]
+    },
+    {
+      "id": "TFC",
+      "games": [
+        {
+          "day": 1,
+          "goals_scored": "1",
+          "goals_taken": "1",
+          "opponent": "SB",
+          "location": "ext",
+          "points": 1
+        },
+        {
+          "day": 2,
+          "goals_scored": "1",
+          "goals_taken": "0",
+          "opponent": "DFCO",
+          "location": "dom",
+          "points": 4
+        },
+        {
+          "day": 3,
+          "goals_scored": "0",
+          "goals_taken": "4",
+          "opponent": "PSG",
+          "location": "ext",
+          "points": 4
+        },
+        {
+          "day": 4,
+          "goals_scored": "2",
+          "goals_taken": "0",
+          "opponent": "ASCF",
+          "location": "dom",
+          "points": 7
+        },
+        {
+          "day": 5,
+          "goals_scored": "2",
+          "goals_taken": "2",
+          "opponent": "ASSE",
+          "location": "ext",
+          "points": 8
+        },
+        {
+          "day": 6,
+          "goals_scored": "0",
+          "goals_taken": "1",
+          "opponent": "NO",
+          "location": "ext",
+          "points": 8
+        },
+        {
+          "day": 7,
+          "goals_scored": "0",
+          "goals_taken": "2",
+          "opponent": "SCOA",
+          "location": "dom",
+          "points": 8
+        },
+        {
+          "day": 8,
+          "goals_scored": "2",
+          "goals_taken": "2",
+          "opponent": "FCM",
+          "location": "ext",
+          "points": 9
+        },
+        {
+          "day": 9,
+          "goals_scored": "1",
+          "goals_taken": "3",
+          "opponent": "FCGB",
+          "location": "dom",
+          "points": 9
+        },
+        {
+          "day": 10,
+          "goals_scored": "2",
+          "goals_taken": "1",
+          "opponent": "LOSC",
+          "location": "dom",
+          "points": 12
+        },
+        {
+          "day": 11,
+          "goals_scored": "2",
+          "goals_taken": "3",
+          "opponent": "SRFC",
+          "location": "ext",
+          "points": 12
+        },
+        {
+          "day": 12,
+          "goals_scored": "2",
+          "goals_taken": "3",
+          "opponent": "OL",
+          "location": "dom",
+          "points": 12
+        },
+        {
+          "day": 13,
+          "goals_scored": "0",
+          "goals_taken": "3",
+          "opponent": "MHSC",
+          "location": "ext",
+          "points": 12
+        },
+        {
+          "day": 14,
+          "goals_scored": "0",
+          "goals_taken": "2",
+          "opponent": "OM",
+          "location": "dom",
+          "points": 12
+        },
+        {
+          "day": 15,
+          "goals_scored": "1",
+          "goals_taken": "2",
+          "opponent": "FCN",
+          "location": "ext",
+          "points": 12
+        },
+        {
+          "day": 16,
+          "goals_scored": "1",
+          "goals_taken": "2",
+          "opponent": "ASM",
+          "location": "dom",
+          "points": 12
+        },
+        {
+          "day": 17,
+          "goals_scored": "2",
+          "goals_taken": "4",
+          "opponent": "RCSA",
+          "location": "ext",
+          "points": 12
+        },
+        {
+          "day": 18,
+          "goals_scored": "0",
+          "goals_taken": "1",
+          "opponent": "SDR",
+          "location": "dom",
+          "points": 12
+        },
+        {
+          "day": 19,
+          "goals_scored": "0",
+          "goals_taken": "3",
+          "opponent": "OGCN",
+          "location": "ext",
+          "points": 12
+        },
+        {
+          "day": 20,
+          "goals_scored": "2",
+          "goals_taken": "5",
+          "opponent": "SB",
+          "location": "dom",
+          "points": 12
+        },
+        {
+          "day": 21,
+          "goals_scored": "0",
+          "goals_taken": "3",
+          "opponent": "OL",
+          "location": "ext",
+          "points": 12
+        },
+        {
+          "day": 22,
+          "goals_scored": "0",
+          "goals_taken": "0",
+          "opponent": "ASCF",
+          "location": "ext",
+          "points": 13
+        },
+        {
+          "day": 23,
+          "goals_scored": "0",
+          "goals_taken": "1",
+          "opponent": "RCSA",
+          "location": "dom",
+          "points": 13
+        },
+        {
+          "day": 24,
+          "goals_scored": "0",
+          "goals_taken": "1",
+          "opponent": "OM",
+          "location": "ext",
+          "points": 13
+        },
+        {
+          "day": 25,
+          "goals_scored": "0",
+          "goals_taken": "2",
+          "opponent": "OGCN",
+          "location": "dom",
+          "points": 13
+        },
+        {
+          "day": 26,
+          "goals_scored": "0",
+          "goals_taken": "3",
+          "opponent": "LOSC",
+          "location": "ext",
+          "points": 13
+        },
+        {
+          "day": 27,
+          "goals_scored": "0",
+          "goals_taken": "2",
+          "opponent": "SRFC",
+          "location": "dom",
+          "points": 13
+        },
+        {
+          "day": 28,
+          "goals_scored": "1",
+          "goals_taken": "2",
+          "opponent": "DFCO",
+          "location": "ext",
+          "points": 13
+        }
+      ]
+    },
+    {
+      "id": "SRFC",
+      "games": [
+        {
+          "day": 1,
+          "goals_scored": "1",
+          "goals_taken": "0",
+          "opponent": "MHSC",
+          "location": "ext",
+          "points": 3
+        },
+        {
+          "day": 2,
+          "goals_scored": "2",
+          "goals_taken": "1",
+          "opponent": "PSG",
+          "location": "dom",
+          "points": 6
+        },
+        {
+          "day": 3,
+          "goals_scored": "2",
+          "goals_taken": "0",
+          "opponent": "RCSA",
+          "location": "ext",
+          "points": 9
+        },
+        {
+          "day": 4,
+          "goals_scored": "1",
+          "goals_taken": "2",
+          "opponent": "OGCN",
+          "location": "dom",
+          "points": 9
+        },
+        {
+          "day": 5,
+          "goals_scored": "0",
+          "goals_taken": "0",
+          "opponent": "SB",
+          "location": "ext",
+          "points": 10
+        },
+        {
+          "day": 6,
+          "goals_scored": "1",
+          "goals_taken": "1",
+          "opponent": "LOSC",
+          "location": "dom",
+          "points": 11
+        },
+        {
+          "day": 7,
+          "goals_scored": "0",
+          "goals_taken": "1",
+          "opponent": "FCN",
+          "location": "ext",
+          "points": 11
+        },
+        {
+          "day": 8,
+          "goals_scored": "1",
+          "goals_taken": "1",
+          "opponent": "OM",
+          "location": "ext",
+          "points": 12
+        },
+        {
+          "day": 9,
+          "goals_scored": "0",
+          "goals_taken": "1",
+          "opponent": "SDR",
+          "location": "dom",
+          "points": 12
+        },
+        {
+          "day": 10,
+          "goals_scored": "2",
+          "goals_taken": "3",
+          "opponent": "ASM",
+          "location": "ext",
+          "points": 12
+        },
+        {
+          "day": 11,
+          "goals_scored": "3",
+          "goals_taken": "2",
+          "opponent": "TFC",
+          "location": "dom",
+          "points": 15
+        },
+        {
+          "day": 12,
+          "goals_scored": "1",
+          "goals_taken": "0",
+          "opponent": "NO",
+          "location": "ext",
+          "points": 18
+        },
+        {
+          "day": 13,
+          "goals_scored": "3",
+          "goals_taken": "1",
+          "opponent": "ASCF",
+          "location": "dom",
+          "points": 21
+        },
+        {
+          "day": 14,
+          "goals_scored": "1",
+          "goals_taken": "2",
+          "opponent": "DFCO",
+          "location": "ext",
+          "points": 21
+        },
+        {
+          "day": 15,
+          "goals_scored": "2",
+          "goals_taken": "1",
+          "opponent": "ASSE",
+          "location": "dom",
+          "points": 24
+        },
+        {
+          "day": 16,
+          "goals_scored": "1",
+          "goals_taken": "0",
+          "opponent": "FCM",
+          "location": "ext",
+          "points": 27
+        },
+        {
+          "day": 17,
+          "goals_scored": "2",
+          "goals_taken": "1",
+          "opponent": "SCOA",
+          "location": "dom",
+          "points": 30
+        },
+        {
+          "day": 18,
+          "goals_scored": "1",
+          "goals_taken": "0",
+          "opponent": "OL",
+          "location": "ext",
+          "points": 33
+        },
+        {
+          "day": 19,
+          "goals_scored": "1",
+          "goals_taken": "0",
+          "opponent": "FCGB",
+          "location": "dom",
+          "points": 36
+        },
+        {
+          "day": 20,
+          "goals_scored": "0",
+          "goals_taken": "1",
+          "opponent": "OM",
+          "location": "dom",
+          "points": 36
+        },
+        {
+          "day": 21,
+          "goals_scored": "1",
+          "goals_taken": "1",
+          "opponent": "OGCN",
+          "location": "ext",
+          "points": 37
+        },
+        {
+          "day": 22,
+          "goals_scored": "3",
+          "goals_taken": "2",
+          "opponent": "FCN",
+          "location": "dom",
+          "points": 40
+        },
+        {
+          "day": 23,
+          "goals_scored": "0",
+          "goals_taken": "1",
+          "opponent": "LOSC",
+          "location": "ext",
+          "points": 40
+        },
+        {
+          "day": 24,
+          "goals_scored": "0",
+          "goals_taken": "0",
+          "opponent": "SB",
+          "location": "dom",
+          "points": 41
+        },
+        {
+          "day": 25,
+          "goals_scored": "0",
+          "goals_taken": "1",
+          "opponent": "SDR",
+          "location": "ext",
+          "points": 41
+        },
+        {
+          "day": 26,
+          "goals_scored": "2",
+          "goals_taken": "1",
+          "opponent": "NO",
+          "location": "dom",
+          "points": 44
+        },
+        {
+          "day": 27,
+          "goals_scored": "2",
+          "goals_taken": "0",
+          "opponent": "TFC",
+          "location": "ext",
+          "points": 47
+        },
+        {
+          "day": 28,
+          "goals_scored": "5",
+          "goals_taken": "0",
+          "opponent": "MHSC",
+          "location": "dom",
+          "points": 50
+        }
+      ]
+    },
+    {
+      "id": "FCGB",
+      "games": [
+        {
+          "day": 1,
+          "goals_scored": "1",
+          "goals_taken": "3",
+          "opponent": "SCOA",
+          "location": "ext",
+          "points": 0
+        },
+        {
+          "day": 2,
+          "goals_scored": "1",
+          "goals_taken": "1",
+          "opponent": "MHSC",
+          "location": "dom",
+          "points": 1
+        },
+        {
+          "day": 3,
+          "goals_scored": "2",
+          "goals_taken": "0",
+          "opponent": "DFCO",
+          "location": "ext",
+          "points": 4
+        },
+        {
+          "day": 4,
+          "goals_scored": "1",
+          "goals_taken": "1",
+          "opponent": "OL",
+          "location": "ext",
+          "points": 5
+        },
+        {
+          "day": 5,
+          "goals_scored": "2",
+          "goals_taken": "0",
+          "opponent": "FCM",
+          "location": "dom",
+          "points": 8
+        },
+        {
+          "day": 6,
+          "goals_scored": "2",
+          "goals_taken": "2",
+          "opponent": "SB",
+          "location": "dom",
+          "points": 9
+        },
+        {
+          "day": 7,
+          "goals_scored": "3",
+          "goals_taken": "1",
+          "opponent": "ASCF",
+          "location": "ext",
+          "points": 12
+        },
+        {
+          "day": 8,
+          "goals_scored": "0",
+          "goals_taken": "1",
+          "opponent": "PSG",
+          "location": "dom",
+          "points": 12
+        },
+        {
+          "day": 9,
+          "goals_scored": "3",
+          "goals_taken": "1",
+          "opponent": "TFC",
+          "location": "ext",
+          "points": 15
+        },
+        {
+          "day": 10,
+          "goals_scored": "0",
+          "goals_taken": "1",
+          "opponent": "ASSE",
+          "location": "dom",
+          "points": 15
+        },
+        {
+          "day": 11,
+          "goals_scored": "0",
+          "goals_taken": "3",
+          "opponent": "LOSC",
+          "location": "ext",
+          "points": 15
+        },
+        {
+          "day": 12,
+          "goals_scored": "2",
+          "goals_taken": "0",
+          "opponent": "FCN",
+          "location": "dom",
+          "points": 18
+        },
+        {
+          "day": 13,
+          "goals_scored": "1",
+          "goals_taken": "1",
+          "opponent": "OGCN",
+          "location": "ext",
+          "points": 19
+        },
+        {
+          "day": 14,
+          "goals_scored": "2",
+          "goals_taken": "1",
+          "opponent": "ASM",
+          "location": "dom",
+          "points": 22
+        },
+        {
+          "day": 15,
+          "goals_scored": "1",
+          "goals_taken": "1",
+          "opponent": "SDR",
+          "location": "ext",
+          "points": 23
+        },
+        {
+          "day": 16,
+          "goals_scored": "6",
+          "goals_taken": "0",
+          "opponent": "NO",
+          "location": "dom",
+          "points": 26
+        },
+        {
+          "day": 17,
+          "goals_scored": "1",
+          "goals_taken": "3",
+          "opponent": "OM",
+          "location": "ext",
+          "points": 26
+        },
+        {
+          "day": 18,
+          "goals_scored": "0",
+          "goals_taken": "1",
+          "opponent": "RCSA",
+          "location": "dom",
+          "points": 26
+        },
+        {
+          "day": 19,
+          "goals_scored": "0",
+          "goals_taken": "1",
+          "opponent": "SRFC",
+          "location": "ext",
+          "points": 26
+        },
+        {
+          "day": 20,
+          "goals_scored": "1",
+          "goals_taken": "2",
+          "opponent": "OL",
+          "location": "dom",
+          "points": 26
+        },
+        {
+          "day": 21,
+          "goals_scored": "1",
+          "goals_taken": "0",
+          "opponent": "FCN",
+          "location": "ext",
+          "points": 29
+        },
+        {
+          "day": 22,
+          "goals_scored": "0",
+          "goals_taken": "0",
+          "opponent": "OM",
+          "location": "dom",
+          "points": 30
+        },
+        {
+          "day": 23,
+          "goals_scored": "1",
+          "goals_taken": "1",
+          "opponent": "SB",
+          "location": "ext",
+          "points": 31
+        },
+        {
+          "day": 24,
+          "goals_scored": "2",
+          "goals_taken": "1",
+          "opponent": "FCM",
+          "location": "ext",
+          "points": 34
+        },
+        {
+          "day": 25,
+          "goals_scored": "2",
+          "goals_taken": "2",
+          "opponent": "DFCO",
+          "location": "dom",
+          "points": 35
+        },
+        {
+          "day": 26,
+          "goals_scored": "3",
+          "goals_taken": "4",
+          "opponent": "PSG",
+          "location": "ext",
+          "points": 35
+        },
+        {
+          "day": 27,
+          "goals_scored": "1",
+          "goals_taken": "1",
+          "opponent": "OGCN",
+          "location": "dom",
+          "points": 36
+        },
+        {
+          "day": 28,
+          "goals_scored": "1",
+          "goals_taken": "1",
+          "opponent": "ASSE",
+          "location": "ext",
+          "points": 37
+        }
+      ]
+    },
+    {
+      "id": "OGCN",
+      "games": [
+        {
+          "day": 1,
+          "goals_scored": "2",
+          "goals_taken": "1",
+          "opponent": "ASCF",
+          "location": "dom",
+          "points": 3
+        },
+        {
+          "day": 2,
+          "goals_scored": "2",
+          "goals_taken": "1",
+          "opponent": "NO",
+          "location": "ext",
+          "points": 6
+        },
+        {
+          "day": 3,
+          "goals_scored": "1",
+          "goals_taken": "2",
+          "opponent": "OM",
+          "location": "dom",
+          "points": 6
+        },
+        {
+          "day": 4,
+          "goals_scored": "2",
+          "goals_taken": "1",
+          "opponent": "SRFC",
+          "location": "ext",
+          "points": 9
+        },
+        {
+          "day": 5,
+          "goals_scored": "1",
+          "goals_taken": "2",
+          "opponent": "MHSC",
+          "location": "ext",
+          "points": 9
+        },
+        {
+          "day": 6,
+          "goals_scored": "2",
+          "goals_taken": "1",
+          "opponent": "DFCO",
+          "location": "dom",
+          "points": 12
+        },
+        {
+          "day": 7,
+          "goals_scored": "1",
+          "goals_taken": "3",
+          "opponent": "ASM",
+          "location": "ext",
+          "points": 12
+        },
+        {
+          "day": 8,
+          "goals_scored": "1",
+          "goals_taken": "1",
+          "opponent": "LOSC",
+          "location": "dom",
+          "points": 13
+        },
+        {
+          "day": 9,
+          "goals_scored": "0",
+          "goals_taken": "1",
+          "opponent": "FCN",
+          "location": "ext",
+          "points": 13
+        },
+        {
+          "day": 10,
+          "goals_scored": "1",
+          "goals_taken": "4",
+          "opponent": "PSG",
+          "location": "dom",
+          "points": 13
+        },
+        {
+          "day": 11,
+          "goals_scored": "0",
+          "goals_taken": "1",
+          "opponent": "RCSA",
+          "location": "ext",
+          "points": 13
+        },
+        {
+          "day": 12,
+          "goals_scored": "2",
+          "goals_taken": "0",
+          "opponent": "SDR",
+          "location": "dom",
+          "points": 16
+        },
+        {
+          "day": 13,
+          "goals_scored": "1",
+          "goals_taken": "1",
+          "opponent": "FCGB",
+          "location": "dom",
+          "points": 17
+        },
+        {
+          "day": 14,
+          "goals_scored": "1",
+          "goals_taken": "2",
+          "opponent": "OL",
+          "location": "ext",
+          "points": 17
+        },
+        {
+          "day": 15,
+          "goals_scored": "3",
+          "goals_taken": "1",
+          "opponent": "SCOA",
+          "location": "dom",
+          "points": 20
+        },
+        {
+          "day": 16,
+          "goals_scored": "1",
+          "goals_taken": "4",
+          "opponent": "ASSE",
+          "location": "ext",
+          "points": 20
+        },
+        {
+          "day": 17,
+          "goals_scored": "4",
+          "goals_taken": "1",
+          "opponent": "FCM",
+          "location": "dom",
+          "points": 23
+        },
+        {
+          "day": 18,
+          "goals_scored": "0",
+          "goals_taken": "0",
+          "opponent": "SB",
+          "location": "ext",
+          "points": 24
+        },
+        {
+          "day": 19,
+          "goals_scored": "3",
+          "goals_taken": "0",
+          "opponent": "TFC",
+          "location": "dom",
+          "points": 27
+        },
+        {
+          "day": 20,
+          "goals_scored": "1",
+          "goals_taken": "1",
+          "opponent": "SCOA",
+          "location": "ext",
+          "points": 28
+        },
+        {
+          "day": 21,
+          "goals_scored": "1",
+          "goals_taken": "1",
+          "opponent": "SRFC",
+          "location": "dom",
+          "points": 29
+        },
+        {
+          "day": 22,
+          "goals_scored": "2",
+          "goals_taken": "1",
+          "opponent": "OL",
+          "location": "dom",
+          "points": 32
+        },
+        {
+          "day": 23,
+          "goals_scored": "1",
+          "goals_taken": "1",
+          "opponent": "SDR",
+          "location": "ext",
+          "points": 33
+        },
+        {
+          "day": 24,
+          "goals_scored": "1",
+          "goals_taken": "3",
+          "opponent": "NO",
+          "location": "dom",
+          "points": 33
+        },
+        {
+          "day": 25,
+          "goals_scored": "2",
+          "goals_taken": "0",
+          "opponent": "TFC",
+          "location": "ext",
+          "points": 36
+        },
+        {
+          "day": 26,
+          "goals_scored": "2",
+          "goals_taken": "2",
+          "opponent": "SB",
+          "location": "dom",
+          "points": 37
+        },
+        {
+          "day": 27,
+          "goals_scored": "1",
+          "goals_taken": "1",
+          "opponent": "FCGB",
+          "location": "ext",
+          "points": 38
+        },
+        {
+          "day": 28,
+          "goals_scored": "2",
+          "goals_taken": "1",
+          "opponent": "ASM",
+          "location": "dom",
+          "points": 41
+        }
+      ]
+    },
+    {
+      "id": "SDR",
+      "games": [
+        {
+          "day": 1,
+          "goals_scored": "2",
+          "goals_taken": "0",
+          "opponent": "OM",
+          "location": "ext",
+          "points": 3
+        },
+        {
+          "day": 2,
+          "goals_scored": "0",
+          "goals_taken": "0",
+          "opponent": "RCSA",
+          "location": "dom",
+          "points": 4
+        },
+        {
+          "day": 3,
+          "goals_scored": "0",
+          "goals_taken": "1",
+          "opponent": "SB",
+          "location": "ext",
+          "points": 4
+        },
+        {
+          "day": 4,
+          "goals_scored": "2",
+          "goals_taken": "0",
+          "opponent": "LOSC",
+          "location": "dom",
+          "points": 7
+        },
+        {
+          "day": 5,
+          "goals_scored": "0",
+          "goals_taken": "1",
+          "opponent": "FCN",
+          "location": "ext",
+          "points": 7
+        },
+        {
+          "day": 6,
+          "goals_scored": "0",
+          "goals_taken": "0",
+          "opponent": "ASM",
+          "location": "dom",
+          "points": 8
+        },
+        {
+          "day": 7,
+          "goals_scored": "2",
+          "goals_taken": "0",
+          "opponent": "PSG",
+          "location": "ext",
+          "points": 11
+        },
+        {
+          "day": 8,
+          "goals_scored": "1",
+          "goals_taken": "2",
+          "opponent": "DFCO",
+          "location": "dom",
+          "points": 11
+        },
+        {
+          "day": 9,
+          "goals_scored": "1",
+          "goals_taken": "0",
+          "opponent": "SRFC",
+          "location": "ext",
+          "points": 14
+        },
+        {
+          "day": 10,
+          "goals_scored": "1",
+          "goals_taken": "0",
+          "opponent": "MHSC",
+          "location": "dom",
+          "points": 17
+        },
+        {
+          "day": 11,
+          "goals_scored": "0",
+          "goals_taken": "0",
+          "opponent": "NO",
+          "location": "dom",
+          "points": 18
+        },
+        {
+          "day": 12,
+          "goals_scored": "0",
+          "goals_taken": "2",
+          "opponent": "OGCN",
+          "location": "ext",
+          "points": 18
+        },
+        {
+          "day": 13,
+          "goals_scored": "0",
+          "goals_taken": "0",
+          "opponent": "SCOA",
+          "location": "dom",
+          "points": 19
+        },
+        {
+          "day": 14,
+          "goals_scored": "1",
+          "goals_taken": "1",
+          "opponent": "FCM",
+          "location": "ext",
+          "points": 20
+        },
+        {
+          "day": 15,
+          "goals_scored": "1",
+          "goals_taken": "1",
+          "opponent": "FCGB",
+          "location": "dom",
+          "points": 21
+        },
+        {
+          "day": 16,
+          "goals_scored": "1",
+          "goals_taken": "1",
+          "opponent": "ASCF",
+          "location": "ext",
+          "points": 22
+        },
+        {
+          "day": 17,
+          "goals_scored": "3",
+          "goals_taken": "1",
+          "opponent": "ASSE",
+          "location": "dom",
+          "points": 25
+        },
+        {
+          "day": 18,
+          "goals_scored": "1",
+          "goals_taken": "0",
+          "opponent": "TFC",
+          "location": "ext",
+          "points": 28
+        },
+        {
+          "day": 19,
+          "goals_scored": "1",
+          "goals_taken": "1",
+          "opponent": "OL",
+          "location": "dom",
+          "points": 29
+        },
+        {
+          "day": 20,
+          "goals_scored": "0",
+          "goals_taken": "2",
+          "opponent": "NO",
+          "location": "ext",
+          "points": 29
+        },
+        {
+          "day": 21,
+          "goals_scored": "0",
+          "goals_taken": "1",
+          "opponent": "FCM",
+          "location": "dom",
+          "points": 29
+        },
+        {
+          "day": 22,
+          "goals_scored": "4",
+          "goals_taken": "1",
+          "opponent": "SCOA",
+          "location": "ext",
+          "points": 32
+        },
+        {
+          "day": 23,
+          "goals_scored": "1",
+          "goals_taken": "1",
+          "opponent": "OGCN",
+          "location": "dom",
+          "points": 33
+        },
+        {
+          "day": 24,
+          "goals_scored": "0",
+          "goals_taken": "3",
+          "opponent": "RCSA",
+          "location": "ext",
+          "points": 33
+        },
+        {
+          "day": 25,
+          "goals_scored": "1",
+          "goals_taken": "0",
+          "opponent": "SRFC",
+          "location": "dom",
+          "points": 36
+        },
+        {
+          "day": 26,
+          "goals_scored": "1",
+          "goals_taken": "1",
+          "opponent": "ASSE",
+          "location": "ext",
+          "points": 37
+        },
+        {
+          "day": 27,
+          "goals_scored": "1",
+          "goals_taken": "1",
+          "opponent": "ASM",
+          "location": "ext",
+          "points": 38
+        },
+        {
+          "day": 28,
+          "goals_scored": "1",
+          "goals_taken": "0",
+          "opponent": "SB",
+          "location": "dom",
+          "points": 41
+        }
+      ]
+    },
+    {
+      "id": "ASM",
+      "games": [
+        {
+          "day": 1,
+          "goals_scored": "0",
+          "goals_taken": "3",
+          "opponent": "OL",
+          "location": "dom",
+          "points": 0
+        },
+        {
+          "day": 2,
+          "goals_scored": "0",
+          "goals_taken": "3",
+          "opponent": "FCM",
+          "location": "ext",
+          "points": 0
+        },
+        {
+          "day": 3,
+          "goals_scored": "2",
+          "goals_taken": "2",
+          "opponent": "NO",
+          "location": "dom",
+          "points": 1
+        },
+        {
+          "day": 4,
+          "goals_scored": "2",
+          "goals_taken": "2",
+          "opponent": "RCSA",
+          "location": "ext",
+          "points": 2
+        },
+        {
+          "day": 5,
+          "goals_scored": "3",
+          "goals_taken": "4",
+          "opponent": "OM",
+          "location": "dom",
+          "points": 2
+        },
+        {
+          "day": 6,
+          "goals_scored": "0",
+          "goals_taken": "0",
+          "opponent": "SDR",
+          "location": "ext",
+          "points": 3
+        },
+        {
+          "day": 7,
+          "goals_scored": "3",
+          "goals_taken": "1",
+          "opponent": "OGCN",
+          "location": "dom",
+          "points": 6
+        },
+        {
+          "day": 8,
+          "goals_scored": "4",
+          "goals_taken": "1",
+          "opponent": "SB",
+          "location": "dom",
+          "points": 9
+        },
+        {
+          "day": 9,
+          "goals_scored": "1",
+          "goals_taken": "3",
+          "opponent": "MHSC",
+          "location": "ext",
+          "points": 9
+        },
+        {
+          "day": 10,
+          "goals_scored": "3",
+          "goals_taken": "2",
+          "opponent": "SRFC",
+          "location": "dom",
+          "points": 12
+        },
+        {
+          "day": 11,
+          "goals_scored": "1",
+          "goals_taken": "0",
+          "opponent": "FCN",
+          "location": "ext",
+          "points": 15
+        },
+        {
+          "day": 12,
+          "goals_scored": "0",
+          "goals_taken": "1",
+          "opponent": "ASSE",
+          "location": "ext",
+          "points": 15
+        },
+        {
+          "day": 13,
+          "goals_scored": "1",
+          "goals_taken": "0",
+          "opponent": "DFCO",
+          "location": "dom",
+          "points": 18
+        },
+        {
+          "day": 14,
+          "goals_scored": "1",
+          "goals_taken": "2",
+          "opponent": "FCGB",
+          "location": "ext",
+          "points": 18
+        },
+        {
+          "day": 15,
+          "goals_scored": "1",
+          "goals_taken": "4",
+          "opponent": "PSG",
+          "location": "dom",
+          "points": 18
+        },
+        {
+          "day": 16,
+          "goals_scored": "2",
+          "goals_taken": "1",
+          "opponent": "TFC",
+          "location": "ext",
+          "points": 21
+        },
+        {
+          "day": 17,
+          "goals_scored": "3",
+          "goals_taken": "0",
+          "opponent": "ASCF",
+          "location": "dom",
+          "points": 24
+        },
+        {
+          "day": 18,
+          "goals_scored": "0",
+          "goals_taken": "0",
+          "opponent": "SCOA",
+          "location": "ext",
+          "points": 25
+        },
+        {
+          "day": 19,
+          "goals_scored": "5",
+          "goals_taken": "1",
+          "opponent": "LOSC",
+          "location": "dom",
+          "points": 28
+        },
+        {
+          "day": 20,
+          "goals_scored": "3",
+          "goals_taken": "3",
+          "opponent": "PSG",
+          "location": "ext",
+          "points": 29
+        },
+        {
+          "day": 21,
+          "goals_scored": "1",
+          "goals_taken": "3",
+          "opponent": "RCSA",
+          "location": "dom",
+          "points": 29
+        },
+        {
+          "day": 22,
+          "goals_scored": "1",
+          "goals_taken": "3",
+          "opponent": "NO",
+          "location": "ext",
+          "points": 29
+        },
+        {
+          "day": 23,
+          "goals_scored": "1",
+          "goals_taken": "0",
+          "opponent": "SCOA",
+          "location": "dom",
+          "points": 32
+        },
+        {
+          "day": 24,
+          "goals_scored": "2",
+          "goals_taken": "1",
+          "opponent": "ASCF",
+          "location": "ext",
+          "points": 35
+        },
+        {
+          "day": 25,
+          "goals_scored": "1",
+          "goals_taken": "0",
+          "opponent": "MHSC",
+          "location": "dom",
+          "points": 38
+        },
+        {
+          "day": 26,
+          "goals_scored": "1",
+          "goals_taken": "1",
+          "opponent": "DFCO",
+          "location": "ext",
+          "points": 39
+        },
+        {
+          "day": 27,
+          "goals_scored": "1",
+          "goals_taken": "1",
+          "opponent": "SDR",
+          "location": "dom",
+          "points": 40
+        },
+        {
+          "day": 28,
+          "goals_scored": "1",
+          "goals_taken": "2",
+          "opponent": "OGCN",
+          "location": "ext",
+          "points": 40
+        }
+      ]
+    },
+    {
+      "id": "NO",
+      "games": [
+        {
+          "day": 1,
+          "goals_scored": "0",
+          "goals_taken": "3",
+          "opponent": "PSG",
+          "location": "ext",
+          "points": 0
+        },
+        {
+          "day": 2,
+          "goals_scored": "1",
+          "goals_taken": "2",
+          "opponent": "OGCN",
+          "location": "dom",
+          "points": 0
+        },
+        {
+          "day": 3,
+          "goals_scored": "2",
+          "goals_taken": "2",
+          "opponent": "ASM",
+          "location": "ext",
+          "points": 1
+        },
+        {
+          "day": 4,
+          "goals_scored": "3",
+          "goals_taken": "0",
+          "opponent": "SB",
+          "location": "dom",
+          "points": 4
+        },
+        {
+          "day": 5,
+          "goals_scored": "0",
+          "goals_taken": "0",
+          "opponent": "DFCO",
+          "location": "ext",
+          "points": 5
+        },
+        {
+          "day": 6,
+          "goals_scored": "1",
+          "goals_taken": "0",
+          "opponent": "TFC",
+          "location": "dom",
+          "points": 8
+        },
+        {
+          "day": 7,
+          "goals_scored": "0",
+          "goals_taken": "1",
+          "opponent": "MHSC",
+          "location": "ext",
+          "points": 8
+        },
+        {
+          "day": 8,
+          "goals_scored": "0",
+          "goals_taken": "1",
+          "opponent": "ASSE",
+          "location": "dom",
+          "points": 8
+        },
+        {
+          "day": 9,
+          "goals_scored": "2",
+          "goals_taken": "2",
+          "opponent": "LOSC",
+          "location": "ext",
+          "points": 9
+        },
+        {
+          "day": 10,
+          "goals_scored": "1",
+          "goals_taken": "1",
+          "opponent": "ASCF",
+          "location": "dom",
+          "points": 10
+        },
+        {
+          "day": 11,
+          "goals_scored": "0",
+          "goals_taken": "0",
+          "opponent": "SDR",
+          "location": "ext",
+          "points": 11
+        },
+        {
+          "day": 12,
+          "goals_scored": "0",
+          "goals_taken": "1",
+          "opponent": "SRFC",
+          "location": "dom",
+          "points": 11
+        },
+        {
+          "day": 13,
+          "goals_scored": "1",
+          "goals_taken": "4",
+          "opponent": "RCSA",
+          "location": "ext",
+          "points": 11
+        },
+        {
+          "day": 14,
+          "goals_scored": "0",
+          "goals_taken": "1",
+          "opponent": "SCOA",
+          "location": "ext",
+          "points": 11
+        },
+        {
+          "day": 15,
+          "goals_scored": "1",
+          "goals_taken": "1",
+          "opponent": "FCM",
+          "location": "dom",
+          "points": 12
+        },
+        {
+          "day": 16,
+          "goals_scored": "0",
+          "goals_taken": "6",
+          "opponent": "FCGB",
+          "location": "ext",
+          "points": 12
+        },
+        {
+          "day": 17,
+          "goals_scored": "0",
+          "goals_taken": "4",
+          "opponent": "OL",
+          "location": "dom",
+          "points": 12
+        },
+        {
+          "day": 18,
+          "goals_scored": "0",
+          "goals_taken": "1",
+          "opponent": "FCN",
+          "location": "dom",
+          "points": 12
+        },
+        {
+          "day": 19,
+          "goals_scored": "1",
+          "goals_taken": "3",
+          "opponent": "OM",
+          "location": "ext",
+          "points": 12
+        },
+        {
+          "day": 20,
+          "goals_scored": "2",
+          "goals_taken": "0",
+          "opponent": "SDR",
+          "location": "dom",
+          "points": 15
+        },
+        {
+          "day": 21,
+          "goals_scored": "1",
+          "goals_taken": "2",
+          "opponent": "ASSE",
+          "location": "ext",
+          "points": 15
+        },
+        {
+          "day": 22,
+          "goals_scored": "3",
+          "goals_taken": "1",
+          "opponent": "ASM",
+          "location": "dom",
+          "points": 18
+        },
+        {
+          "day": 23,
+          "goals_scored": "2",
+          "goals_taken": "0",
+          "opponent": "DFCO",
+          "location": "dom",
+          "points": 21
+        },
+        {
+          "day": 24,
+          "goals_scored": "3",
+          "goals_taken": "1",
+          "opponent": "OGCN",
+          "location": "ext",
+          "points": 24
+        },
+        {
+          "day": 25,
+          "goals_scored": "1",
+          "goals_taken": "0",
+          "opponent": "SCOA",
+          "location": "dom",
+          "points": 27
+        },
+        {
+          "day": 26,
+          "goals_scored": "1",
+          "goals_taken": "2",
+          "opponent": "SRFC",
+          "location": "ext",
+          "points": 27
+        },
+        {
+          "day": 27,
+          "goals_scored": "2",
+          "goals_taken": "3",
+          "opponent": "OM",
+          "location": "dom",
+          "points": 27
+        },
+        {
+          "day": 28,
+          "goals_scored": "1",
+          "goals_taken": "2",
+          "opponent": "FCM",
+          "location": "ext",
+          "points": 27
+        }
+      ]
+    },
+    {
+      "id": "SB",
+      "games": [
+        {
+          "day": 1,
+          "goals_scored": "1",
+          "goals_taken": "1",
+          "opponent": "TFC",
+          "location": "dom",
+          "points": 1
+        },
+        {
+          "day": 2,
+          "goals_scored": "1",
+          "goals_taken": "1",
+          "opponent": "ASSE",
+          "location": "ext",
+          "points": 2
+        },
+        {
+          "day": 3,
+          "goals_scored": "1",
+          "goals_taken": "0",
+          "opponent": "SDR",
+          "location": "dom",
+          "points": 5
+        },
+        {
+          "day": 4,
+          "goals_scored": "0",
+          "goals_taken": "3",
+          "opponent": "NO",
+          "location": "ext",
+          "points": 5
+        },
+        {
+          "day": 5,
+          "goals_scored": "0",
+          "goals_taken": "0",
+          "opponent": "SRFC",
+          "location": "dom",
+          "points": 6
+        },
+        {
+          "day": 6,
+          "goals_scored": "2",
+          "goals_taken": "2",
+          "opponent": "FCGB",
+          "location": "ext",
+          "points": 7
+        },
+        {
+          "day": 7,
+          "goals_scored": "2",
+          "goals_taken": "2",
+          "opponent": "OL",
+          "location": "dom",
+          "points": 8
+        },
+        {
+          "day": 8,
+          "goals_scored": "1",
+          "goals_taken": "4",
+          "opponent": "ASM",
+          "location": "ext",
+          "points": 8
+        },
+        {
+          "day": 9,
+          "goals_scored": "2",
+          "goals_taken": "0",
+          "opponent": "FCM",
+          "location": "dom",
+          "points": 11
+        },
+        {
+          "day": 10,
+          "goals_scored": "1",
+          "goals_taken": "0",
+          "opponent": "SCOA",
+          "location": "ext",
+          "points": 14
+        },
+        {
+          "day": 11,
+          "goals_scored": "2",
+          "goals_taken": "0",
+          "opponent": "DFCO",
+          "location": "dom",
+          "points": 17
+        },
+        {
+          "day": 12,
+          "goals_scored": "0",
+          "goals_taken": "1",
+          "opponent": "ASCF",
+          "location": "ext",
+          "points": 17
+        },
+        {
+          "day": 13,
+          "goals_scored": "1",
+          "goals_taken": "2",
+          "opponent": "PSG",
+          "location": "dom",
+          "points": 17
+        },
+        {
+          "day": 14,
+          "goals_scored": "1",
+          "goals_taken": "1",
+          "opponent": "FCN",
+          "location": "dom",
+          "points": 18
+        },
+        {
+          "day": 15,
+          "goals_scored": "1",
+          "goals_taken": "2",
+          "opponent": "OM",
+          "location": "ext",
+          "points": 18
+        },
+        {
+          "day": 16,
+          "goals_scored": "5",
+          "goals_taken": "0",
+          "opponent": "RCSA",
+          "location": "dom",
+          "points": 21
+        },
+        {
+          "day": 17,
+          "goals_scored": "0",
+          "goals_taken": "1",
+          "opponent": "LOSC",
+          "location": "ext",
+          "points": 21
+        },
+        {
+          "day": 18,
+          "goals_scored": "0",
+          "goals_taken": "0",
+          "opponent": "OGCN",
+          "location": "dom",
+          "points": 22
+        },
+        {
+          "day": 19,
+          "goals_scored": "0",
+          "goals_taken": "4",
+          "opponent": "MHSC",
+          "location": "ext",
+          "points": 22
+        },
+        {
+          "day": 20,
+          "goals_scored": "5",
+          "goals_taken": "2",
+          "opponent": "TFC",
+          "location": "ext",
+          "points": 25
+        },
+        {
+          "day": 21,
+          "goals_scored": "2",
+          "goals_taken": "1",
+          "opponent": "ASCF",
+          "location": "dom",
+          "points": 28
+        },
+        {
+          "day": 22,
+          "goals_scored": "0",
+          "goals_taken": "3",
+          "opponent": "DFCO",
+          "location": "ext",
+          "points": 28
+        },
+        {
+          "day": 23,
+          "goals_scored": "1",
+          "goals_taken": "1",
+          "opponent": "FCGB",
+          "location": "dom",
+          "points": 29
+        },
+        {
+          "day": 24,
+          "goals_scored": "0",
+          "goals_taken": "0",
+          "opponent": "SRFC",
+          "location": "ext",
+          "points": 30
+        },
+        {
+          "day": 25,
+          "goals_scored": "3",
+          "goals_taken": "2",
+          "opponent": "ASSE",
+          "location": "dom",
+          "points": 33
+        },
+        {
+          "day": 26,
+          "goals_scored": "2",
+          "goals_taken": "2",
+          "opponent": "OGCN",
+          "location": "ext",
+          "points": 34
+        },
+        {
+          "day": 27,
+          "goals_scored": "0",
+          "goals_taken": "1",
+          "opponent": "SCOA",
+          "location": "dom",
+          "points": 34
+        },
+        {
+          "day": 28,
+          "goals_scored": "0",
+          "goals_taken": "1",
+          "opponent": "SDR",
+          "location": "ext",
+          "points": 34
+        }
+      ]
+    },
+    {
+      "id": "DFCO",
+      "games": [
+        {
+          "day": 1,
+          "goals_scored": "1",
+          "goals_taken": "2",
+          "opponent": "ASSE",
+          "location": "dom",
+          "points": 0
+        },
+        {
+          "day": 2,
+          "goals_scored": "0",
+          "goals_taken": "1",
+          "opponent": "TFC",
+          "location": "ext",
+          "points": 0
+        },
+        {
+          "day": 3,
+          "goals_scored": "0",
+          "goals_taken": "2",
+          "opponent": "FCGB",
+          "location": "dom",
+          "points": 0
+        },
+        {
+          "day": 4,
+          "goals_scored": "0",
+          "goals_taken": "2",
+          "opponent": "SCOA",
+          "location": "ext",
+          "points": 0
+        },
+        {
+          "day": 5,
+          "goals_scored": "0",
+          "goals_taken": "0",
+          "opponent": "NO",
+          "location": "dom",
+          "points": 1
+        },
+        {
+          "day": 6,
+          "goals_scored": "1",
+          "goals_taken": "2",
+          "opponent": "OGCN",
+          "location": "ext",
+          "points": 1
+        },
+        {
+          "day": 7,
+          "goals_scored": "0",
+          "goals_taken": "0",
+          "opponent": "OM",
+          "location": "dom",
+          "points": 2
+        },
+        {
+          "day": 8,
+          "goals_scored": "2",
+          "goals_taken": "1",
+          "opponent": "SDR",
+          "location": "ext",
+          "points": 5
+        },
+        {
+          "day": 9,
+          "goals_scored": "1",
+          "goals_taken": "0",
+          "opponent": "RCSA",
+          "location": "dom",
+          "points": 8
+        },
+        {
+          "day": 10,
+          "goals_scored": "0",
+          "goals_taken": "0",
+          "opponent": "OL",
+          "location": "ext",
+          "points": 9
+        },
+        {
+          "day": 11,
+          "goals_scored": "0",
+          "goals_taken": "2",
+          "opponent": "SB",
+          "location": "ext",
+          "points": 9
+        },
+        {
+          "day": 12,
+          "goals_scored": "2",
+          "goals_taken": "1",
+          "opponent": "PSG",
+          "location": "dom",
+          "points": 12
+        },
+        {
+          "day": 13,
+          "goals_scored": "0",
+          "goals_taken": "1",
+          "opponent": "ASM",
+          "location": "ext",
+          "points": 12
+        },
+        {
+          "day": 14,
+          "goals_scored": "2",
+          "goals_taken": "1",
+          "opponent": "SRFC",
+          "location": "dom",
+          "points": 15
+        },
+        {
+          "day": 15,
+          "goals_scored": "0",
+          "goals_taken": "1",
+          "opponent": "LOSC",
+          "location": "ext",
+          "points": 15
+        },
+        {
+          "day": 16,
+          "goals_scored": "2",
+          "goals_taken": "2",
+          "opponent": "MHSC",
+          "location": "dom",
+          "points": 16
+        },
+        {
+          "day": 17,
+          "goals_scored": "0",
+          "goals_taken": "1",
+          "opponent": "FCN",
+          "location": "ext",
+          "points": 16
+        },
+        {
+          "day": 18,
+          "goals_scored": "1",
+          "goals_taken": "1",
+          "opponent": "ASCF",
+          "location": "ext",
+          "points": 17
+        },
+        {
+          "day": 19,
+          "goals_scored": "2",
+          "goals_taken": "2",
+          "opponent": "FCM",
+          "location": "dom",
+          "points": 18
+        },
+        {
+          "day": 20,
+          "goals_scored": "1",
+          "goals_taken": "0",
+          "opponent": "LOSC",
+          "location": "dom",
+          "points": 21
+        },
+        {
+          "day": 21,
+          "goals_scored": "1",
+          "goals_taken": "2",
+          "opponent": "MHSC",
+          "location": "ext",
+          "points": 21
+        },
+        {
+          "day": 22,
+          "goals_scored": "3",
+          "goals_taken": "0",
+          "opponent": "SB",
+          "location": "dom",
+          "points": 24
+        },
+        {
+          "day": 23,
+          "goals_scored": "0",
+          "goals_taken": "2",
+          "opponent": "NO",
+          "location": "ext",
+          "points": 24
+        },
+        {
+          "day": 24,
+          "goals_scored": "3",
+          "goals_taken": "3",
+          "opponent": "FCN",
+          "location": "dom",
+          "points": 25
+        },
+        {
+          "day": 25,
+          "goals_scored": "2",
+          "goals_taken": "2",
+          "opponent": "FCGB",
+          "location": "ext",
+          "points": 26
+        },
+        {
+          "day": 26,
+          "goals_scored": "1",
+          "goals_taken": "1",
+          "opponent": "ASM",
+          "location": "dom",
+          "points": 27
+        },
+        {
+          "day": 27,
+          "goals_scored": "0",
+          "goals_taken": "4",
+          "opponent": "PSG",
+          "location": "ext",
+          "points": 27
+        },
+        {
+          "day": 28,
+          "goals_scored": "2",
+          "goals_taken": "1",
+          "opponent": "TFC",
+          "location": "dom",
+          "points": 30
+        }
+      ]
+    },
+    {
+      "id": "SCOA",
+      "games": [
+        {
+          "day": 1,
+          "goals_scored": "3",
+          "goals_taken": "1",
+          "opponent": "FCGB",
+          "location": "dom",
+          "points": 3
+        },
+        {
+          "day": 2,
+          "goals_scored": "0",
+          "goals_taken": "6",
+          "opponent": "OL",
+          "location": "ext",
+          "points": 3
+        },
+        {
+          "day": 3,
+          "goals_scored": "3",
+          "goals_taken": "0",
+          "opponent": "FCM",
+          "location": "dom",
+          "points": 6
+        },
+        {
+          "day": 4,
+          "goals_scored": "2",
+          "goals_taken": "0",
+          "opponent": "DFCO",
+          "location": "dom",
+          "points": 9
+        },
+        {
+          "day": 5,
+          "goals_scored": "1",
+          "goals_taken": "2",
+          "opponent": "LOSC",
+          "location": "ext",
+          "points": 9
+        },
+        {
+          "day": 6,
+          "goals_scored": "4",
+          "goals_taken": "1",
+          "opponent": "ASSE",
+          "location": "dom",
+          "points": 12
+        },
+        {
+          "day": 7,
+          "goals_scored": "2",
+          "goals_taken": "0",
+          "opponent": "TFC",
+          "location": "ext",
+          "points": 15
+        },
+        {
+          "day": 8,
+          "goals_scored": "1",
+          "goals_taken": "1",
+          "opponent": "ASCF",
+          "location": "dom",
+          "points": 16
+        },
+        {
+          "day": 9,
+          "goals_scored": "0",
+          "goals_taken": "4",
+          "opponent": "PSG",
+          "location": "ext",
+          "points": 16
+        },
+        {
+          "day": 10,
+          "goals_scored": "0",
+          "goals_taken": "1",
+          "opponent": "SB",
+          "location": "dom",
+          "points": 16
+        },
+        {
+          "day": 11,
+          "goals_scored": "0",
+          "goals_taken": "0",
+          "opponent": "MHSC",
+          "location": "ext",
+          "points": 17
+        },
+        {
+          "day": 12,
+          "goals_scored": "1",
+          "goals_taken": "0",
+          "opponent": "RCSA",
+          "location": "dom",
+          "points": 20
+        },
+        {
+          "day": 13,
+          "goals_scored": "0",
+          "goals_taken": "0",
+          "opponent": "SDR",
+          "location": "ext",
+          "points": 21
+        },
+        {
+          "day": 14,
+          "goals_scored": "1",
+          "goals_taken": "0",
+          "opponent": "NO",
+          "location": "dom",
+          "points": 24
+        },
+        {
+          "day": 15,
+          "goals_scored": "1",
+          "goals_taken": "3",
+          "opponent": "OGCN",
+          "location": "ext",
+          "points": 24
+        },
+        {
+          "day": 16,
+          "goals_scored": "0",
+          "goals_taken": "2",
+          "opponent": "OM",
+          "location": "dom",
+          "points": 24
+        },
+        {
+          "day": 17,
+          "goals_scored": "1",
+          "goals_taken": "2",
+          "opponent": "SRFC",
+          "location": "ext",
+          "points": 24
+        },
+        {
+          "day": 18,
+          "goals_scored": "0",
+          "goals_taken": "0",
+          "opponent": "ASM",
+          "location": "dom",
+          "points": 25
+        },
+        {
+          "day": 19,
+          "goals_scored": "2",
+          "goals_taken": "1",
+          "opponent": "FCN",
+          "location": "ext",
+          "points": 28
+        },
+        {
+          "day": 20,
+          "goals_scored": "1",
+          "goals_taken": "1",
+          "opponent": "OGCN",
+          "location": "dom",
+          "points": 29
+        },
+        {
+          "day": 21,
+          "goals_scored": "0",
+          "goals_taken": "0",
+          "opponent": "OM",
+          "location": "ext",
+          "points": 30
+        },
+        {
+          "day": 22,
+          "goals_scored": "1",
+          "goals_taken": "4",
+          "opponent": "SDR",
+          "location": "dom",
+          "points": 30
+        },
+        {
+          "day": 23,
+          "goals_scored": "0",
+          "goals_taken": "1",
+          "opponent": "ASM",
+          "location": "ext",
+          "points": 30
+        },
+        {
+          "day": 24,
+          "goals_scored": "0",
+          "goals_taken": "2",
+          "opponent": "LOSC",
+          "location": "dom",
+          "points": 30
+        },
+        {
+          "day": 25,
+          "goals_scored": "0",
+          "goals_taken": "1",
+          "opponent": "NO",
+          "location": "ext",
+          "points": 30
+        },
+        {
+          "day": 26,
+          "goals_scored": "1",
+          "goals_taken": "0",
+          "opponent": "MHSC",
+          "location": "dom",
+          "points": 33
+        },
+        {
+          "day": 27,
+          "goals_scored": "1",
+          "goals_taken": "0",
+          "opponent": "SB",
+          "location": "ext",
+          "points": 36
+        },
+        {
+          "day": 28,
+          "goals_scored": "2",
+          "goals_taken": "0",
+          "opponent": "FCN",
+          "location": "dom",
+          "points": 39
+        }
+      ]
+    },
+    {
+      "id": "LOSC",
+      "games": [
+        {
+          "day": 1,
+          "goals_scored": "2",
+          "goals_taken": "1",
+          "opponent": "FCN",
+          "location": "dom",
+          "points": 3
+        },
+        {
+          "day": 2,
+          "goals_scored": "0",
+          "goals_taken": "1",
+          "opponent": "ASCF",
+          "location": "ext",
+          "points": 3
+        },
+        {
+          "day": 3,
+          "goals_scored": "3",
+          "goals_taken": "0",
+          "opponent": "ASSE",
+          "location": "dom",
+          "points": 6
+        },
+        {
+          "day": 4,
+          "goals_scored": "0",
+          "goals_taken": "2",
+          "opponent": "SDR",
+          "location": "ext",
+          "points": 6
+        },
+        {
+          "day": 5,
+          "goals_scored": "2",
+          "goals_taken": "1",
+          "opponent": "SCOA",
+          "location": "dom",
+          "points": 9
+        },
+        {
+          "day": 6,
+          "goals_scored": "1",
+          "goals_taken": "1",
+          "opponent": "SRFC",
+          "location": "ext",
+          "points": 10
+        },
+        {
+          "day": 7,
+          "goals_scored": "2",
+          "goals_taken": "0",
+          "opponent": "RCSA",
+          "location": "dom",
+          "points": 13
+        },
+        {
+          "day": 8,
+          "goals_scored": "1",
+          "goals_taken": "1",
+          "opponent": "OGCN",
+          "location": "ext",
+          "points": 14
+        },
+        {
+          "day": 9,
+          "goals_scored": "2",
+          "goals_taken": "2",
+          "opponent": "NO",
+          "location": "dom",
+          "points": 15
+        },
+        {
+          "day": 10,
+          "goals_scored": "1",
+          "goals_taken": "2",
+          "opponent": "TFC",
+          "location": "ext",
+          "points": 15
+        },
+        {
+          "day": 11,
+          "goals_scored": "3",
+          "goals_taken": "0",
+          "opponent": "FCGB",
+          "location": "dom",
+          "points": 18
+        },
+        {
+          "day": 12,
+          "goals_scored": "1",
+          "goals_taken": "2",
+          "opponent": "OM",
+          "location": "ext",
+          "points": 18
+        },
+        {
+          "day": 13,
+          "goals_scored": "0",
+          "goals_taken": "0",
+          "opponent": "FCM",
+          "location": "dom",
+          "points": 19
+        },
+        {
+          "day": 14,
+          "goals_scored": "0",
+          "goals_taken": "2",
+          "opponent": "PSG",
+          "location": "ext",
+          "points": 19
+        },
+        {
+          "day": 15,
+          "goals_scored": "1",
+          "goals_taken": "0",
+          "opponent": "DFCO",
+          "location": "dom",
+          "points": 22
+        },
+        {
+          "day": 16,
+          "goals_scored": "1",
+          "goals_taken": "0",
+          "opponent": "OL",
+          "location": "ext",
+          "points": 25
+        },
+        {
+          "day": 17,
+          "goals_scored": "1",
+          "goals_taken": "0",
+          "opponent": "SB",
+          "location": "dom",
+          "points": 28
+        },
+        {
+          "day": 18,
+          "goals_scored": "2",
+          "goals_taken": "1",
+          "opponent": "MHSC",
+          "location": "dom",
+          "points": 31
+        },
+        {
+          "day": 19,
+          "goals_scored": "1",
+          "goals_taken": "5",
+          "opponent": "ASM",
+          "location": "ext",
+          "points": 31
+        },
+        {
+          "day": 20,
+          "goals_scored": "0",
+          "goals_taken": "1",
+          "opponent": "DFCO",
+          "location": "ext",
+          "points": 31
+        },
+        {
+          "day": 21,
+          "goals_scored": "0",
+          "goals_taken": "2",
+          "opponent": "PSG",
+          "location": "dom",
+          "points": 31
+        },
+        {
+          "day": 22,
+          "goals_scored": "2",
+          "goals_taken": "1",
+          "opponent": "RCSA",
+          "location": "ext",
+          "points": 34
+        },
+        {
+          "day": 23,
+          "goals_scored": "1",
+          "goals_taken": "0",
+          "opponent": "SRFC",
+          "location": "dom",
+          "points": 37
+        },
+        {
+          "day": 24,
+          "goals_scored": "2",
+          "goals_taken": "0",
+          "opponent": "SCOA",
+          "location": "ext",
+          "points": 40
+        },
+        {
+          "day": 25,
+          "goals_scored": "1",
+          "goals_taken": "2",
+          "opponent": "OM",
+          "location": "dom",
+          "points": 40
+        },
+        {
+          "day": 26,
+          "goals_scored": "3",
+          "goals_taken": "0",
+          "opponent": "TFC",
+          "location": "dom",
+          "points": 43
+        },
+        {
+          "day": 27,
+          "goals_scored": "1",
+          "goals_taken": "0",
+          "opponent": "FCN",
+          "location": "ext",
+          "points": 46
+        },
+        {
+          "day": 28,
+          "goals_scored": "1",
+          "goals_taken": "0",
+          "opponent": "OL",
+          "location": "dom",
+          "points": 49
+        }
+      ]
+    },
+    {
+      "id": "RCSA",
+      "games": [
+        {
+          "day": 1,
+          "goals_scored": "1",
+          "goals_taken": "1",
+          "opponent": "FCM",
+          "location": "dom",
+          "points": 1
+        },
+        {
+          "day": 2,
+          "goals_scored": "0",
+          "goals_taken": "0",
+          "opponent": "SDR",
+          "location": "ext",
+          "points": 2
+        },
+        {
+          "day": 3,
+          "goals_scored": "0",
+          "goals_taken": "2",
+          "opponent": "SRFC",
+          "location": "dom",
+          "points": 2
+        },
+        {
+          "day": 4,
+          "goals_scored": "2",
+          "goals_taken": "2",
+          "opponent": "ASM",
+          "location": "dom",
+          "points": 3
+        },
+        {
+          "day": 5,
+          "goals_scored": "0",
+          "goals_taken": "1",
+          "opponent": "PSG",
+          "location": "ext",
+          "points": 3
+        },
+        {
+          "day": 6,
+          "goals_scored": "2",
+          "goals_taken": "1",
+          "opponent": "FCN",
+          "location": "dom",
+          "points": 6
+        },
+        {
+          "day": 7,
+          "goals_scored": "0",
+          "goals_taken": "2",
+          "opponent": "LOSC",
+          "location": "ext",
+          "points": 6
+        },
+        {
+          "day": 8,
+          "goals_scored": "1",
+          "goals_taken": "0",
+          "opponent": "MHSC",
+          "location": "dom",
+          "points": 9
+        },
+        {
+          "day": 9,
+          "goals_scored": "0",
+          "goals_taken": "1",
+          "opponent": "DFCO",
+          "location": "ext",
+          "points": 9
+        },
+        {
+          "day": 10,
+          "goals_scored": "0",
+          "goals_taken": "2",
+          "opponent": "OM",
+          "location": "ext",
+          "points": 9
+        },
+        {
+          "day": 11,
+          "goals_scored": "1",
+          "goals_taken": "0",
+          "opponent": "OGCN",
+          "location": "dom",
+          "points": 12
+        },
+        {
+          "day": 12,
+          "goals_scored": "0",
+          "goals_taken": "1",
+          "opponent": "SCOA",
+          "location": "ext",
+          "points": 12
+        },
+        {
+          "day": 13,
+          "goals_scored": "4",
+          "goals_taken": "1",
+          "opponent": "NO",
+          "location": "dom",
+          "points": 15
+        },
+        {
+          "day": 14,
+          "goals_scored": "4",
+          "goals_taken": "0",
+          "opponent": "ASCF",
+          "location": "ext",
+          "points": 18
+        },
+        {
+          "day": 15,
+          "goals_scored": "1",
+          "goals_taken": "2",
+          "opponent": "OL",
+          "location": "dom",
+          "points": 18
+        },
+        {
+          "day": 16,
+          "goals_scored": "0",
+          "goals_taken": "5",
+          "opponent": "SB",
+          "location": "ext",
+          "points": 18
+        },
+        {
+          "day": 17,
+          "goals_scored": "4",
+          "goals_taken": "2",
+          "opponent": "TFC",
+          "location": "dom",
+          "points": 21
+        },
+        {
+          "day": 18,
+          "goals_scored": "1",
+          "goals_taken": "0",
+          "opponent": "FCGB",
+          "location": "ext",
+          "points": 24
+        },
+        {
+          "day": 19,
+          "goals_scored": "2",
+          "goals_taken": "1",
+          "opponent": "ASSE",
+          "location": "dom",
+          "points": 27
+        },
+        {
+          "day": 20,
+          "goals_scored": "0",
+          "goals_taken": "1",
+          "opponent": "FCM",
+          "location": "ext",
+          "points": 27
+        },
+        {
+          "day": 21,
+          "goals_scored": "3",
+          "goals_taken": "1",
+          "opponent": "ASM",
+          "location": "ext",
+          "points": 30
+        },
+        {
+          "day": 22,
+          "goals_scored": "1",
+          "goals_taken": "2",
+          "opponent": "LOSC",
+          "location": "dom",
+          "points": 30
+        },
+        {
+          "day": 23,
+          "goals_scored": "1",
+          "goals_taken": "0",
+          "opponent": "TFC",
+          "location": "ext",
+          "points": 33
+        },
+        {
+          "day": 24,
+          "goals_scored": "3",
+          "goals_taken": "0",
+          "opponent": "SDR",
+          "location": "dom",
+          "points": 36
+        },
+        {
+          "day": 25,
+          "goals_scored": "1",
+          "goals_taken": "1",
+          "opponent": "OL",
+          "location": "ext",
+          "points": 37
+        },
+        {
+          "day": 26,
+          "goals_scored": "0",
+          "goals_taken": "0",
+          "opponent": "ASCF",
+          "location": "dom",
+          "points": 38
+        },
+        {
+          "day": 27,
+          "goals_scored": "0",
+          "goals_taken": "3",
+          "opponent": "MHSC",
+          "location": "ext",
+          "points": 38
+        },
+        {
+          "day": 28,
+          "goals_scored": -1,
+          "goals_taken": -1,
+          "opponent": "PSG",
+          "location": "dom",
+          "points": 38
+        }
+      ]
+    }
+  ]
+}

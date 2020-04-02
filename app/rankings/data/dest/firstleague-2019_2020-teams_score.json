@@ -1,0 +1,4746 @@
+{
+  "ligue": "First League",
+  "year": "2019-2020",
+  "teams": [
+    {
+      "id": "LFC",
+      "games": [
+        {
+          "day": 1,
+          "goals_scored": "4",
+          "goals_taken": "1",
+          "opponent": "NCFC",
+          "location": "dom",
+          "points": 3
+        },
+        {
+          "day": 2,
+          "goals_scored": "2",
+          "goals_taken": "1",
+          "opponent": "SFC",
+          "location": "ext",
+          "points": 6
+        },
+        {
+          "day": 3,
+          "goals_scored": "3",
+          "goals_taken": "1",
+          "opponent": "AFC",
+          "location": "dom",
+          "points": 9
+        },
+        {
+          "day": 4,
+          "goals_scored": "3",
+          "goals_taken": "0",
+          "opponent": "BFC",
+          "location": "ext",
+          "points": 12
+        },
+        {
+          "day": 5,
+          "goals_scored": "3",
+          "goals_taken": "1",
+          "opponent": "NUFC",
+          "location": "dom",
+          "points": 15
+        },
+        {
+          "day": 6,
+          "goals_scored": "2",
+          "goals_taken": "1",
+          "opponent": "CFC",
+          "location": "ext",
+          "points": 18
+        },
+        {
+          "day": 7,
+          "goals_scored": "1",
+          "goals_taken": "0",
+          "opponent": "SUFC",
+          "location": "ext",
+          "points": 21
+        },
+        {
+          "day": 8,
+          "goals_scored": "2",
+          "goals_taken": "1",
+          "opponent": "LCFC",
+          "location": "dom",
+          "points": 24
+        },
+        {
+          "day": 9,
+          "goals_scored": "1",
+          "goals_taken": "1",
+          "opponent": "MUFC",
+          "location": "ext",
+          "points": 25
+        },
+        {
+          "day": 10,
+          "goals_scored": "2",
+          "goals_taken": "1",
+          "opponent": "THFC",
+          "location": "dom",
+          "points": 28
+        },
+        {
+          "day": 11,
+          "goals_scored": "2",
+          "goals_taken": "1",
+          "opponent": "AVFC",
+          "location": "ext",
+          "points": 31
+        },
+        {
+          "day": 12,
+          "goals_scored": "3",
+          "goals_taken": "1",
+          "opponent": "MCFC",
+          "location": "dom",
+          "points": 34
+        },
+        {
+          "day": 13,
+          "goals_scored": "2",
+          "goals_taken": "1",
+          "opponent": "CP",
+          "location": "ext",
+          "points": 37
+        },
+        {
+          "day": 14,
+          "goals_scored": "2",
+          "goals_taken": "1",
+          "opponent": "BHFC",
+          "location": "dom",
+          "points": 40
+        },
+        {
+          "day": 15,
+          "goals_scored": "5",
+          "goals_taken": "2",
+          "opponent": "EFC",
+          "location": "dom",
+          "points": 43
+        },
+        {
+          "day": 16,
+          "goals_scored": "3",
+          "goals_taken": "0",
+          "opponent": "AFCB",
+          "location": "ext",
+          "points": 46
+        },
+        {
+          "day": 17,
+          "goals_scored": "2",
+          "goals_taken": "0",
+          "opponent": "WFC",
+          "location": "dom",
+          "points": 49
+        },
+        {
+          "day": 18,
+          "goals_scored": "2",
+          "goals_taken": "0",
+          "opponent": "WHFC",
+          "location": "ext",
+          "points": 52
+        },
+        {
+          "day": 19,
+          "goals_scored": "4",
+          "goals_taken": "0",
+          "opponent": "LCFC",
+          "location": "ext",
+          "points": 55
+        },
+        {
+          "day": 20,
+          "goals_scored": "1",
+          "goals_taken": "0",
+          "opponent": "WWFC",
+          "location": "dom",
+          "points": 58
+        },
+        {
+          "day": 21,
+          "goals_scored": "2",
+          "goals_taken": "0",
+          "opponent": "SUFC",
+          "location": "dom",
+          "points": 61
+        },
+        {
+          "day": 22,
+          "goals_scored": "1",
+          "goals_taken": "0",
+          "opponent": "THFC",
+          "location": "ext",
+          "points": 64
+        },
+        {
+          "day": 23,
+          "goals_scored": "2",
+          "goals_taken": "0",
+          "opponent": "MUFC",
+          "location": "dom",
+          "points": 67
+        },
+        {
+          "day": 24,
+          "goals_scored": "2",
+          "goals_taken": "1",
+          "opponent": "WWFC",
+          "location": "ext",
+          "points": 70
+        },
+        {
+          "day": 25,
+          "goals_scored": "4",
+          "goals_taken": "0",
+          "opponent": "SFC",
+          "location": "dom",
+          "points": 73
+        },
+        {
+          "day": 26,
+          "goals_scored": "1",
+          "goals_taken": "0",
+          "opponent": "NCFC",
+          "location": "ext",
+          "points": 76
+        },
+        {
+          "day": 27,
+          "goals_scored": "3",
+          "goals_taken": "2",
+          "opponent": "WHFC",
+          "location": "dom",
+          "points": 79
+        },
+        {
+          "day": 28,
+          "goals_scored": "0",
+          "goals_taken": "3",
+          "opponent": "WFC",
+          "location": "ext",
+          "points": 79
+        },
+        {
+          "day": 29,
+          "goals_scored": "2",
+          "goals_taken": "1",
+          "opponent": "AFCB",
+          "location": "dom",
+          "points": 82
+        }
+      ]
+    },
+    {
+      "id": "AFCB",
+      "games": [
+        {
+          "day": 1,
+          "goals_scored": "1",
+          "goals_taken": "1",
+          "opponent": "SUFC",
+          "location": "dom",
+          "points": 1
+        },
+        {
+          "day": 2,
+          "goals_scored": "2",
+          "goals_taken": "1",
+          "opponent": "AVFC",
+          "location": "ext",
+          "points": 4
+        },
+        {
+          "day": 3,
+          "goals_scored": "1",
+          "goals_taken": "3",
+          "opponent": "MCFC",
+          "location": "dom",
+          "points": 4
+        },
+        {
+          "day": 4,
+          "goals_scored": "1",
+          "goals_taken": "3",
+          "opponent": "LCFC",
+          "location": "ext",
+          "points": 4
+        },
+        {
+          "day": 5,
+          "goals_scored": "3",
+          "goals_taken": "1",
+          "opponent": "EFC",
+          "location": "dom",
+          "points": 7
+        },
+        {
+          "day": 6,
+          "goals_scored": "3",
+          "goals_taken": "1",
+          "opponent": "SFC",
+          "location": "ext",
+          "points": 10
+        },
+        {
+          "day": 7,
+          "goals_scored": "2",
+          "goals_taken": "2",
+          "opponent": "WHFC",
+          "location": "dom",
+          "points": 11
+        },
+        {
+          "day": 8,
+          "goals_scored": "0",
+          "goals_taken": "1",
+          "opponent": "AFC",
+          "location": "ext",
+          "points": 11
+        },
+        {
+          "day": 9,
+          "goals_scored": "0",
+          "goals_taken": "0",
+          "opponent": "NCFC",
+          "location": "dom",
+          "points": 12
+        },
+        {
+          "day": 10,
+          "goals_scored": "0",
+          "goals_taken": "0",
+          "opponent": "WFC",
+          "location": "ext",
+          "points": 13
+        },
+        {
+          "day": 11,
+          "goals_scored": "1",
+          "goals_taken": "0",
+          "opponent": "MUFC",
+          "location": "dom",
+          "points": 16
+        },
+        {
+          "day": 12,
+          "goals_scored": "1",
+          "goals_taken": "2",
+          "opponent": "NUFC",
+          "location": "ext",
+          "points": 16
+        },
+        {
+          "day": 13,
+          "goals_scored": "1",
+          "goals_taken": "2",
+          "opponent": "WWFC",
+          "location": "dom",
+          "points": 16
+        },
+        {
+          "day": 14,
+          "goals_scored": "2",
+          "goals_taken": "3",
+          "opponent": "THFC",
+          "location": "ext",
+          "points": 16
+        },
+        {
+          "day": 15,
+          "goals_scored": "0",
+          "goals_taken": "1",
+          "opponent": "CP",
+          "location": "ext",
+          "points": 16
+        },
+        {
+          "day": 16,
+          "goals_scored": "0",
+          "goals_taken": "3",
+          "opponent": "LFC",
+          "location": "dom",
+          "points": 16
+        },
+        {
+          "day": 17,
+          "goals_scored": "1",
+          "goals_taken": "0",
+          "opponent": "CFC",
+          "location": "ext",
+          "points": 19
+        },
+        {
+          "day": 18,
+          "goals_scored": "0",
+          "goals_taken": "1",
+          "opponent": "BFC",
+          "location": "dom",
+          "points": 19
+        },
+        {
+          "day": 19,
+          "goals_scored": "1",
+          "goals_taken": "1",
+          "opponent": "AFC",
+          "location": "dom",
+          "points": 20
+        },
+        {
+          "day": 20,
+          "goals_scored": "0",
+          "goals_taken": "2",
+          "opponent": "BHFC",
+          "location": "ext",
+          "points": 20
+        },
+        {
+          "day": 21,
+          "goals_scored": "0",
+          "goals_taken": "4",
+          "opponent": "WHFC",
+          "location": "ext",
+          "points": 20
+        },
+        {
+          "day": 22,
+          "goals_scored": "0",
+          "goals_taken": "3",
+          "opponent": "WFC",
+          "location": "dom",
+          "points": 20
+        },
+        {
+          "day": 23,
+          "goals_scored": "0",
+          "goals_taken": "1",
+          "opponent": "NCFC",
+          "location": "ext",
+          "points": 20
+        },
+        {
+          "day": 24,
+          "goals_scored": "3",
+          "goals_taken": "1",
+          "opponent": "BHFC",
+          "location": "dom",
+          "points": 23
+        },
+        {
+          "day": 25,
+          "goals_scored": "2",
+          "goals_taken": "1",
+          "opponent": "AVFC",
+          "location": "dom",
+          "points": 26
+        },
+        {
+          "day": 26,
+          "goals_scored": "1",
+          "goals_taken": "2",
+          "opponent": "SUFC",
+          "location": "ext",
+          "points": 26
+        },
+        {
+          "day": 27,
+          "goals_scored": "0",
+          "goals_taken": "3",
+          "opponent": "BFC",
+          "location": "ext",
+          "points": 26
+        },
+        {
+          "day": 28,
+          "goals_scored": "2",
+          "goals_taken": "2",
+          "opponent": "CFC",
+          "location": "dom",
+          "points": 27
+        },
+        {
+          "day": 29,
+          "goals_scored": "1",
+          "goals_taken": "2",
+          "opponent": "LFC",
+          "location": "ext",
+          "points": 27
+        }
+      ]
+    },
+    {
+      "id": "WWFC",
+      "games": [
+        {
+          "day": 1,
+          "goals_scored": "0",
+          "goals_taken": "0",
+          "opponent": "LCFC",
+          "location": "ext",
+          "points": 1
+        },
+        {
+          "day": 2,
+          "goals_scored": "1",
+          "goals_taken": "1",
+          "opponent": "MUFC",
+          "location": "dom",
+          "points": 2
+        },
+        {
+          "day": 3,
+          "goals_scored": "1",
+          "goals_taken": "1",
+          "opponent": "BFC",
+          "location": "dom",
+          "points": 3
+        },
+        {
+          "day": 4,
+          "goals_scored": "2",
+          "goals_taken": "3",
+          "opponent": "EFC",
+          "location": "ext",
+          "points": 3
+        },
+        {
+          "day": 5,
+          "goals_scored": "2",
+          "goals_taken": "5",
+          "opponent": "CFC",
+          "location": "dom",
+          "points": 3
+        },
+        {
+          "day": 6,
+          "goals_scored": "1",
+          "goals_taken": "1",
+          "opponent": "CP",
+          "location": "ext",
+          "points": 4
+        },
+        {
+          "day": 7,
+          "goals_scored": "2",
+          "goals_taken": "0",
+          "opponent": "WFC",
+          "location": "dom",
+          "points": 7
+        },
+        {
+          "day": 8,
+          "goals_scored": "2",
+          "goals_taken": "0",
+          "opponent": "MCFC",
+          "location": "ext",
+          "points": 10
+        },
+        {
+          "day": 9,
+          "goals_scored": "1",
+          "goals_taken": "1",
+          "opponent": "SFC",
+          "location": "dom",
+          "points": 11
+        },
+        {
+          "day": 10,
+          "goals_scored": "1",
+          "goals_taken": "1",
+          "opponent": "NUFC",
+          "location": "ext",
+          "points": 12
+        },
+        {
+          "day": 11,
+          "goals_scored": "1",
+          "goals_taken": "1",
+          "opponent": "AFC",
+          "location": "ext",
+          "points": 13
+        },
+        {
+          "day": 12,
+          "goals_scored": "2",
+          "goals_taken": "1",
+          "opponent": "AVFC",
+          "location": "dom",
+          "points": 16
+        },
+        {
+          "day": 13,
+          "goals_scored": "2",
+          "goals_taken": "1",
+          "opponent": "AFCB",
+          "location": "ext",
+          "points": 19
+        },
+        {
+          "day": 14,
+          "goals_scored": "1",
+          "goals_taken": "1",
+          "opponent": "SUFC",
+          "location": "dom",
+          "points": 20
+        },
+        {
+          "day": 15,
+          "goals_scored": "2",
+          "goals_taken": "0",
+          "opponent": "WHFC",
+          "location": "dom",
+          "points": 23
+        },
+        {
+          "day": 16,
+          "goals_scored": "2",
+          "goals_taken": "2",
+          "opponent": "BHFC",
+          "location": "ext",
+          "points": 24
+        },
+        {
+          "day": 17,
+          "goals_scored": "1",
+          "goals_taken": "2",
+          "opponent": "THFC",
+          "location": "dom",
+          "points": 24
+        },
+        {
+          "day": 18,
+          "goals_scored": "2",
+          "goals_taken": "1",
+          "opponent": "NCFC",
+          "location": "ext",
+          "points": 27
+        },
+        {
+          "day": 19,
+          "goals_scored": "3",
+          "goals_taken": "2",
+          "opponent": "MCFC",
+          "location": "dom",
+          "points": 30
+        },
+        {
+          "day": 20,
+          "goals_scored": "0",
+          "goals_taken": "1",
+          "opponent": "LFC",
+          "location": "ext",
+          "points": 30
+        },
+        {
+          "day": 21,
+          "goals_scored": "1",
+          "goals_taken": "2",
+          "opponent": "WFC",
+          "location": "ext",
+          "points": 30
+        },
+        {
+          "day": 22,
+          "goals_scored": "1",
+          "goals_taken": "1",
+          "opponent": "NUFC",
+          "location": "dom",
+          "points": 31
+        },
+        {
+          "day": 23,
+          "goals_scored": "3",
+          "goals_taken": "2",
+          "opponent": "SFC",
+          "location": "ext",
+          "points": 34
+        },
+        {
+          "day": 24,
+          "goals_scored": "1",
+          "goals_taken": "2",
+          "opponent": "LFC",
+          "location": "dom",
+          "points": 34
+        },
+        {
+          "day": 25,
+          "goals_scored": "0",
+          "goals_taken": "0",
+          "opponent": "MUFC",
+          "location": "ext",
+          "points": 35
+        },
+        {
+          "day": 26,
+          "goals_scored": "0",
+          "goals_taken": "0",
+          "opponent": "LCFC",
+          "location": "dom",
+          "points": 36
+        },
+        {
+          "day": 27,
+          "goals_scored": "3",
+          "goals_taken": "0",
+          "opponent": "NCFC",
+          "location": "dom",
+          "points": 39
+        },
+        {
+          "day": 28,
+          "goals_scored": "3",
+          "goals_taken": "2",
+          "opponent": "THFC",
+          "location": "ext",
+          "points": 42
+        },
+        {
+          "day": 29,
+          "goals_scored": "0",
+          "goals_taken": "0",
+          "opponent": "BHFC",
+          "location": "dom",
+          "points": 43
+        }
+      ]
+    },
+    {
+      "id": "BHFC",
+      "games": [
+        {
+          "day": 1,
+          "goals_scored": "3",
+          "goals_taken": "0",
+          "opponent": "WFC",
+          "location": "ext",
+          "points": 3
+        },
+        {
+          "day": 2,
+          "goals_scored": "1",
+          "goals_taken": "1",
+          "opponent": "WHFC",
+          "location": "dom",
+          "points": 4
+        },
+        {
+          "day": 3,
+          "goals_scored": "0",
+          "goals_taken": "2",
+          "opponent": "SFC",
+          "location": "dom",
+          "points": 4
+        },
+        {
+          "day": 4,
+          "goals_scored": "0",
+          "goals_taken": "4",
+          "opponent": "MCFC",
+          "location": "ext",
+          "points": 4
+        },
+        {
+          "day": 5,
+          "goals_scored": "1",
+          "goals_taken": "1",
+          "opponent": "BFC",
+          "location": "dom",
+          "points": 5
+        },
+        {
+          "day": 6,
+          "goals_scored": "0",
+          "goals_taken": "0",
+          "opponent": "NUFC",
+          "location": "ext",
+          "points": 6
+        },
+        {
+          "day": 7,
+          "goals_scored": "0",
+          "goals_taken": "2",
+          "opponent": "CFC",
+          "location": "ext",
+          "points": 6
+        },
+        {
+          "day": 8,
+          "goals_scored": "3",
+          "goals_taken": "0",
+          "opponent": "THFC",
+          "location": "dom",
+          "points": 9
+        },
+        {
+          "day": 9,
+          "goals_scored": "1",
+          "goals_taken": "2",
+          "opponent": "AVFC",
+          "location": "ext",
+          "points": 9
+        },
+        {
+          "day": 10,
+          "goals_scored": "3",
+          "goals_taken": "2",
+          "opponent": "EFC",
+          "location": "dom",
+          "points": 12
+        },
+        {
+          "day": 11,
+          "goals_scored": "2",
+          "goals_taken": "0",
+          "opponent": "NCFC",
+          "location": "dom",
+          "points": 15
+        },
+        {
+          "day": 12,
+          "goals_scored": "1",
+          "goals_taken": "3",
+          "opponent": "MUFC",
+          "location": "ext",
+          "points": 15
+        },
+        {
+          "day": 13,
+          "goals_scored": "0",
+          "goals_taken": "2",
+          "opponent": "LCFC",
+          "location": "dom",
+          "points": 15
+        },
+        {
+          "day": 14,
+          "goals_scored": "1",
+          "goals_taken": "2",
+          "opponent": "LFC",
+          "location": "ext",
+          "points": 15
+        },
+        {
+          "day": 15,
+          "goals_scored": "2",
+          "goals_taken": "1",
+          "opponent": "AFC",
+          "location": "ext",
+          "points": 18
+        },
+        {
+          "day": 16,
+          "goals_scored": "2",
+          "goals_taken": "2",
+          "opponent": "WWFC",
+          "location": "dom",
+          "points": 19
+        },
+        {
+          "day": 17,
+          "goals_scored": "1",
+          "goals_taken": "1",
+          "opponent": "CP",
+          "location": "ext",
+          "points": 20
+        },
+        {
+          "day": 18,
+          "goals_scored": "0",
+          "goals_taken": "1",
+          "opponent": "SUFC",
+          "location": "dom",
+          "points": 20
+        },
+        {
+          "day": 19,
+          "goals_scored": "1",
+          "goals_taken": "2",
+          "opponent": "THFC",
+          "location": "ext",
+          "points": 20
+        },
+        {
+          "day": 20,
+          "goals_scored": "2",
+          "goals_taken": "0",
+          "opponent": "AFCB",
+          "location": "dom",
+          "points": 23
+        },
+        {
+          "day": 21,
+          "goals_scored": "1",
+          "goals_taken": "1",
+          "opponent": "CFC",
+          "location": "dom",
+          "points": 24
+        },
+        {
+          "day": 22,
+          "goals_scored": "0",
+          "goals_taken": "1",
+          "opponent": "EFC",
+          "location": "ext",
+          "points": 24
+        },
+        {
+          "day": 23,
+          "goals_scored": "1",
+          "goals_taken": "1",
+          "opponent": "AVFC",
+          "location": "dom",
+          "points": 25
+        },
+        {
+          "day": 24,
+          "goals_scored": "1",
+          "goals_taken": "3",
+          "opponent": "AFCB",
+          "location": "ext",
+          "points": 25
+        },
+        {
+          "day": 25,
+          "goals_scored": "3",
+          "goals_taken": "3",
+          "opponent": "WHFC",
+          "location": "ext",
+          "points": 26
+        },
+        {
+          "day": 26,
+          "goals_scored": "1",
+          "goals_taken": "1",
+          "opponent": "WFC",
+          "location": "dom",
+          "points": 27
+        },
+        {
+          "day": 27,
+          "goals_scored": "1",
+          "goals_taken": "1",
+          "opponent": "SUFC",
+          "location": "ext",
+          "points": 28
+        },
+        {
+          "day": 28,
+          "goals_scored": "0",
+          "goals_taken": "1",
+          "opponent": "CP",
+          "location": "dom",
+          "points": 28
+        },
+        {
+          "day": 29,
+          "goals_scored": "0",
+          "goals_taken": "0",
+          "opponent": "WWFC",
+          "location": "ext",
+          "points": 29
+        }
+      ]
+    },
+    {
+      "id": "SUFC",
+      "games": [
+        {
+          "day": 1,
+          "goals_scored": "1",
+          "goals_taken": "1",
+          "opponent": "AFCB",
+          "location": "ext",
+          "points": 1
+        },
+        {
+          "day": 2,
+          "goals_scored": "1",
+          "goals_taken": "0",
+          "opponent": "CP",
+          "location": "dom",
+          "points": 4
+        },
+        {
+          "day": 3,
+          "goals_scored": "1",
+          "goals_taken": "2",
+          "opponent": "LCFC",
+          "location": "dom",
+          "points": 4
+        },
+        {
+          "day": 4,
+          "goals_scored": "2",
+          "goals_taken": "2",
+          "opponent": "CFC",
+          "location": "ext",
+          "points": 5
+        },
+        {
+          "day": 5,
+          "goals_scored": "0",
+          "goals_taken": "1",
+          "opponent": "SFC",
+          "location": "dom",
+          "points": 5
+        },
+        {
+          "day": 6,
+          "goals_scored": "2",
+          "goals_taken": "0",
+          "opponent": "EFC",
+          "location": "ext",
+          "points": 8
+        },
+        {
+          "day": 7,
+          "goals_scored": "0",
+          "goals_taken": "1",
+          "opponent": "LFC",
+          "location": "dom",
+          "points": 8
+        },
+        {
+          "day": 8,
+          "goals_scored": "0",
+          "goals_taken": "0",
+          "opponent": "WFC",
+          "location": "ext",
+          "points": 9
+        },
+        {
+          "day": 9,
+          "goals_scored": "1",
+          "goals_taken": "0",
+          "opponent": "AFC",
+          "location": "dom",
+          "points": 12
+        },
+        {
+          "day": 10,
+          "goals_scored": "1",
+          "goals_taken": "1",
+          "opponent": "WHFC",
+          "location": "ext",
+          "points": 13
+        },
+        {
+          "day": 11,
+          "goals_scored": "3",
+          "goals_taken": "0",
+          "opponent": "BFC",
+          "location": "dom",
+          "points": 16
+        },
+        {
+          "day": 12,
+          "goals_scored": "1",
+          "goals_taken": "1",
+          "opponent": "THFC",
+          "location": "ext",
+          "points": 17
+        },
+        {
+          "day": 13,
+          "goals_scored": "3",
+          "goals_taken": "3",
+          "opponent": "MUFC",
+          "location": "dom",
+          "points": 18
+        },
+        {
+          "day": 14,
+          "goals_scored": "1",
+          "goals_taken": "1",
+          "opponent": "WWFC",
+          "location": "ext",
+          "points": 19
+        },
+        {
+          "day": 15,
+          "goals_scored": "0",
+          "goals_taken": "2",
+          "opponent": "NUFC",
+          "location": "dom",
+          "points": 19
+        },
+        {
+          "day": 16,
+          "goals_scored": "2",
+          "goals_taken": "1",
+          "opponent": "NCFC",
+          "location": "ext",
+          "points": 22
+        },
+        {
+          "day": 17,
+          "goals_scored": "2",
+          "goals_taken": "0",
+          "opponent": "AVFC",
+          "location": "dom",
+          "points": 25
+        },
+        {
+          "day": 18,
+          "goals_scored": "1",
+          "goals_taken": "0",
+          "opponent": "BHFC",
+          "location": "ext",
+          "points": 28
+        },
+        {
+          "day": 19,
+          "goals_scored": "1",
+          "goals_taken": "1",
+          "opponent": "WFC",
+          "location": "dom",
+          "points": 29
+        },
+        {
+          "day": 20,
+          "goals_scored": "0",
+          "goals_taken": "2",
+          "opponent": "MCFC",
+          "location": "ext",
+          "points": 29
+        },
+        {
+          "day": 21,
+          "goals_scored": "0",
+          "goals_taken": "2",
+          "opponent": "LFC",
+          "location": "ext",
+          "points": 29
+        },
+        {
+          "day": 22,
+          "goals_scored": "1",
+          "goals_taken": "0",
+          "opponent": "WHFC",
+          "location": "dom",
+          "points": 32
+        },
+        {
+          "day": 23,
+          "goals_scored": "1",
+          "goals_taken": "1",
+          "opponent": "AFC",
+          "location": "ext",
+          "points": 33
+        },
+        {
+          "day": 24,
+          "goals_scored": "0",
+          "goals_taken": "1",
+          "opponent": "MCFC",
+          "location": "dom",
+          "points": 33
+        },
+        {
+          "day": 25,
+          "goals_scored": "1",
+          "goals_taken": "0",
+          "opponent": "CP",
+          "location": "ext",
+          "points": 36
+        },
+        {
+          "day": 26,
+          "goals_scored": "2",
+          "goals_taken": "1",
+          "opponent": "AFCB",
+          "location": "dom",
+          "points": 39
+        },
+        {
+          "day": 27,
+          "goals_scored": "1",
+          "goals_taken": "1",
+          "opponent": "BHFC",
+          "location": "dom",
+          "points": 40
+        },
+        {
+          "day": 28,
+          "goals_scored": -1,
+          "goals_taken": -1,
+          "opponent": "AVFC",
+          "location": "ext",
+          "points": 40
+        },
+        {
+          "day": 29,
+          "goals_scored": "1",
+          "goals_taken": "0",
+          "opponent": "NCFC",
+          "location": "dom",
+          "points": 43
+        }
+      ]
+    },
+    {
+      "id": "NCFC",
+      "games": [
+        {
+          "day": 1,
+          "goals_scored": "1",
+          "goals_taken": "4",
+          "opponent": "LFC",
+          "location": "ext",
+          "points": 0
+        },
+        {
+          "day": 2,
+          "goals_scored": "3",
+          "goals_taken": "1",
+          "opponent": "NUFC",
+          "location": "dom",
+          "points": 3
+        },
+        {
+          "day": 3,
+          "goals_scored": "2",
+          "goals_taken": "3",
+          "opponent": "CFC",
+          "location": "dom",
+          "points": 3
+        },
+        {
+          "day": 4,
+          "goals_scored": "0",
+          "goals_taken": "2",
+          "opponent": "WHFC",
+          "location": "ext",
+          "points": 3
+        },
+        {
+          "day": 5,
+          "goals_scored": "3",
+          "goals_taken": "2",
+          "opponent": "MCFC",
+          "location": "dom",
+          "points": 6
+        },
+        {
+          "day": 6,
+          "goals_scored": "0",
+          "goals_taken": "2",
+          "opponent": "BFC",
+          "location": "ext",
+          "points": 6
+        },
+        {
+          "day": 7,
+          "goals_scored": "0",
+          "goals_taken": "2",
+          "opponent": "CP",
+          "location": "ext",
+          "points": 6
+        },
+        {
+          "day": 8,
+          "goals_scored": "1",
+          "goals_taken": "5",
+          "opponent": "AVFC",
+          "location": "dom",
+          "points": 6
+        },
+        {
+          "day": 9,
+          "goals_scored": "0",
+          "goals_taken": "0",
+          "opponent": "AFCB",
+          "location": "ext",
+          "points": 7
+        },
+        {
+          "day": 10,
+          "goals_scored": "1",
+          "goals_taken": "3",
+          "opponent": "MUFC",
+          "location": "dom",
+          "points": 7
+        },
+        {
+          "day": 11,
+          "goals_scored": "0",
+          "goals_taken": "2",
+          "opponent": "BHFC",
+          "location": "ext",
+          "points": 7
+        },
+        {
+          "day": 12,
+          "goals_scored": "0",
+          "goals_taken": "2",
+          "opponent": "WFC",
+          "location": "dom",
+          "points": 7
+        },
+        {
+          "day": 13,
+          "goals_scored": "2",
+          "goals_taken": "0",
+          "opponent": "EFC",
+          "location": "ext",
+          "points": 10
+        },
+        {
+          "day": 14,
+          "goals_scored": "2",
+          "goals_taken": "2",
+          "opponent": "AFC",
+          "location": "dom",
+          "points": 11
+        },
+        {
+          "day": 15,
+          "goals_scored": "1",
+          "goals_taken": "2",
+          "opponent": "SFC",
+          "location": "ext",
+          "points": 11
+        },
+        {
+          "day": 16,
+          "goals_scored": "1",
+          "goals_taken": "2",
+          "opponent": "SUFC",
+          "location": "dom",
+          "points": 11
+        },
+        {
+          "day": 17,
+          "goals_scored": "1",
+          "goals_taken": "1",
+          "opponent": "LCFC",
+          "location": "ext",
+          "points": 12
+        },
+        {
+          "day": 18,
+          "goals_scored": "1",
+          "goals_taken": "2",
+          "opponent": "WWFC",
+          "location": "dom",
+          "points": 12
+        },
+        {
+          "day": 19,
+          "goals_scored": "0",
+          "goals_taken": "1",
+          "opponent": "AVFC",
+          "location": "ext",
+          "points": 12
+        },
+        {
+          "day": 20,
+          "goals_scored": "2",
+          "goals_taken": "2",
+          "opponent": "THFC",
+          "location": "dom",
+          "points": 13
+        },
+        {
+          "day": 21,
+          "goals_scored": "1",
+          "goals_taken": "1",
+          "opponent": "CP",
+          "location": "dom",
+          "points": 14
+        },
+        {
+          "day": 22,
+          "goals_scored": "0",
+          "goals_taken": "4",
+          "opponent": "MUFC",
+          "location": "ext",
+          "points": 14
+        },
+        {
+          "day": 23,
+          "goals_scored": "1",
+          "goals_taken": "0",
+          "opponent": "AFCB",
+          "location": "dom",
+          "points": 17
+        },
+        {
+          "day": 24,
+          "goals_scored": "1",
+          "goals_taken": "2",
+          "opponent": "THFC",
+          "location": "ext",
+          "points": 17
+        },
+        {
+          "day": 25,
+          "goals_scored": "0",
+          "goals_taken": "0",
+          "opponent": "NUFC",
+          "location": "ext",
+          "points": 18
+        },
+        {
+          "day": 26,
+          "goals_scored": "0",
+          "goals_taken": "1",
+          "opponent": "LFC",
+          "location": "dom",
+          "points": 18
+        },
+        {
+          "day": 27,
+          "goals_scored": "0",
+          "goals_taken": "3",
+          "opponent": "WWFC",
+          "location": "ext",
+          "points": 18
+        },
+        {
+          "day": 28,
+          "goals_scored": "1",
+          "goals_taken": "0",
+          "opponent": "LCFC",
+          "location": "dom",
+          "points": 21
+        },
+        {
+          "day": 29,
+          "goals_scored": "0",
+          "goals_taken": "1",
+          "opponent": "SUFC",
+          "location": "ext",
+          "points": 21
+        }
+      ]
+    },
+    {
+      "id": "AFC",
+      "games": [
+        {
+          "day": 1,
+          "goals_scored": "1",
+          "goals_taken": "0",
+          "opponent": "NUFC",
+          "location": "ext",
+          "points": 3
+        },
+        {
+          "day": 2,
+          "goals_scored": "2",
+          "goals_taken": "1",
+          "opponent": "BFC",
+          "location": "dom",
+          "points": 6
+        },
+        {
+          "day": 3,
+          "goals_scored": "1",
+          "goals_taken": "3",
+          "opponent": "LFC",
+          "location": "ext",
+          "points": 6
+        },
+        {
+          "day": 4,
+          "goals_scored": "2",
+          "goals_taken": "2",
+          "opponent": "THFC",
+          "location": "dom",
+          "points": 7
+        },
+        {
+          "day": 5,
+          "goals_scored": "2",
+          "goals_taken": "2",
+          "opponent": "WFC",
+          "location": "ext",
+          "points": 8
+        },
+        {
+          "day": 6,
+          "goals_scored": "3",
+          "goals_taken": "2",
+          "opponent": "AVFC",
+          "location": "dom",
+          "points": 11
+        },
+        {
+          "day": 7,
+          "goals_scored": "1",
+          "goals_taken": "1",
+          "opponent": "MUFC",
+          "location": "ext",
+          "points": 12
+        },
+        {
+          "day": 8,
+          "goals_scored": "1",
+          "goals_taken": "0",
+          "opponent": "AFCB",
+          "location": "dom",
+          "points": 15
+        },
+        {
+          "day": 9,
+          "goals_scored": "0",
+          "goals_taken": "1",
+          "opponent": "SUFC",
+          "location": "ext",
+          "points": 15
+        },
+        {
+          "day": 10,
+          "goals_scored": "2",
+          "goals_taken": "2",
+          "opponent": "CP",
+          "location": "dom",
+          "points": 16
+        },
+        {
+          "day": 11,
+          "goals_scored": "1",
+          "goals_taken": "1",
+          "opponent": "WWFC",
+          "location": "dom",
+          "points": 17
+        },
+        {
+          "day": 12,
+          "goals_scored": "0",
+          "goals_taken": "2",
+          "opponent": "LCFC",
+          "location": "ext",
+          "points": 17
+        },
+        {
+          "day": 13,
+          "goals_scored": "2",
+          "goals_taken": "2",
+          "opponent": "SFC",
+          "location": "dom",
+          "points": 18
+        },
+        {
+          "day": 14,
+          "goals_scored": "2",
+          "goals_taken": "2",
+          "opponent": "NCFC",
+          "location": "ext",
+          "points": 19
+        },
+        {
+          "day": 15,
+          "goals_scored": "1",
+          "goals_taken": "2",
+          "opponent": "BHFC",
+          "location": "dom",
+          "points": 19
+        },
+        {
+          "day": 16,
+          "goals_scored": "3",
+          "goals_taken": "1",
+          "opponent": "WHFC",
+          "location": "ext",
+          "points": 22
+        },
+        {
+          "day": 17,
+          "goals_scored": "0",
+          "goals_taken": "3",
+          "opponent": "MCFC",
+          "location": "dom",
+          "points": 22
+        },
+        {
+          "day": 18,
+          "goals_scored": "0",
+          "goals_taken": "0",
+          "opponent": "EFC",
+          "location": "ext",
+          "points": 23
+        },
+        {
+          "day": 19,
+          "goals_scored": "1",
+          "goals_taken": "1",
+          "opponent": "AFCB",
+          "location": "ext",
+          "points": 24
+        },
+        {
+          "day": 20,
+          "goals_scored": "1",
+          "goals_taken": "2",
+          "opponent": "CFC",
+          "location": "dom",
+          "points": 24
+        },
+        {
+          "day": 21,
+          "goals_scored": "2",
+          "goals_taken": "0",
+          "opponent": "MUFC",
+          "location": "dom",
+          "points": 27
+        },
+        {
+          "day": 22,
+          "goals_scored": "1",
+          "goals_taken": "1",
+          "opponent": "CP",
+          "location": "ext",
+          "points": 28
+        },
+        {
+          "day": 23,
+          "goals_scored": "1",
+          "goals_taken": "1",
+          "opponent": "SUFC",
+          "location": "dom",
+          "points": 29
+        },
+        {
+          "day": 24,
+          "goals_scored": "2",
+          "goals_taken": "2",
+          "opponent": "CFC",
+          "location": "ext",
+          "points": 30
+        },
+        {
+          "day": 25,
+          "goals_scored": "0",
+          "goals_taken": "0",
+          "opponent": "BFC",
+          "location": "ext",
+          "points": 31
+        },
+        {
+          "day": 26,
+          "goals_scored": "4",
+          "goals_taken": "0",
+          "opponent": "NUFC",
+          "location": "dom",
+          "points": 34
+        },
+        {
+          "day": 27,
+          "goals_scored": "3",
+          "goals_taken": "2",
+          "opponent": "EFC",
+          "location": "dom",
+          "points": 37
+        },
+        {
+          "day": 28,
+          "goals_scored": -1,
+          "goals_taken": -1,
+          "opponent": "MCFC",
+          "location": "ext",
+          "points": 37
+        },
+        {
+          "day": 29,
+          "goals_scored": "1",
+          "goals_taken": "0",
+          "opponent": "WHFC",
+          "location": "dom",
+          "points": 40
+        }
+      ]
+    },
+    {
+      "id": "WHFC",
+      "games": [
+        {
+          "day": 1,
+          "goals_scored": "0",
+          "goals_taken": "5",
+          "opponent": "MCFC",
+          "location": "dom",
+          "points": 0
+        },
+        {
+          "day": 2,
+          "goals_scored": "1",
+          "goals_taken": "1",
+          "opponent": "BHFC",
+          "location": "ext",
+          "points": 1
+        },
+        {
+          "day": 3,
+          "goals_scored": "3",
+          "goals_taken": "1",
+          "opponent": "WFC",
+          "location": "ext",
+          "points": 4
+        },
+        {
+          "day": 4,
+          "goals_scored": "2",
+          "goals_taken": "0",
+          "opponent": "NCFC",
+          "location": "dom",
+          "points": 7
+        },
+        {
+          "day": 5,
+          "goals_scored": "0",
+          "goals_taken": "0",
+          "opponent": "AVFC",
+          "location": "ext",
+          "points": 8
+        },
+        {
+          "day": 6,
+          "goals_scored": "2",
+          "goals_taken": "0",
+          "opponent": "MUFC",
+          "location": "dom",
+          "points": 11
+        },
+        {
+          "day": 7,
+          "goals_scored": "2",
+          "goals_taken": "2",
+          "opponent": "AFCB",
+          "location": "ext",
+          "points": 12
+        },
+        {
+          "day": 8,
+          "goals_scored": "1",
+          "goals_taken": "2",
+          "opponent": "CP",
+          "location": "dom",
+          "points": 12
+        },
+        {
+          "day": 9,
+          "goals_scored": "0",
+          "goals_taken": "2",
+          "opponent": "EFC",
+          "location": "ext",
+          "points": 12
+        },
+        {
+          "day": 10,
+          "goals_scored": "1",
+          "goals_taken": "1",
+          "opponent": "SUFC",
+          "location": "dom",
+          "points": 13
+        },
+        {
+          "day": 11,
+          "goals_scored": "2",
+          "goals_taken": "3",
+          "opponent": "NUFC",
+          "location": "dom",
+          "points": 13
+        },
+        {
+          "day": 12,
+          "goals_scored": "0",
+          "goals_taken": "3",
+          "opponent": "BFC",
+          "location": "ext",
+          "points": 13
+        },
+        {
+          "day": 13,
+          "goals_scored": "2",
+          "goals_taken": "3",
+          "opponent": "THFC",
+          "location": "dom",
+          "points": 13
+        },
+        {
+          "day": 14,
+          "goals_scored": "1",
+          "goals_taken": "0",
+          "opponent": "CFC",
+          "location": "ext",
+          "points": 16
+        },
+        {
+          "day": 15,
+          "goals_scored": "0",
+          "goals_taken": "2",
+          "opponent": "WWFC",
+          "location": "ext",
+          "points": 16
+        },
+        {
+          "day": 16,
+          "goals_scored": "1",
+          "goals_taken": "3",
+          "opponent": "AFC",
+          "location": "dom",
+          "points": 16
+        },
+        {
+          "day": 17,
+          "goals_scored": "1",
+          "goals_taken": "0",
+          "opponent": "SFC",
+          "location": "ext",
+          "points": 19
+        },
+        {
+          "day": 18,
+          "goals_scored": "0",
+          "goals_taken": "2",
+          "opponent": "LFC",
+          "location": "dom",
+          "points": 19
+        },
+        {
+          "day": 19,
+          "goals_scored": "1",
+          "goals_taken": "2",
+          "opponent": "CP",
+          "location": "ext",
+          "points": 19
+        },
+        {
+          "day": 20,
+          "goals_scored": "1",
+          "goals_taken": "2",
+          "opponent": "LCFC",
+          "location": "dom",
+          "points": 19
+        },
+        {
+          "day": 21,
+          "goals_scored": "4",
+          "goals_taken": "0",
+          "opponent": "AFCB",
+          "location": "dom",
+          "points": 22
+        },
+        {
+          "day": 22,
+          "goals_scored": "0",
+          "goals_taken": "1",
+          "opponent": "SUFC",
+          "location": "ext",
+          "points": 22
+        },
+        {
+          "day": 23,
+          "goals_scored": "1",
+          "goals_taken": "1",
+          "opponent": "EFC",
+          "location": "dom",
+          "points": 23
+        },
+        {
+          "day": 24,
+          "goals_scored": "1",
+          "goals_taken": "4",
+          "opponent": "LCFC",
+          "location": "ext",
+          "points": 23
+        },
+        {
+          "day": 25,
+          "goals_scored": "3",
+          "goals_taken": "3",
+          "opponent": "BHFC",
+          "location": "dom",
+          "points": 24
+        },
+        {
+          "day": 26,
+          "goals_scored": "0",
+          "goals_taken": "2",
+          "opponent": "MCFC",
+          "location": "ext",
+          "points": 24
+        },
+        {
+          "day": 27,
+          "goals_scored": "2",
+          "goals_taken": "3",
+          "opponent": "LFC",
+          "location": "ext",
+          "points": 24
+        },
+        {
+          "day": 28,
+          "goals_scored": "3",
+          "goals_taken": "1",
+          "opponent": "SFC",
+          "location": "dom",
+          "points": 27
+        },
+        {
+          "day": 29,
+          "goals_scored": "0",
+          "goals_taken": "1",
+          "opponent": "AFC",
+          "location": "ext",
+          "points": 27
+        }
+      ]
+    },
+    {
+      "id": "CP",
+      "games": [
+        {
+          "day": 1,
+          "goals_scored": "0",
+          "goals_taken": "0",
+          "opponent": "EFC",
+          "location": "dom",
+          "points": 1
+        },
+        {
+          "day": 2,
+          "goals_scored": "0",
+          "goals_taken": "1",
+          "opponent": "SUFC",
+          "location": "ext",
+          "points": 1
+        },
+        {
+          "day": 3,
+          "goals_scored": "2",
+          "goals_taken": "1",
+          "opponent": "MUFC",
+          "location": "ext",
+          "points": 4
+        },
+        {
+          "day": 4,
+          "goals_scored": "1",
+          "goals_taken": "0",
+          "opponent": "AVFC",
+          "location": "dom",
+          "points": 7
+        },
+        {
+          "day": 5,
+          "goals_scored": "0",
+          "goals_taken": "4",
+          "opponent": "THFC",
+          "location": "ext",
+          "points": 7
+        },
+        {
+          "day": 6,
+          "goals_scored": "1",
+          "goals_taken": "1",
+          "opponent": "WWFC",
+          "location": "dom",
+          "points": 8
+        },
+        {
+          "day": 7,
+          "goals_scored": "2",
+          "goals_taken": "0",
+          "opponent": "NCFC",
+          "location": "dom",
+          "points": 11
+        },
+        {
+          "day": 8,
+          "goals_scored": "2",
+          "goals_taken": "1",
+          "opponent": "WHFC",
+          "location": "ext",
+          "points": 14
+        },
+        {
+          "day": 9,
+          "goals_scored": "0",
+          "goals_taken": "2",
+          "opponent": "MCFC",
+          "location": "dom",
+          "points": 14
+        },
+        {
+          "day": 10,
+          "goals_scored": "2",
+          "goals_taken": "2",
+          "opponent": "AFC",
+          "location": "ext",
+          "points": 15
+        },
+        {
+          "day": 11,
+          "goals_scored": "0",
+          "goals_taken": "2",
+          "opponent": "LCFC",
+          "location": "dom",
+          "points": 15
+        },
+        {
+          "day": 12,
+          "goals_scored": "0",
+          "goals_taken": "2",
+          "opponent": "CFC",
+          "location": "ext",
+          "points": 15
+        },
+        {
+          "day": 13,
+          "goals_scored": "1",
+          "goals_taken": "2",
+          "opponent": "LFC",
+          "location": "dom",
+          "points": 15
+        },
+        {
+          "day": 14,
+          "goals_scored": "2",
+          "goals_taken": "0",
+          "opponent": "BFC",
+          "location": "ext",
+          "points": 18
+        },
+        {
+          "day": 15,
+          "goals_scored": "1",
+          "goals_taken": "0",
+          "opponent": "AFCB",
+          "location": "dom",
+          "points": 21
+        },
+        {
+          "day": 16,
+          "goals_scored": "0",
+          "goals_taken": "0",
+          "opponent": "WFC",
+          "location": "ext",
+          "points": 22
+        },
+        {
+          "day": 17,
+          "goals_scored": "1",
+          "goals_taken": "1",
+          "opponent": "BHFC",
+          "location": "dom",
+          "points": 23
+        },
+        {
+          "day": 18,
+          "goals_scored": "0",
+          "goals_taken": "1",
+          "opponent": "NUFC",
+          "location": "ext",
+          "points": 23
+        },
+        {
+          "day": 19,
+          "goals_scored": "2",
+          "goals_taken": "1",
+          "opponent": "WHFC",
+          "location": "dom",
+          "points": 26
+        },
+        {
+          "day": 20,
+          "goals_scored": "1",
+          "goals_taken": "1",
+          "opponent": "SFC",
+          "location": "ext",
+          "points": 27
+        },
+        {
+          "day": 21,
+          "goals_scored": "1",
+          "goals_taken": "1",
+          "opponent": "NCFC",
+          "location": "ext",
+          "points": 28
+        },
+        {
+          "day": 22,
+          "goals_scored": "1",
+          "goals_taken": "1",
+          "opponent": "AFC",
+          "location": "dom",
+          "points": 29
+        },
+        {
+          "day": 23,
+          "goals_scored": "2",
+          "goals_taken": "2",
+          "opponent": "MCFC",
+          "location": "ext",
+          "points": 30
+        },
+        {
+          "day": 24,
+          "goals_scored": "0",
+          "goals_taken": "2",
+          "opponent": "SFC",
+          "location": "dom",
+          "points": 30
+        },
+        {
+          "day": 25,
+          "goals_scored": "0",
+          "goals_taken": "1",
+          "opponent": "SUFC",
+          "location": "dom",
+          "points": 30
+        },
+        {
+          "day": 26,
+          "goals_scored": "1",
+          "goals_taken": "3",
+          "opponent": "EFC",
+          "location": "ext",
+          "points": 30
+        },
+        {
+          "day": 27,
+          "goals_scored": "1",
+          "goals_taken": "0",
+          "opponent": "NUFC",
+          "location": "dom",
+          "points": 33
+        },
+        {
+          "day": 28,
+          "goals_scored": "1",
+          "goals_taken": "0",
+          "opponent": "BHFC",
+          "location": "ext",
+          "points": 36
+        },
+        {
+          "day": 29,
+          "goals_scored": "1",
+          "goals_taken": "0",
+          "opponent": "WFC",
+          "location": "dom",
+          "points": 39
+        }
+      ]
+    },
+    {
+      "id": "WFC",
+      "games": [
+        {
+          "day": 1,
+          "goals_scored": "0",
+          "goals_taken": "3",
+          "opponent": "BHFC",
+          "location": "dom",
+          "points": 0
+        },
+        {
+          "day": 2,
+          "goals_scored": "0",
+          "goals_taken": "1",
+          "opponent": "EFC",
+          "location": "ext",
+          "points": 0
+        },
+        {
+          "day": 3,
+          "goals_scored": "1",
+          "goals_taken": "3",
+          "opponent": "WHFC",
+          "location": "dom",
+          "points": 0
+        },
+        {
+          "day": 4,
+          "goals_scored": "1",
+          "goals_taken": "1",
+          "opponent": "NUFC",
+          "location": "ext",
+          "points": 1
+        },
+        {
+          "day": 5,
+          "goals_scored": "2",
+          "goals_taken": "2",
+          "opponent": "AFC",
+          "location": "dom",
+          "points": 2
+        },
+        {
+          "day": 6,
+          "goals_scored": "0",
+          "goals_taken": "8",
+          "opponent": "MCFC",
+          "location": "ext",
+          "points": 2
+        },
+        {
+          "day": 7,
+          "goals_scored": "0",
+          "goals_taken": "2",
+          "opponent": "WWFC",
+          "location": "ext",
+          "points": 2
+        },
+        {
+          "day": 8,
+          "goals_scored": "0",
+          "goals_taken": "0",
+          "opponent": "SUFC",
+          "location": "dom",
+          "points": 3
+        },
+        {
+          "day": 9,
+          "goals_scored": "1",
+          "goals_taken": "1",
+          "opponent": "THFC",
+          "location": "ext",
+          "points": 4
+        },
+        {
+          "day": 10,
+          "goals_scored": "0",
+          "goals_taken": "0",
+          "opponent": "AFCB",
+          "location": "dom",
+          "points": 5
+        },
+        {
+          "day": 11,
+          "goals_scored": "1",
+          "goals_taken": "2",
+          "opponent": "CFC",
+          "location": "dom",
+          "points": 5
+        },
+        {
+          "day": 12,
+          "goals_scored": "2",
+          "goals_taken": "0",
+          "opponent": "NCFC",
+          "location": "ext",
+          "points": 8
+        },
+        {
+          "day": 13,
+          "goals_scored": "0",
+          "goals_taken": "3",
+          "opponent": "BFC",
+          "location": "dom",
+          "points": 8
+        },
+        {
+          "day": 14,
+          "goals_scored": "1",
+          "goals_taken": "2",
+          "opponent": "SFC",
+          "location": "ext",
+          "points": 8
+        },
+        {
+          "day": 15,
+          "goals_scored": "0",
+          "goals_taken": "2",
+          "opponent": "LCFC",
+          "location": "ext",
+          "points": 8
+        },
+        {
+          "day": 16,
+          "goals_scored": "0",
+          "goals_taken": "0",
+          "opponent": "CP",
+          "location": "dom",
+          "points": 9
+        },
+        {
+          "day": 17,
+          "goals_scored": "0",
+          "goals_taken": "2",
+          "opponent": "LFC",
+          "location": "ext",
+          "points": 9
+        },
+        {
+          "day": 18,
+          "goals_scored": "2",
+          "goals_taken": "0",
+          "opponent": "MUFC",
+          "location": "dom",
+          "points": 12
+        },
+        {
+          "day": 19,
+          "goals_scored": "1",
+          "goals_taken": "1",
+          "opponent": "SUFC",
+          "location": "ext",
+          "points": 13
+        },
+        {
+          "day": 20,
+          "goals_scored": "3",
+          "goals_taken": "0",
+          "opponent": "AVFC",
+          "location": "dom",
+          "points": 16
+        },
+        {
+          "day": 21,
+          "goals_scored": "2",
+          "goals_taken": "1",
+          "opponent": "WWFC",
+          "location": "dom",
+          "points": 19
+        },
+        {
+          "day": 22,
+          "goals_scored": "3",
+          "goals_taken": "0",
+          "opponent": "AFCB",
+          "location": "ext",
+          "points": 22
+        },
+        {
+          "day": 23,
+          "goals_scored": "0",
+          "goals_taken": "0",
+          "opponent": "THFC",
+          "location": "dom",
+          "points": 23
+        },
+        {
+          "day": 24,
+          "goals_scored": "1",
+          "goals_taken": "2",
+          "opponent": "AVFC",
+          "location": "ext",
+          "points": 23
+        },
+        {
+          "day": 25,
+          "goals_scored": "2",
+          "goals_taken": "3",
+          "opponent": "EFC",
+          "location": "dom",
+          "points": 23
+        },
+        {
+          "day": 26,
+          "goals_scored": "1",
+          "goals_taken": "1",
+          "opponent": "BHFC",
+          "location": "ext",
+          "points": 24
+        },
+        {
+          "day": 27,
+          "goals_scored": "0",
+          "goals_taken": "3",
+          "opponent": "MUFC",
+          "location": "ext",
+          "points": 24
+        },
+        {
+          "day": 28,
+          "goals_scored": "3",
+          "goals_taken": "0",
+          "opponent": "LFC",
+          "location": "dom",
+          "points": 27
+        },
+        {
+          "day": 29,
+          "goals_scored": "0",
+          "goals_taken": "1",
+          "opponent": "CP",
+          "location": "ext",
+          "points": 27
+        }
+      ]
+    },
+    {
+      "id": "SFC",
+      "games": [
+        {
+          "day": 1,
+          "goals_scored": "0",
+          "goals_taken": "3",
+          "opponent": "BFC",
+          "location": "ext",
+          "points": 0
+        },
+        {
+          "day": 2,
+          "goals_scored": "1",
+          "goals_taken": "2",
+          "opponent": "LFC",
+          "location": "dom",
+          "points": 0
+        },
+        {
+          "day": 3,
+          "goals_scored": "2",
+          "goals_taken": "0",
+          "opponent": "BHFC",
+          "location": "ext",
+          "points": 3
+        },
+        {
+          "day": 4,
+          "goals_scored": "1",
+          "goals_taken": "1",
+          "opponent": "MUFC",
+          "location": "dom",
+          "points": 4
+        },
+        {
+          "day": 5,
+          "goals_scored": "1",
+          "goals_taken": "0",
+          "opponent": "SUFC",
+          "location": "ext",
+          "points": 7
+        },
+        {
+          "day": 6,
+          "goals_scored": "1",
+          "goals_taken": "3",
+          "opponent": "AFCB",
+          "location": "dom",
+          "points": 7
+        },
+        {
+          "day": 7,
+          "goals_scored": "1",
+          "goals_taken": "2",
+          "opponent": "THFC",
+          "location": "ext",
+          "points": 7
+        },
+        {
+          "day": 8,
+          "goals_scored": "1",
+          "goals_taken": "4",
+          "opponent": "CFC",
+          "location": "dom",
+          "points": 7
+        },
+        {
+          "day": 9,
+          "goals_scored": "1",
+          "goals_taken": "1",
+          "opponent": "WWFC",
+          "location": "ext",
+          "points": 8
+        },
+        {
+          "day": 10,
+          "goals_scored": "0",
+          "goals_taken": "9",
+          "opponent": "LCFC",
+          "location": "dom",
+          "points": 8
+        },
+        {
+          "day": 11,
+          "goals_scored": "1",
+          "goals_taken": "2",
+          "opponent": "MCFC",
+          "location": "ext",
+          "points": 8
+        },
+        {
+          "day": 12,
+          "goals_scored": "1",
+          "goals_taken": "2",
+          "opponent": "EFC",
+          "location": "dom",
+          "points": 8
+        },
+        {
+          "day": 13,
+          "goals_scored": "2",
+          "goals_taken": "2",
+          "opponent": "AFC",
+          "location": "ext",
+          "points": 9
+        },
+        {
+          "day": 14,
+          "goals_scored": "2",
+          "goals_taken": "1",
+          "opponent": "WFC",
+          "location": "dom",
+          "points": 12
+        },
+        {
+          "day": 15,
+          "goals_scored": "2",
+          "goals_taken": "1",
+          "opponent": "NCFC",
+          "location": "dom",
+          "points": 15
+        },
+        {
+          "day": 16,
+          "goals_scored": "1",
+          "goals_taken": "2",
+          "opponent": "NUFC",
+          "location": "ext",
+          "points": 15
+        },
+        {
+          "day": 17,
+          "goals_scored": "0",
+          "goals_taken": "1",
+          "opponent": "WHFC",
+          "location": "dom",
+          "points": 15
+        },
+        {
+          "day": 18,
+          "goals_scored": "3",
+          "goals_taken": "1",
+          "opponent": "AVFC",
+          "location": "ext",
+          "points": 18
+        },
+        {
+          "day": 19,
+          "goals_scored": "2",
+          "goals_taken": "0",
+          "opponent": "CFC",
+          "location": "ext",
+          "points": 21
+        },
+        {
+          "day": 20,
+          "goals_scored": "1",
+          "goals_taken": "1",
+          "opponent": "CP",
+          "location": "dom",
+          "points": 22
+        },
+        {
+          "day": 21,
+          "goals_scored": "1",
+          "goals_taken": "0",
+          "opponent": "THFC",
+          "location": "dom",
+          "points": 25
+        },
+        {
+          "day": 22,
+          "goals_scored": "2",
+          "goals_taken": "1",
+          "opponent": "LCFC",
+          "location": "ext",
+          "points": 28
+        },
+        {
+          "day": 23,
+          "goals_scored": "2",
+          "goals_taken": "3",
+          "opponent": "WWFC",
+          "location": "dom",
+          "points": 28
+        },
+        {
+          "day": 24,
+          "goals_scored": "2",
+          "goals_taken": "0",
+          "opponent": "CP",
+          "location": "ext",
+          "points": 31
+        },
+        {
+          "day": 25,
+          "goals_scored": "0",
+          "goals_taken": "4",
+          "opponent": "LFC",
+          "location": "ext",
+          "points": 31
+        },
+        {
+          "day": 26,
+          "goals_scored": "1",
+          "goals_taken": "2",
+          "opponent": "BFC",
+          "location": "dom",
+          "points": 31
+        },
+        {
+          "day": 27,
+          "goals_scored": "2",
+          "goals_taken": "0",
+          "opponent": "AVFC",
+          "location": "dom",
+          "points": 34
+        },
+        {
+          "day": 28,
+          "goals_scored": "1",
+          "goals_taken": "3",
+          "opponent": "WHFC",
+          "location": "ext",
+          "points": 34
+        },
+        {
+          "day": 29,
+          "goals_scored": "0",
+          "goals_taken": "1",
+          "opponent": "NUFC",
+          "location": "dom",
+          "points": 34
+        }
+      ]
+    },
+    {
+      "id": "NUFC",
+      "games": [
+        {
+          "day": 1,
+          "goals_scored": "0",
+          "goals_taken": "1",
+          "opponent": "AFC",
+          "location": "dom",
+          "points": 0
+        },
+        {
+          "day": 2,
+          "goals_scored": "1",
+          "goals_taken": "3",
+          "opponent": "NCFC",
+          "location": "ext",
+          "points": 0
+        },
+        {
+          "day": 3,
+          "goals_scored": "1",
+          "goals_taken": "0",
+          "opponent": "THFC",
+          "location": "ext",
+          "points": 3
+        },
+        {
+          "day": 4,
+          "goals_scored": "1",
+          "goals_taken": "1",
+          "opponent": "WFC",
+          "location": "dom",
+          "points": 4
+        },
+        {
+          "day": 5,
+          "goals_scored": "1",
+          "goals_taken": "3",
+          "opponent": "LFC",
+          "location": "ext",
+          "points": 4
+        },
+        {
+          "day": 6,
+          "goals_scored": "0",
+          "goals_taken": "0",
+          "opponent": "BHFC",
+          "location": "dom",
+          "points": 5
+        },
+        {
+          "day": 7,
+          "goals_scored": "0",
+          "goals_taken": "5",
+          "opponent": "LCFC",
+          "location": "ext",
+          "points": 5
+        },
+        {
+          "day": 8,
+          "goals_scored": "1",
+          "goals_taken": "0",
+          "opponent": "MUFC",
+          "location": "dom",
+          "points": 8
+        },
+        {
+          "day": 9,
+          "goals_scored": "0",
+          "goals_taken": "1",
+          "opponent": "CFC",
+          "location": "ext",
+          "points": 8
+        },
+        {
+          "day": 10,
+          "goals_scored": "1",
+          "goals_taken": "1",
+          "opponent": "WWFC",
+          "location": "dom",
+          "points": 9
+        },
+        {
+          "day": 11,
+          "goals_scored": "3",
+          "goals_taken": "2",
+          "opponent": "WHFC",
+          "location": "ext",
+          "points": 12
+        },
+        {
+          "day": 12,
+          "goals_scored": "2",
+          "goals_taken": "1",
+          "opponent": "AFCB",
+          "location": "dom",
+          "points": 15
+        },
+        {
+          "day": 13,
+          "goals_scored": "0",
+          "goals_taken": "2",
+          "opponent": "AVFC",
+          "location": "ext",
+          "points": 15
+        },
+        {
+          "day": 14,
+          "goals_scored": "2",
+          "goals_taken": "2",
+          "opponent": "MCFC",
+          "location": "dom",
+          "points": 16
+        },
+        {
+          "day": 15,
+          "goals_scored": "2",
+          "goals_taken": "0",
+          "opponent": "SUFC",
+          "location": "ext",
+          "points": 19
+        },
+        {
+          "day": 16,
+          "goals_scored": "2",
+          "goals_taken": "1",
+          "opponent": "SFC",
+          "location": "dom",
+          "points": 22
+        },
+        {
+          "day": 17,
+          "goals_scored": "0",
+          "goals_taken": "1",
+          "opponent": "BFC",
+          "location": "ext",
+          "points": 22
+        },
+        {
+          "day": 18,
+          "goals_scored": "1",
+          "goals_taken": "0",
+          "opponent": "CP",
+          "location": "dom",
+          "points": 25
+        },
+        {
+          "day": 19,
+          "goals_scored": "1",
+          "goals_taken": "4",
+          "opponent": "MUFC",
+          "location": "ext",
+          "points": 25
+        },
+        {
+          "day": 20,
+          "goals_scored": "1",
+          "goals_taken": "2",
+          "opponent": "EFC",
+          "location": "dom",
+          "points": 25
+        },
+        {
+          "day": 21,
+          "goals_scored": "0",
+          "goals_taken": "3",
+          "opponent": "LCFC",
+          "location": "dom",
+          "points": 25
+        },
+        {
+          "day": 22,
+          "goals_scored": "1",
+          "goals_taken": "1",
+          "opponent": "WWFC",
+          "location": "ext",
+          "points": 26
+        },
+        {
+          "day": 23,
+          "goals_scored": "1",
+          "goals_taken": "0",
+          "opponent": "CFC",
+          "location": "dom",
+          "points": 29
+        },
+        {
+          "day": 24,
+          "goals_scored": "2",
+          "goals_taken": "2",
+          "opponent": "EFC",
+          "location": "ext",
+          "points": 30
+        },
+        {
+          "day": 25,
+          "goals_scored": "0",
+          "goals_taken": "0",
+          "opponent": "NCFC",
+          "location": "dom",
+          "points": 31
+        },
+        {
+          "day": 26,
+          "goals_scored": "0",
+          "goals_taken": "4",
+          "opponent": "AFC",
+          "location": "ext",
+          "points": 31
+        },
+        {
+          "day": 27,
+          "goals_scored": "0",
+          "goals_taken": "1",
+          "opponent": "CP",
+          "location": "ext",
+          "points": 31
+        },
+        {
+          "day": 28,
+          "goals_scored": "0",
+          "goals_taken": "0",
+          "opponent": "BFC",
+          "location": "dom",
+          "points": 32
+        },
+        {
+          "day": 29,
+          "goals_scored": "1",
+          "goals_taken": "0",
+          "opponent": "SFC",
+          "location": "ext",
+          "points": 35
+        }
+      ]
+    },
+    {
+      "id": "BFC",
+      "games": [
+        {
+          "day": 1,
+          "goals_scored": "3",
+          "goals_taken": "0",
+          "opponent": "SFC",
+          "location": "dom",
+          "points": 3
+        },
+        {
+          "day": 2,
+          "goals_scored": "1",
+          "goals_taken": "2",
+          "opponent": "AFC",
+          "location": "ext",
+          "points": 3
+        },
+        {
+          "day": 3,
+          "goals_scored": "1",
+          "goals_taken": "1",
+          "opponent": "WWFC",
+          "location": "ext",
+          "points": 4
+        },
+        {
+          "day": 4,
+          "goals_scored": "0",
+          "goals_taken": "3",
+          "opponent": "LFC",
+          "location": "dom",
+          "points": 4
+        },
+        {
+          "day": 5,
+          "goals_scored": "1",
+          "goals_taken": "1",
+          "opponent": "BHFC",
+          "location": "ext",
+          "points": 5
+        },
+        {
+          "day": 6,
+          "goals_scored": "2",
+          "goals_taken": "0",
+          "opponent": "NCFC",
+          "location": "dom",
+          "points": 8
+        },
+        {
+          "day": 7,
+          "goals_scored": "2",
+          "goals_taken": "2",
+          "opponent": "AVFC",
+          "location": "ext",
+          "points": 9
+        },
+        {
+          "day": 8,
+          "goals_scored": "1",
+          "goals_taken": "0",
+          "opponent": "EFC",
+          "location": "dom",
+          "points": 12
+        },
+        {
+          "day": 9,
+          "goals_scored": "1",
+          "goals_taken": "2",
+          "opponent": "LCFC",
+          "location": "ext",
+          "points": 12
+        },
+        {
+          "day": 10,
+          "goals_scored": "2",
+          "goals_taken": "4",
+          "opponent": "CFC",
+          "location": "dom",
+          "points": 12
+        },
+        {
+          "day": 11,
+          "goals_scored": "0",
+          "goals_taken": "3",
+          "opponent": "SUFC",
+          "location": "ext",
+          "points": 12
+        },
+        {
+          "day": 12,
+          "goals_scored": "3",
+          "goals_taken": "0",
+          "opponent": "WHFC",
+          "location": "dom",
+          "points": 15
+        },
+        {
+          "day": 13,
+          "goals_scored": "3",
+          "goals_taken": "0",
+          "opponent": "WFC",
+          "location": "ext",
+          "points": 18
+        },
+        {
+          "day": 14,
+          "goals_scored": "0",
+          "goals_taken": "2",
+          "opponent": "CP",
+          "location": "dom",
+          "points": 18
+        },
+        {
+          "day": 15,
+          "goals_scored": "1",
+          "goals_taken": "4",
+          "opponent": "MCFC",
+          "location": "dom",
+          "points": 18
+        },
+        {
+          "day": 16,
+          "goals_scored": "0",
+          "goals_taken": "5",
+          "opponent": "THFC",
+          "location": "ext",
+          "points": 18
+        },
+        {
+          "day": 17,
+          "goals_scored": "1",
+          "goals_taken": "0",
+          "opponent": "NUFC",
+          "location": "dom",
+          "points": 21
+        },
+        {
+          "day": 18,
+          "goals_scored": "1",
+          "goals_taken": "0",
+          "opponent": "AFCB",
+          "location": "ext",
+          "points": 24
+        },
+        {
+          "day": 19,
+          "goals_scored": "0",
+          "goals_taken": "1",
+          "opponent": "EFC",
+          "location": "ext",
+          "points": 24
+        },
+        {
+          "day": 20,
+          "goals_scored": "0",
+          "goals_taken": "2",
+          "opponent": "MUFC",
+          "location": "dom",
+          "points": 24
+        },
+        {
+          "day": 21,
+          "goals_scored": "1",
+          "goals_taken": "2",
+          "opponent": "AVFC",
+          "location": "dom",
+          "points": 24
+        },
+        {
+          "day": 22,
+          "goals_scored": "0",
+          "goals_taken": "3",
+          "opponent": "CFC",
+          "location": "ext",
+          "points": 24
+        },
+        {
+          "day": 23,
+          "goals_scored": "2",
+          "goals_taken": "1",
+          "opponent": "LCFC",
+          "location": "dom",
+          "points": 27
+        },
+        {
+          "day": 24,
+          "goals_scored": "2",
+          "goals_taken": "0",
+          "opponent": "MUFC",
+          "location": "ext",
+          "points": 30
+        },
+        {
+          "day": 25,
+          "goals_scored": "0",
+          "goals_taken": "0",
+          "opponent": "AFC",
+          "location": "dom",
+          "points": 31
+        },
+        {
+          "day": 26,
+          "goals_scored": "2",
+          "goals_taken": "1",
+          "opponent": "SFC",
+          "location": "ext",
+          "points": 34
+        },
+        {
+          "day": 27,
+          "goals_scored": "3",
+          "goals_taken": "0",
+          "opponent": "AFCB",
+          "location": "dom",
+          "points": 37
+        },
+        {
+          "day": 28,
+          "goals_scored": "0",
+          "goals_taken": "0",
+          "opponent": "NUFC",
+          "location": "ext",
+          "points": 38
+        },
+        {
+          "day": 29,
+          "goals_scored": "1",
+          "goals_taken": "1",
+          "opponent": "THFC",
+          "location": "dom",
+          "points": 39
+        }
+      ]
+    },
+    {
+      "id": "THFC",
+      "games": [
+        {
+          "day": 1,
+          "goals_scored": "3",
+          "goals_taken": "1",
+          "opponent": "AVFC",
+          "location": "dom",
+          "points": 3
+        },
+        {
+          "day": 2,
+          "goals_scored": "2",
+          "goals_taken": "2",
+          "opponent": "MCFC",
+          "location": "ext",
+          "points": 4
+        },
+        {
+          "day": 3,
+          "goals_scored": "0",
+          "goals_taken": "1",
+          "opponent": "NUFC",
+          "location": "dom",
+          "points": 4
+        },
+        {
+          "day": 4,
+          "goals_scored": "2",
+          "goals_taken": "2",
+          "opponent": "AFC",
+          "location": "ext",
+          "points": 5
+        },
+        {
+          "day": 5,
+          "goals_scored": "4",
+          "goals_taken": "0",
+          "opponent": "CP",
+          "location": "dom",
+          "points": 8
+        },
+        {
+          "day": 6,
+          "goals_scored": "1",
+          "goals_taken": "2",
+          "opponent": "LCFC",
+          "location": "ext",
+          "points": 8
+        },
+        {
+          "day": 7,
+          "goals_scored": "2",
+          "goals_taken": "1",
+          "opponent": "SFC",
+          "location": "dom",
+          "points": 11
+        },
+        {
+          "day": 8,
+          "goals_scored": "0",
+          "goals_taken": "3",
+          "opponent": "BHFC",
+          "location": "ext",
+          "points": 11
+        },
+        {
+          "day": 9,
+          "goals_scored": "1",
+          "goals_taken": "1",
+          "opponent": "WFC",
+          "location": "dom",
+          "points": 12
+        },
+        {
+          "day": 10,
+          "goals_scored": "1",
+          "goals_taken": "2",
+          "opponent": "LFC",
+          "location": "ext",
+          "points": 12
+        },
+        {
+          "day": 11,
+          "goals_scored": "1",
+          "goals_taken": "1",
+          "opponent": "EFC",
+          "location": "ext",
+          "points": 13
+        },
+        {
+          "day": 12,
+          "goals_scored": "1",
+          "goals_taken": "1",
+          "opponent": "SUFC",
+          "location": "dom",
+          "points": 14
+        },
+        {
+          "day": 13,
+          "goals_scored": "3",
+          "goals_taken": "2",
+          "opponent": "WHFC",
+          "location": "ext",
+          "points": 17
+        },
+        {
+          "day": 14,
+          "goals_scored": "3",
+          "goals_taken": "2",
+          "opponent": "AFCB",
+          "location": "dom",
+          "points": 20
+        },
+        {
+          "day": 15,
+          "goals_scored": "1",
+          "goals_taken": "2",
+          "opponent": "MUFC",
+          "location": "ext",
+          "points": 20
+        },
+        {
+          "day": 16,
+          "goals_scored": "5",
+          "goals_taken": "0",
+          "opponent": "BFC",
+          "location": "dom",
+          "points": 23
+        },
+        {
+          "day": 17,
+          "goals_scored": "2",
+          "goals_taken": "1",
+          "opponent": "WWFC",
+          "location": "ext",
+          "points": 26
+        },
+        {
+          "day": 18,
+          "goals_scored": "0",
+          "goals_taken": "2",
+          "opponent": "CFC",
+          "location": "dom",
+          "points": 26
+        },
+        {
+          "day": 19,
+          "goals_scored": "2",
+          "goals_taken": "1",
+          "opponent": "BHFC",
+          "location": "dom",
+          "points": 29
+        },
+        {
+          "day": 20,
+          "goals_scored": "2",
+          "goals_taken": "2",
+          "opponent": "NCFC",
+          "location": "ext",
+          "points": 30
+        },
+        {
+          "day": 21,
+          "goals_scored": "0",
+          "goals_taken": "1",
+          "opponent": "SFC",
+          "location": "ext",
+          "points": 30
+        },
+        {
+          "day": 22,
+          "goals_scored": "0",
+          "goals_taken": "1",
+          "opponent": "LFC",
+          "location": "dom",
+          "points": 30
+        },
+        {
+          "day": 23,
+          "goals_scored": "0",
+          "goals_taken": "0",
+          "opponent": "WFC",
+          "location": "ext",
+          "points": 31
+        },
+        {
+          "day": 24,
+          "goals_scored": "2",
+          "goals_taken": "1",
+          "opponent": "NCFC",
+          "location": "dom",
+          "points": 34
+        },
+        {
+          "day": 25,
+          "goals_scored": "2",
+          "goals_taken": "0",
+          "opponent": "MCFC",
+          "location": "dom",
+          "points": 37
+        },
+        {
+          "day": 26,
+          "goals_scored": "3",
+          "goals_taken": "2",
+          "opponent": "AVFC",
+          "location": "ext",
+          "points": 40
+        },
+        {
+          "day": 27,
+          "goals_scored": "1",
+          "goals_taken": "2",
+          "opponent": "CFC",
+          "location": "ext",
+          "points": 40
+        },
+        {
+          "day": 28,
+          "goals_scored": "2",
+          "goals_taken": "3",
+          "opponent": "WWFC",
+          "location": "dom",
+          "points": 40
+        },
+        {
+          "day": 29,
+          "goals_scored": "1",
+          "goals_taken": "1",
+          "opponent": "BFC",
+          "location": "ext",
+          "points": 41
+        }
+      ]
+    },
+    {
+      "id": "CFC",
+      "games": [
+        {
+          "day": 1,
+          "goals_scored": "0",
+          "goals_taken": "4",
+          "opponent": "MUFC",
+          "location": "ext",
+          "points": 0
+        },
+        {
+          "day": 2,
+          "goals_scored": "1",
+          "goals_taken": "1",
+          "opponent": "LCFC",
+          "location": "dom",
+          "points": 1
+        },
+        {
+          "day": 3,
+          "goals_scored": "3",
+          "goals_taken": "2",
+          "opponent": "NCFC",
+          "location": "ext",
+          "points": 4
+        },
+        {
+          "day": 4,
+          "goals_scored": "2",
+          "goals_taken": "2",
+          "opponent": "SUFC",
+          "location": "dom",
+          "points": 5
+        },
+        {
+          "day": 5,
+          "goals_scored": "5",
+          "goals_taken": "2",
+          "opponent": "WWFC",
+          "location": "ext",
+          "points": 8
+        },
+        {
+          "day": 6,
+          "goals_scored": "1",
+          "goals_taken": "2",
+          "opponent": "LFC",
+          "location": "dom",
+          "points": 8
+        },
+        {
+          "day": 7,
+          "goals_scored": "2",
+          "goals_taken": "0",
+          "opponent": "BHFC",
+          "location": "dom",
+          "points": 11
+        },
+        {
+          "day": 8,
+          "goals_scored": "4",
+          "goals_taken": "1",
+          "opponent": "SFC",
+          "location": "ext",
+          "points": 14
+        },
+        {
+          "day": 9,
+          "goals_scored": "1",
+          "goals_taken": "0",
+          "opponent": "NUFC",
+          "location": "dom",
+          "points": 17
+        },
+        {
+          "day": 10,
+          "goals_scored": "4",
+          "goals_taken": "2",
+          "opponent": "BFC",
+          "location": "ext",
+          "points": 20
+        },
+        {
+          "day": 11,
+          "goals_scored": "2",
+          "goals_taken": "1",
+          "opponent": "WFC",
+          "location": "ext",
+          "points": 23
+        },
+        {
+          "day": 12,
+          "goals_scored": "2",
+          "goals_taken": "0",
+          "opponent": "CP",
+          "location": "dom",
+          "points": 26
+        },
+        {
+          "day": 13,
+          "goals_scored": "1",
+          "goals_taken": "2",
+          "opponent": "MCFC",
+          "location": "ext",
+          "points": 26
+        },
+        {
+          "day": 14,
+          "goals_scored": "0",
+          "goals_taken": "1",
+          "opponent": "WHFC",
+          "location": "dom",
+          "points": 26
+        },
+        {
+          "day": 15,
+          "goals_scored": "2",
+          "goals_taken": "1",
+          "opponent": "AVFC",
+          "location": "dom",
+          "points": 29
+        },
+        {
+          "day": 16,
+          "goals_scored": "1",
+          "goals_taken": "3",
+          "opponent": "EFC",
+          "location": "ext",
+          "points": 29
+        },
+        {
+          "day": 17,
+          "goals_scored": "0",
+          "goals_taken": "1",
+          "opponent": "AFCB",
+          "location": "dom",
+          "points": 29
+        },
+        {
+          "day": 18,
+          "goals_scored": "2",
+          "goals_taken": "0",
+          "opponent": "THFC",
+          "location": "ext",
+          "points": 32
+        },
+        {
+          "day": 19,
+          "goals_scored": "0",
+          "goals_taken": "2",
+          "opponent": "SFC",
+          "location": "dom",
+          "points": 32
+        },
+        {
+          "day": 20,
+          "goals_scored": "2",
+          "goals_taken": "1",
+          "opponent": "AFC",
+          "location": "ext",
+          "points": 35
+        },
+        {
+          "day": 21,
+          "goals_scored": "1",
+          "goals_taken": "1",
+          "opponent": "BHFC",
+          "location": "ext",
+          "points": 36
+        },
+        {
+          "day": 22,
+          "goals_scored": "3",
+          "goals_taken": "0",
+          "opponent": "BFC",
+          "location": "dom",
+          "points": 39
+        },
+        {
+          "day": 23,
+          "goals_scored": "0",
+          "goals_taken": "1",
+          "opponent": "NUFC",
+          "location": "ext",
+          "points": 39
+        },
+        {
+          "day": 24,
+          "goals_scored": "2",
+          "goals_taken": "2",
+          "opponent": "AFC",
+          "location": "dom",
+          "points": 40
+        },
+        {
+          "day": 25,
+          "goals_scored": "2",
+          "goals_taken": "2",
+          "opponent": "LCFC",
+          "location": "ext",
+          "points": 41
+        },
+        {
+          "day": 26,
+          "goals_scored": "0",
+          "goals_taken": "2",
+          "opponent": "MUFC",
+          "location": "dom",
+          "points": 41
+        },
+        {
+          "day": 27,
+          "goals_scored": "2",
+          "goals_taken": "1",
+          "opponent": "THFC",
+          "location": "dom",
+          "points": 44
+        },
+        {
+          "day": 28,
+          "goals_scored": "2",
+          "goals_taken": "2",
+          "opponent": "AFCB",
+          "location": "ext",
+          "points": 45
+        },
+        {
+          "day": 29,
+          "goals_scored": "4",
+          "goals_taken": "0",
+          "opponent": "EFC",
+          "location": "dom",
+          "points": 48
+        }
+      ]
+    },
+    {
+      "id": "EFC",
+      "games": [
+        {
+          "day": 1,
+          "goals_scored": "0",
+          "goals_taken": "0",
+          "opponent": "CP",
+          "location": "ext",
+          "points": 1
+        },
+        {
+          "day": 2,
+          "goals_scored": "1",
+          "goals_taken": "0",
+          "opponent": "WFC",
+          "location": "dom",
+          "points": 4
+        },
+        {
+          "day": 3,
+          "goals_scored": "0",
+          "goals_taken": "2",
+          "opponent": "AVFC",
+          "location": "ext",
+          "points": 4
+        },
+        {
+          "day": 4,
+          "goals_scored": "3",
+          "goals_taken": "2",
+          "opponent": "WWFC",
+          "location": "dom",
+          "points": 7
+        },
+        {
+          "day": 5,
+          "goals_scored": "1",
+          "goals_taken": "3",
+          "opponent": "AFCB",
+          "location": "ext",
+          "points": 7
+        },
+        {
+          "day": 6,
+          "goals_scored": "0",
+          "goals_taken": "2",
+          "opponent": "SUFC",
+          "location": "dom",
+          "points": 7
+        },
+        {
+          "day": 7,
+          "goals_scored": "1",
+          "goals_taken": "3",
+          "opponent": "MCFC",
+          "location": "dom",
+          "points": 7
+        },
+        {
+          "day": 8,
+          "goals_scored": "0",
+          "goals_taken": "1",
+          "opponent": "BFC",
+          "location": "ext",
+          "points": 7
+        },
+        {
+          "day": 9,
+          "goals_scored": "2",
+          "goals_taken": "0",
+          "opponent": "WHFC",
+          "location": "dom",
+          "points": 10
+        },
+        {
+          "day": 10,
+          "goals_scored": "2",
+          "goals_taken": "3",
+          "opponent": "BHFC",
+          "location": "ext",
+          "points": 10
+        },
+        {
+          "day": 11,
+          "goals_scored": "1",
+          "goals_taken": "1",
+          "opponent": "THFC",
+          "location": "dom",
+          "points": 11
+        },
+        {
+          "day": 12,
+          "goals_scored": "2",
+          "goals_taken": "1",
+          "opponent": "SFC",
+          "location": "ext",
+          "points": 14
+        },
+        {
+          "day": 13,
+          "goals_scored": "0",
+          "goals_taken": "2",
+          "opponent": "NCFC",
+          "location": "dom",
+          "points": 14
+        },
+        {
+          "day": 14,
+          "goals_scored": "1",
+          "goals_taken": "2",
+          "opponent": "LCFC",
+          "location": "ext",
+          "points": 14
+        },
+        {
+          "day": 15,
+          "goals_scored": "2",
+          "goals_taken": "5",
+          "opponent": "LFC",
+          "location": "ext",
+          "points": 14
+        },
+        {
+          "day": 16,
+          "goals_scored": "3",
+          "goals_taken": "1",
+          "opponent": "CFC",
+          "location": "dom",
+          "points": 17
+        },
+        {
+          "day": 17,
+          "goals_scored": "1",
+          "goals_taken": "1",
+          "opponent": "MUFC",
+          "location": "ext",
+          "points": 18
+        },
+        {
+          "day": 18,
+          "goals_scored": "0",
+          "goals_taken": "0",
+          "opponent": "AFC",
+          "location": "dom",
+          "points": 19
+        },
+        {
+          "day": 19,
+          "goals_scored": "1",
+          "goals_taken": "0",
+          "opponent": "BFC",
+          "location": "dom",
+          "points": 22
+        },
+        {
+          "day": 20,
+          "goals_scored": "2",
+          "goals_taken": "1",
+          "opponent": "NUFC",
+          "location": "ext",
+          "points": 25
+        },
+        {
+          "day": 21,
+          "goals_scored": "1",
+          "goals_taken": "2",
+          "opponent": "MCFC",
+          "location": "ext",
+          "points": 25
+        },
+        {
+          "day": 22,
+          "goals_scored": "1",
+          "goals_taken": "0",
+          "opponent": "BHFC",
+          "location": "dom",
+          "points": 28
+        },
+        {
+          "day": 23,
+          "goals_scored": "1",
+          "goals_taken": "1",
+          "opponent": "WHFC",
+          "location": "ext",
+          "points": 29
+        },
+        {
+          "day": 24,
+          "goals_scored": "2",
+          "goals_taken": "2",
+          "opponent": "NUFC",
+          "location": "dom",
+          "points": 30
+        },
+        {
+          "day": 25,
+          "goals_scored": "3",
+          "goals_taken": "2",
+          "opponent": "WFC",
+          "location": "ext",
+          "points": 33
+        },
+        {
+          "day": 26,
+          "goals_scored": "3",
+          "goals_taken": "1",
+          "opponent": "CP",
+          "location": "dom",
+          "points": 36
+        },
+        {
+          "day": 27,
+          "goals_scored": "2",
+          "goals_taken": "3",
+          "opponent": "AFC",
+          "location": "ext",
+          "points": 36
+        },
+        {
+          "day": 28,
+          "goals_scored": "1",
+          "goals_taken": "1",
+          "opponent": "MUFC",
+          "location": "dom",
+          "points": 37
+        },
+        {
+          "day": 29,
+          "goals_scored": "0",
+          "goals_taken": "4",
+          "opponent": "CFC",
+          "location": "ext",
+          "points": 37
+        }
+      ]
+    },
+    {
+      "id": "MUFC",
+      "games": [
+        {
+          "day": 1,
+          "goals_scored": "4",
+          "goals_taken": "0",
+          "opponent": "CFC",
+          "location": "dom",
+          "points": 3
+        },
+        {
+          "day": 2,
+          "goals_scored": "1",
+          "goals_taken": "1",
+          "opponent": "WWFC",
+          "location": "ext",
+          "points": 4
+        },
+        {
+          "day": 3,
+          "goals_scored": "1",
+          "goals_taken": "2",
+          "opponent": "CP",
+          "location": "dom",
+          "points": 4
+        },
+        {
+          "day": 4,
+          "goals_scored": "1",
+          "goals_taken": "1",
+          "opponent": "SFC",
+          "location": "ext",
+          "points": 5
+        },
+        {
+          "day": 5,
+          "goals_scored": "1",
+          "goals_taken": "0",
+          "opponent": "LCFC",
+          "location": "dom",
+          "points": 8
+        },
+        {
+          "day": 6,
+          "goals_scored": "0",
+          "goals_taken": "2",
+          "opponent": "WHFC",
+          "location": "ext",
+          "points": 8
+        },
+        {
+          "day": 7,
+          "goals_scored": "1",
+          "goals_taken": "1",
+          "opponent": "AFC",
+          "location": "dom",
+          "points": 9
+        },
+        {
+          "day": 8,
+          "goals_scored": "0",
+          "goals_taken": "1",
+          "opponent": "NUFC",
+          "location": "ext",
+          "points": 9
+        },
+        {
+          "day": 9,
+          "goals_scored": "1",
+          "goals_taken": "1",
+          "opponent": "LFC",
+          "location": "dom",
+          "points": 10
+        },
+        {
+          "day": 10,
+          "goals_scored": "3",
+          "goals_taken": "1",
+          "opponent": "NCFC",
+          "location": "ext",
+          "points": 13
+        },
+        {
+          "day": 11,
+          "goals_scored": "0",
+          "goals_taken": "1",
+          "opponent": "AFCB",
+          "location": "ext",
+          "points": 13
+        },
+        {
+          "day": 12,
+          "goals_scored": "3",
+          "goals_taken": "1",
+          "opponent": "BHFC",
+          "location": "dom",
+          "points": 16
+        },
+        {
+          "day": 13,
+          "goals_scored": "3",
+          "goals_taken": "3",
+          "opponent": "SUFC",
+          "location": "ext",
+          "points": 17
+        },
+        {
+          "day": 14,
+          "goals_scored": "2",
+          "goals_taken": "2",
+          "opponent": "AVFC",
+          "location": "dom",
+          "points": 18
+        },
+        {
+          "day": 15,
+          "goals_scored": "2",
+          "goals_taken": "1",
+          "opponent": "THFC",
+          "location": "dom",
+          "points": 21
+        },
+        {
+          "day": 16,
+          "goals_scored": "2",
+          "goals_taken": "1",
+          "opponent": "MCFC",
+          "location": "ext",
+          "points": 24
+        },
+        {
+          "day": 17,
+          "goals_scored": "1",
+          "goals_taken": "1",
+          "opponent": "EFC",
+          "location": "dom",
+          "points": 25
+        },
+        {
+          "day": 18,
+          "goals_scored": "0",
+          "goals_taken": "2",
+          "opponent": "WFC",
+          "location": "ext",
+          "points": 25
+        },
+        {
+          "day": 19,
+          "goals_scored": "4",
+          "goals_taken": "1",
+          "opponent": "NUFC",
+          "location": "dom",
+          "points": 28
+        },
+        {
+          "day": 20,
+          "goals_scored": "2",
+          "goals_taken": "0",
+          "opponent": "BFC",
+          "location": "ext",
+          "points": 31
+        },
+        {
+          "day": 21,
+          "goals_scored": "0",
+          "goals_taken": "2",
+          "opponent": "AFC",
+          "location": "ext",
+          "points": 31
+        },
+        {
+          "day": 22,
+          "goals_scored": "4",
+          "goals_taken": "0",
+          "opponent": "NCFC",
+          "location": "dom",
+          "points": 34
+        },
+        {
+          "day": 23,
+          "goals_scored": "0",
+          "goals_taken": "2",
+          "opponent": "LFC",
+          "location": "ext",
+          "points": 34
+        },
+        {
+          "day": 24,
+          "goals_scored": "0",
+          "goals_taken": "2",
+          "opponent": "BFC",
+          "location": "dom",
+          "points": 34
+        },
+        {
+          "day": 25,
+          "goals_scored": "0",
+          "goals_taken": "0",
+          "opponent": "WWFC",
+          "location": "dom",
+          "points": 35
+        },
+        {
+          "day": 26,
+          "goals_scored": "2",
+          "goals_taken": "0",
+          "opponent": "CFC",
+          "location": "ext",
+          "points": 38
+        },
+        {
+          "day": 27,
+          "goals_scored": "3",
+          "goals_taken": "0",
+          "opponent": "WFC",
+          "location": "dom",
+          "points": 41
+        },
+        {
+          "day": 28,
+          "goals_scored": "1",
+          "goals_taken": "1",
+          "opponent": "EFC",
+          "location": "ext",
+          "points": 42
+        },
+        {
+          "day": 29,
+          "goals_scored": "2",
+          "goals_taken": "0",
+          "opponent": "MCFC",
+          "location": "dom",
+          "points": 45
+        }
+      ]
+    },
+    {
+      "id": "MCFC",
+      "games": [
+        {
+          "day": 1,
+          "goals_scored": "5",
+          "goals_taken": "0",
+          "opponent": "WHFC",
+          "location": "ext",
+          "points": 3
+        },
+        {
+          "day": 2,
+          "goals_scored": "2",
+          "goals_taken": "2",
+          "opponent": "THFC",
+          "location": "dom",
+          "points": 4
+        },
+        {
+          "day": 3,
+          "goals_scored": "3",
+          "goals_taken": "1",
+          "opponent": "AFCB",
+          "location": "ext",
+          "points": 7
+        },
+        {
+          "day": 4,
+          "goals_scored": "4",
+          "goals_taken": "0",
+          "opponent": "BHFC",
+          "location": "dom",
+          "points": 10
+        },
+        {
+          "day": 5,
+          "goals_scored": "2",
+          "goals_taken": "3",
+          "opponent": "NCFC",
+          "location": "ext",
+          "points": 10
+        },
+        {
+          "day": 6,
+          "goals_scored": "8",
+          "goals_taken": "0",
+          "opponent": "WFC",
+          "location": "dom",
+          "points": 13
+        },
+        {
+          "day": 7,
+          "goals_scored": "3",
+          "goals_taken": "1",
+          "opponent": "EFC",
+          "location": "ext",
+          "points": 16
+        },
+        {
+          "day": 8,
+          "goals_scored": "0",
+          "goals_taken": "2",
+          "opponent": "WWFC",
+          "location": "dom",
+          "points": 16
+        },
+        {
+          "day": 9,
+          "goals_scored": "2",
+          "goals_taken": "0",
+          "opponent": "CP",
+          "location": "ext",
+          "points": 19
+        },
+        {
+          "day": 10,
+          "goals_scored": "3",
+          "goals_taken": "0",
+          "opponent": "AVFC",
+          "location": "dom",
+          "points": 22
+        },
+        {
+          "day": 11,
+          "goals_scored": "2",
+          "goals_taken": "1",
+          "opponent": "SFC",
+          "location": "dom",
+          "points": 25
+        },
+        {
+          "day": 12,
+          "goals_scored": "1",
+          "goals_taken": "3",
+          "opponent": "LFC",
+          "location": "ext",
+          "points": 25
+        },
+        {
+          "day": 13,
+          "goals_scored": "2",
+          "goals_taken": "1",
+          "opponent": "CFC",
+          "location": "dom",
+          "points": 28
+        },
+        {
+          "day": 14,
+          "goals_scored": "2",
+          "goals_taken": "2",
+          "opponent": "NUFC",
+          "location": "ext",
+          "points": 29
+        },
+        {
+          "day": 15,
+          "goals_scored": "4",
+          "goals_taken": "1",
+          "opponent": "BFC",
+          "location": "ext",
+          "points": 32
+        },
+        {
+          "day": 16,
+          "goals_scored": "1",
+          "goals_taken": "2",
+          "opponent": "MUFC",
+          "location": "dom",
+          "points": 32
+        },
+        {
+          "day": 17,
+          "goals_scored": "3",
+          "goals_taken": "0",
+          "opponent": "AFC",
+          "location": "ext",
+          "points": 35
+        },
+        {
+          "day": 18,
+          "goals_scored": "3",
+          "goals_taken": "1",
+          "opponent": "LCFC",
+          "location": "dom",
+          "points": 38
+        },
+        {
+          "day": 19,
+          "goals_scored": "2",
+          "goals_taken": "3",
+          "opponent": "WWFC",
+          "location": "ext",
+          "points": 38
+        },
+        {
+          "day": 20,
+          "goals_scored": "2",
+          "goals_taken": "0",
+          "opponent": "SUFC",
+          "location": "dom",
+          "points": 41
+        },
+        {
+          "day": 21,
+          "goals_scored": "2",
+          "goals_taken": "1",
+          "opponent": "EFC",
+          "location": "dom",
+          "points": 44
+        },
+        {
+          "day": 22,
+          "goals_scored": "6",
+          "goals_taken": "1",
+          "opponent": "AVFC",
+          "location": "ext",
+          "points": 47
+        },
+        {
+          "day": 23,
+          "goals_scored": "2",
+          "goals_taken": "2",
+          "opponent": "CP",
+          "location": "dom",
+          "points": 48
+        },
+        {
+          "day": 24,
+          "goals_scored": "1",
+          "goals_taken": "0",
+          "opponent": "SUFC",
+          "location": "ext",
+          "points": 51
+        },
+        {
+          "day": 25,
+          "goals_scored": "0",
+          "goals_taken": "2",
+          "opponent": "THFC",
+          "location": "ext",
+          "points": 51
+        },
+        {
+          "day": 26,
+          "goals_scored": "2",
+          "goals_taken": "0",
+          "opponent": "WHFC",
+          "location": "dom",
+          "points": 54
+        },
+        {
+          "day": 27,
+          "goals_scored": "1",
+          "goals_taken": "0",
+          "opponent": "LCFC",
+          "location": "ext",
+          "points": 57
+        },
+        {
+          "day": 28,
+          "goals_scored": -1,
+          "goals_taken": -1,
+          "opponent": "AFC",
+          "location": "dom",
+          "points": 57
+        },
+        {
+          "day": 29,
+          "goals_scored": "0",
+          "goals_taken": "2",
+          "opponent": "MUFC",
+          "location": "ext",
+          "points": 57
+        }
+      ]
+    },
+    {
+      "id": "LCFC",
+      "games": [
+        {
+          "day": 1,
+          "goals_scored": "0",
+          "goals_taken": "0",
+          "opponent": "WWFC",
+          "location": "dom",
+          "points": 1
+        },
+        {
+          "day": 2,
+          "goals_scored": "1",
+          "goals_taken": "1",
+          "opponent": "CFC",
+          "location": "ext",
+          "points": 2
+        },
+        {
+          "day": 3,
+          "goals_scored": "2",
+          "goals_taken": "1",
+          "opponent": "SUFC",
+          "location": "ext",
+          "points": 5
+        },
+        {
+          "day": 4,
+          "goals_scored": "3",
+          "goals_taken": "1",
+          "opponent": "AFCB",
+          "location": "dom",
+          "points": 8
+        },
+        {
+          "day": 5,
+          "goals_scored": "0",
+          "goals_taken": "1",
+          "opponent": "MUFC",
+          "location": "ext",
+          "points": 8
+        },
+        {
+          "day": 6,
+          "goals_scored": "2",
+          "goals_taken": "1",
+          "opponent": "THFC",
+          "location": "dom",
+          "points": 11
+        },
+        {
+          "day": 7,
+          "goals_scored": "5",
+          "goals_taken": "0",
+          "opponent": "NUFC",
+          "location": "dom",
+          "points": 14
+        },
+        {
+          "day": 8,
+          "goals_scored": "1",
+          "goals_taken": "2",
+          "opponent": "LFC",
+          "location": "ext",
+          "points": 14
+        },
+        {
+          "day": 9,
+          "goals_scored": "2",
+          "goals_taken": "1",
+          "opponent": "BFC",
+          "location": "dom",
+          "points": 17
+        },
+        {
+          "day": 10,
+          "goals_scored": "9",
+          "goals_taken": "0",
+          "opponent": "SFC",
+          "location": "ext",
+          "points": 20
+        },
+        {
+          "day": 11,
+          "goals_scored": "2",
+          "goals_taken": "0",
+          "opponent": "CP",
+          "location": "ext",
+          "points": 23
+        },
+        {
+          "day": 12,
+          "goals_scored": "2",
+          "goals_taken": "0",
+          "opponent": "AFC",
+          "location": "dom",
+          "points": 26
+        },
+        {
+          "day": 13,
+          "goals_scored": "2",
+          "goals_taken": "0",
+          "opponent": "BHFC",
+          "location": "ext",
+          "points": 29
+        },
+        {
+          "day": 14,
+          "goals_scored": "2",
+          "goals_taken": "1",
+          "opponent": "EFC",
+          "location": "dom",
+          "points": 32
+        },
+        {
+          "day": 15,
+          "goals_scored": "2",
+          "goals_taken": "0",
+          "opponent": "WFC",
+          "location": "dom",
+          "points": 35
+        },
+        {
+          "day": 16,
+          "goals_scored": "4",
+          "goals_taken": "1",
+          "opponent": "AVFC",
+          "location": "ext",
+          "points": 38
+        },
+        {
+          "day": 17,
+          "goals_scored": "1",
+          "goals_taken": "1",
+          "opponent": "NCFC",
+          "location": "dom",
+          "points": 39
+        },
+        {
+          "day": 18,
+          "goals_scored": "1",
+          "goals_taken": "3",
+          "opponent": "MCFC",
+          "location": "ext",
+          "points": 39
+        },
+        {
+          "day": 19,
+          "goals_scored": "0",
+          "goals_taken": "4",
+          "opponent": "LFC",
+          "location": "dom",
+          "points": 39
+        },
+        {
+          "day": 20,
+          "goals_scored": "2",
+          "goals_taken": "1",
+          "opponent": "WHFC",
+          "location": "ext",
+          "points": 42
+        },
+        {
+          "day": 21,
+          "goals_scored": "3",
+          "goals_taken": "0",
+          "opponent": "NUFC",
+          "location": "ext",
+          "points": 45
+        },
+        {
+          "day": 22,
+          "goals_scored": "1",
+          "goals_taken": "2",
+          "opponent": "SFC",
+          "location": "dom",
+          "points": 45
+        },
+        {
+          "day": 23,
+          "goals_scored": "1",
+          "goals_taken": "2",
+          "opponent": "BFC",
+          "location": "ext",
+          "points": 45
+        },
+        {
+          "day": 24,
+          "goals_scored": "4",
+          "goals_taken": "1",
+          "opponent": "WHFC",
+          "location": "dom",
+          "points": 48
+        },
+        {
+          "day": 25,
+          "goals_scored": "2",
+          "goals_taken": "2",
+          "opponent": "CFC",
+          "location": "dom",
+          "points": 49
+        },
+        {
+          "day": 26,
+          "goals_scored": "0",
+          "goals_taken": "0",
+          "opponent": "WWFC",
+          "location": "ext",
+          "points": 50
+        },
+        {
+          "day": 27,
+          "goals_scored": "0",
+          "goals_taken": "1",
+          "opponent": "MCFC",
+          "location": "dom",
+          "points": 50
+        },
+        {
+          "day": 28,
+          "goals_scored": "0",
+          "goals_taken": "1",
+          "opponent": "NCFC",
+          "location": "ext",
+          "points": 50
+        },
+        {
+          "day": 29,
+          "goals_scored": "4",
+          "goals_taken": "0",
+          "opponent": "AVFC",
+          "location": "dom",
+          "points": 53
+        }
+      ]
+    },
+    {
+      "id": "AVFC",
+      "games": [
+        {
+          "day": 1,
+          "goals_scored": "1",
+          "goals_taken": "3",
+          "opponent": "THFC",
+          "location": "ext",
+          "points": 0
+        },
+        {
+          "day": 2,
+          "goals_scored": "1",
+          "goals_taken": "2",
+          "opponent": "AFCB",
+          "location": "dom",
+          "points": 0
+        },
+        {
+          "day": 3,
+          "goals_scored": "2",
+          "goals_taken": "0",
+          "opponent": "EFC",
+          "location": "dom",
+          "points": 3
+        },
+        {
+          "day": 4,
+          "goals_scored": "0",
+          "goals_taken": "1",
+          "opponent": "CP",
+          "location": "ext",
+          "points": 3
+        },
+        {
+          "day": 5,
+          "goals_scored": "0",
+          "goals_taken": "0",
+          "opponent": "WHFC",
+          "location": "dom",
+          "points": 4
+        },
+        {
+          "day": 6,
+          "goals_scored": "2",
+          "goals_taken": "3",
+          "opponent": "AFC",
+          "location": "ext",
+          "points": 4
+        },
+        {
+          "day": 7,
+          "goals_scored": "2",
+          "goals_taken": "2",
+          "opponent": "BFC",
+          "location": "dom",
+          "points": 5
+        },
+        {
+          "day": 8,
+          "goals_scored": "5",
+          "goals_taken": "1",
+          "opponent": "NCFC",
+          "location": "ext",
+          "points": 8
+        },
+        {
+          "day": 9,
+          "goals_scored": "2",
+          "goals_taken": "1",
+          "opponent": "BHFC",
+          "location": "dom",
+          "points": 11
+        },
+        {
+          "day": 10,
+          "goals_scored": "0",
+          "goals_taken": "3",
+          "opponent": "MCFC",
+          "location": "ext",
+          "points": 11
+        },
+        {
+          "day": 11,
+          "goals_scored": "1",
+          "goals_taken": "2",
+          "opponent": "LFC",
+          "location": "dom",
+          "points": 11
+        },
+        {
+          "day": 12,
+          "goals_scored": "1",
+          "goals_taken": "2",
+          "opponent": "WWFC",
+          "location": "ext",
+          "points": 11
+        },
+        {
+          "day": 13,
+          "goals_scored": "2",
+          "goals_taken": "0",
+          "opponent": "NUFC",
+          "location": "dom",
+          "points": 14
+        },
+        {
+          "day": 14,
+          "goals_scored": "2",
+          "goals_taken": "2",
+          "opponent": "MUFC",
+          "location": "ext",
+          "points": 15
+        },
+        {
+          "day": 15,
+          "goals_scored": "1",
+          "goals_taken": "2",
+          "opponent": "CFC",
+          "location": "ext",
+          "points": 15
+        },
+        {
+          "day": 16,
+          "goals_scored": "1",
+          "goals_taken": "4",
+          "opponent": "LCFC",
+          "location": "dom",
+          "points": 15
+        },
+        {
+          "day": 17,
+          "goals_scored": "0",
+          "goals_taken": "2",
+          "opponent": "SUFC",
+          "location": "ext",
+          "points": 15
+        },
+        {
+          "day": 18,
+          "goals_scored": "1",
+          "goals_taken": "3",
+          "opponent": "SFC",
+          "location": "dom",
+          "points": 15
+        },
+        {
+          "day": 19,
+          "goals_scored": "1",
+          "goals_taken": "0",
+          "opponent": "NCFC",
+          "location": "dom",
+          "points": 18
+        },
+        {
+          "day": 20,
+          "goals_scored": "0",
+          "goals_taken": "3",
+          "opponent": "WFC",
+          "location": "ext",
+          "points": 18
+        },
+        {
+          "day": 21,
+          "goals_scored": "2",
+          "goals_taken": "1",
+          "opponent": "BFC",
+          "location": "ext",
+          "points": 21
+        },
+        {
+          "day": 22,
+          "goals_scored": "1",
+          "goals_taken": "6",
+          "opponent": "MCFC",
+          "location": "dom",
+          "points": 21
+        },
+        {
+          "day": 23,
+          "goals_scored": "1",
+          "goals_taken": "1",
+          "opponent": "BHFC",
+          "location": "ext",
+          "points": 22
+        },
+        {
+          "day": 24,
+          "goals_scored": "2",
+          "goals_taken": "1",
+          "opponent": "WFC",
+          "location": "dom",
+          "points": 25
+        },
+        {
+          "day": 25,
+          "goals_scored": "1",
+          "goals_taken": "2",
+          "opponent": "AFCB",
+          "location": "ext",
+          "points": 25
+        },
+        {
+          "day": 26,
+          "goals_scored": "2",
+          "goals_taken": "3",
+          "opponent": "THFC",
+          "location": "dom",
+          "points": 25
+        },
+        {
+          "day": 27,
+          "goals_scored": "0",
+          "goals_taken": "2",
+          "opponent": "SFC",
+          "location": "ext",
+          "points": 25
+        },
+        {
+          "day": 28,
+          "goals_scored": -1,
+          "goals_taken": -1,
+          "opponent": "SUFC",
+          "location": "dom",
+          "points": 25
+        },
+        {
+          "day": 29,
+          "goals_scored": "0",
+          "goals_taken": "4",
+          "opponent": "LCFC",
+          "location": "ext",
+          "points": 25
+        }
+      ]
+    }
+  ]
+}

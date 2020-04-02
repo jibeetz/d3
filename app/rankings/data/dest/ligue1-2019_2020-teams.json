@@ -1,0 +1,126 @@
+{
+  "ligue": "Ligue 1",
+  "year": "2019-2020",
+  "teams": [
+    {
+      "acr": "PSG",
+      "nice_name": "Paris Saint-Germain",
+      "short_name": "Paris-SG",
+      "color": "#285182"
+    },
+    {
+      "acr": "OM",
+      "nice_name": "Olympique de Marseille",
+      "short_name": "Marseille",
+      "color": "#00a0dd"
+    },
+    {
+      "acr": "OL",
+      "nice_name": "Olympique Lyonnais",
+      "short_name": "Lyon",
+      "color": "#274e82"
+    },
+    {
+      "acr": "ASCF",
+      "nice_name": "Amiens Sporting Club Football",
+      "short_name": "Amiens",
+      "color": "#535252"
+    },
+    {
+      "acr": "MHSC",
+      "nice_name": "Montpellier-Herault Sport Club",
+      "short_name": "Montpellier",
+      "color": "#f36e21"
+    },
+    {
+      "acr": "ASSE",
+      "nice_name": "Association Sportive de St-Etienne",
+      "short_name": "Saint-Étienne",
+      "color": "#009849"
+    },
+    {
+      "acr": "FCN",
+      "nice_name": "Football Club de Nantes",
+      "short_name": "Nantes",
+      "color": "#ffdb00"
+    },
+    {
+      "acr": "FCM",
+      "nice_name": "Football Club de Metz",
+      "short_name": "Metz",
+      "color": "#740f14"
+    },
+    {
+      "acr": "TFC",
+      "nice_name": "Toulouse Football Club",
+      "short_name": "Toulouse",
+      "color": "#3e2a58"
+    },
+    {
+      "acr": "SRFC",
+      "nice_name": "Stade Rennais Football Club",
+      "short_name": "Rennes",
+      "color": "#f40a1d"
+    },
+    {
+      "acr": "FCGB",
+      "nice_name": "Football Club des Girondins de Bordeaux",
+      "short_name": "Bordeaux",
+      "color": "#001b50"
+    },
+    {
+      "acr": "OGCN",
+      "nice_name": "Olympique Gymnaste Club Nice Côte d'Azur",
+      "short_name": "Nice",
+      "color": "#d92222"
+    },
+    {
+      "acr": "SDR",
+      "nice_name": "Stade de Reims",
+      "short_name": "Reims",
+      "color": "#e50033"
+    },
+    {
+      "acr": "ASM",
+      "nice_name": "Association sportive de Monaco FC",
+      "short_name": "Monaco",
+      "color": "#ec0e19"
+    },
+    {
+      "acr": "NO",
+      "nice_name": "Nîmes Olympique",
+      "short_name": "Nîmes",
+      "color": "#d92222"
+    },
+    {
+      "acr": "SB",
+      "nice_name": "Stade Brestois 29",
+      "short_name": "Brest",
+      "color": "#ed1a25"
+    },
+    {
+      "acr": "DFCO",
+      "nice_name": "Dijon Football Côte-d'Or",
+      "short_name": "Dijon",
+      "color": "#d00f2b"
+    },
+    {
+      "acr": "SCOA",
+      "nice_name": "Angers Sporting Club de l'Ouest",
+      "short_name": "Angers",
+      "color": "#000"
+    },
+    {
+      "acr": "LOSC",
+      "nice_name": "LOSC Lille",
+      "short_name": "Lille",
+      "color": "#e3081a"
+    },
+    {
+      "acr": "RCSA",
+      "nice_name": "Racing Club de Strasbourg Alsace",
+      "short_name": "Strasbourg",
+      "color": "#00a0e1"
+    }
+  ]
+}

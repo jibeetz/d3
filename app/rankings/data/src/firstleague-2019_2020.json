@@ -1,0 +1,146 @@
+{
+    "ligue": "First League",
+    "year": "2019-2020",
+    "teams": [
+        {
+            "acr": "LFC",
+            "nice_name": "Liverpool Football Club",
+            "short_name": "Liverpool",
+            "color": "#d00026",
+            "color2": "#00a398"
+        },
+        {
+            "acr": "AFCB",
+            "nice_name": "Association Football Club Bournemouth",
+            "short_name": "Bournemouth",
+            "color": "#c00e15",
+            "color2": "#000"
+        },
+        {
+            "acr": "WWFC",
+            "nice_name": "Wolverhampton Wanderers Football Club",
+            "short_name": "Wolverhampton",
+            "color": "#f9b623",
+            "color2": "#000"
+        },
+        {
+            "acr": "BHFC",
+            "nice_name": "Brighton & Hove Albion FC",
+            "short_name": "Brighton",
+            "color": "#005daa",
+            "color2": "#fff"
+        },
+        {
+            "acr": "SUFC",
+            "nice_name": "Sheffield United Football Club",
+            "short_name": "Sheffield Utd",
+            "color": "#ed1a25",
+            "color2": "#000"
+        },
+        {
+            "acr": "NCFC",
+            "nice_name": "Norwich City Football Club",
+            "short_name": "Norwich",
+            "color": "#01aa52",
+            "color2": "#fff206"
+        },
+        {
+            "acr": "AFC",
+            "nice_name": "Arsenal Football Club",
+            "short_name": "Arsenal",
+            "color": "#e51d1d",
+            "color2": "#a7935b"
+        },
+        {
+            "acr": "WHFC",
+            "nice_name": "West Ham United Football Club",
+            "short_name": "West Ham",
+            "color": "#7c2c3b",
+            "color2": "#f8d742"
+        },
+        {
+            "acr": "CP",
+            "nice_name": "Crystal Palace",
+            "short_name": "Crystal Palace",
+            "color": "#004990",
+            "color2": "#c41130"
+        },
+        {
+            "acr": "WFC",
+            "nice_name": "Watford FC",
+            "short_name": "Watford",
+            "color": "#fcee23",
+            "color2": "#000"
+        },
+        {
+            "acr": "SFC",
+            "nice_name": "Southampton FC",
+            "short_name": "Southampton",
+            "color": "#e10f2c",
+            "color2": "#fff"
+        },
+        {
+            "acr": "NUFC",
+            "nice_name": "Newcastle United Football Club",
+            "short_name": "Newcastle",
+            "color": "#000",
+            "color2": "#fff"
+        },
+        {
+            "acr": "BFC",
+            "nice_name": "Burnley Football Club",
+            "short_name": "Burnley",
+            "color": "#bde4f7",
+            "color2": "#fded05"
+        },
+        {
+            "acr": "THFC",
+            "nice_name": "Tottenham Hotspur Football Club",
+            "short_name": "Tottenham",
+            "color": "#002156",
+            "color2": "#fff"
+        },
+        {
+            "acr": "CFC",
+            "nice_name": "Chelsea Football Club",
+            "short_name": "Chelsea",
+            "color": "#0038b8",
+            "color2": "#fff"
+        },
+        {
+            "acr": "EFC",
+            "nice_name": "Everton Football Club",
+            "short_name": "Everton",
+            "color": "#285183",
+            "color2": "#fff"
+        },
+        {
+            "acr": "MUFC",
+            "nice_name": "Manchester United Football Club",
+            "short_name": "Manchester United",
+            "color": "#e20b0e",
+            "color2": "#fff202"
+        },
+        {
+            "acr": "MCFC",
+            "nice_name": "Manchester City Football Club",
+            "short_name": "Manchester City",
+            "color": "#7cb6e4",
+            "color2": "#000"
+        },
+        {
+            "acr": "LCFC",
+            "nice_name": "Leicester City FC",
+            "short_name": "Leicester",
+            "color": "#00539f",
+            "color2": "#000"
+        },
+        {
+            "acr": "AVFC",
+            "nice_name": "Aston Villa Football Club",
+            "short_name": "Aston Villa",
+            "color": "#b7d0eb",
+            "color2": "#902641"
+        }
+    ]
+}
