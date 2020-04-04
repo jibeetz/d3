@@ -1,23 +1,16 @@
 // const season = 'ligue1-2019_2020';
-const season = 'firstleague-2019_2020';
+// const season = 'firstleague-2019_2020';
 
-const seasons = [
-    {
-        id: 'ligue1-2019_2020',
-        toAdd: true
-    },
-    {
-        id: 'firstleague-2019_2020',
-        toAdd: false
-    }
-]
+
 
 let generateTeamsList = (teams, season) => {
+
+    let isChecked = (season.toAdd) ? 'checked' : '';
 
     var DOM = '<ul class="teams" id="season-' + season.id + '">'
     DOM += '<li class="all">'
     DOM += '<label>'
-    DOM += '<input class="select_team" type="checkbox" value="all" checked/>'
+    DOM += '<input class="select_team" type="checkbox" value="all" ' + isChecked + '/>'
     DOM += '<span>'
     DOM += 'All'
     DOM += '</span>'
@@ -26,7 +19,7 @@ let generateTeamsList = (teams, season) => {
     for (const team of teams) {
         DOM += '<li>'
         DOM += '<label>'
-        DOM += '<input class="select_team" type="checkbox" value="'+ team.acr +'" checked/>'
+        DOM += '<input class="select_team" type="checkbox" value="'+ team.acr +'" ' + isChecked + '/>'
         DOM += '<span>'
         DOM += team.short_name
         DOM += '</span>'
@@ -38,9 +31,18 @@ let generateTeamsList = (teams, season) => {
     const container = document.querySelector('#seasons-teams');
     container.insertAdjacentHTML( 'beforeend', DOM );
 
-    const select_teamInputs = document.querySelectorAll('.select_team');
+    const seasonContainer = document.querySelector('.teams#season-' + season.id)
+    const select_teamInputs = seasonContainer.querySelectorAll('.select_team');
 
     const updateChartEls = (isChecked, els) => {
+
+        if(els.length === 0) {
+
+
+
+            return;
+        }
+
         for (const el of els) {
             let action = isChecked ? 'remove' : 'add'
             el.classList[action]('hidden')
@@ -50,31 +52,41 @@ let generateTeamsList = (teams, season) => {
     for (const select_teamInput of select_teamInputs) {
         select_teamInput.addEventListener('change', (event) => {
 
+            let chartEls = [];
+
             if(event.srcElement.value === 'all') {
                 let groupTeamInputs = event.srcElement.parentElement.parentElement.parentElement.querySelectorAll('.select_team');
                 for (const groupTeamInput of groupTeamInputs) {
                     groupTeamInput.checked = (event.target.checked) ? true : false
                 }
 
-                var allChartEls = document.querySelectorAll('.line-group, .circles-group');
-                updateChartEls(event.target.checked, allChartEls);
-                return;
+                chartEls = document.querySelectorAll('.line-group.season-' + season.id + ', .circles-group.season-' + season.id);
+            } else {
+                chartEls = document.querySelectorAll('.team-' + event.srcElement.value);
             }
 
-            var teamChartEls = document.querySelectorAll('.team-' + event.srcElement.value);
-            updateChartEls(event.target.checked, teamChartEls);
+            updateChartEls(event.target.checked, chartEls);
         })
     }
 }
 
-let generateChart = (championship, championshipTeams) => {
+let generateChart = (teams, infoAllTeams) => {
+
+    function getCurrentChartWidth() {
+        return parseInt(d3.select("#evolution").style("width"));
+    }
+
+    function setChartHeight(chartWidth) {
+        let windowsHeight = window.innerHeight;
+        return (chartWidth * 10 / 16 > windowsHeight) ? windowsHeight : chartWidth * 10 / 16;
+    }
 
     function getTeamProp(team, prop) {
-        return championshipTeams.find(t => t.acr === team.id)[prop]
+        return infoAllTeams.find(t => t.acr === team.id)[prop]
     }
 
     function showCurrentScore(datum, d) {
-        let teamsGame = [getTeamProp(datum, 'short_name'), getTeamProp(championship.teams.find(t => d.opponent === t.id), 'short_name')]
+        let teamsGame = [getTeamProp(datum, 'short_name'), getTeamProp(teams.find(t => d.opponent === t.id), 'short_name')]
         let scoresGame = [d.goals_scored, d.goals_taken]
         let teamDom = (d.location === 'dom') ? teamsGame[0] : teamsGame[1];
         let teamExt = (d.location === 'dom') ? teamsGame[1] : teamsGame[0];
@@ -83,13 +95,7 @@ let generateChart = (championship, championshipTeams) => {
         return teamDom + ' ' + scoreDom + ' - ' + scoreExt + ' ' + teamExt
     }
 
-    let chartMargin = 50;
-    let chartWidth = parseInt(d3.select("#evolution").style("width"));
-
-    let windowsHeight = window.innerHeight;
-    let chartHeight = (chartWidth * 10 / 16 > windowsHeight) ? windowsHeight : chartWidth * 10 / 16;
     let duration = 250;
-
     let lineOpacity = "1";
     let lineOpacityHover = "1";
     let otherLinesOpacityHover = "0.1";
@@ -101,44 +107,30 @@ let generateChart = (championship, championshipTeams) => {
     let circleRadius = 3;
     let circleRadiusHover = 6;
 
+    let chartWidth = getCurrentChartWidth();
+    let chartHeight = setChartHeight(chartWidth);
+
     /* Add SVG */
     let svg = d3.select("#evolution").append("svg")
     .attr("width", chartWidth)
-    .attr("height", chartHeight)
-    .append('g')
-    .attr("transform", `translate(${chartMargin}, ${chartMargin})`);
+    .attr("height", chartHeight);
 
     let chartXScale = d3.scaleLinear()
-    .range([0, chartWidth - (chartMargin * 2)])
-    .domain([1, d3.max(championship.teams, team => d3.max(team.games, d => d.day))])
+    .range([0, chartWidth - 70])
 
     let chartYScale = d3.scaleLinear()
-    .domain([0, d3.max(championship.teams, team => d3.max(team.games, d => d.points))])
-    .range([chartHeight - (chartMargin * 2), 0]);
+    .range([chartHeight - 70, 0])
+
+    let lines = svg.append('g')
+    .attr('class', 'lines')
+    .attr("transform", `translate(30, 30)`)
+
+    chartXScale.domain([1, d3.max(teams, team => d3.max(team.games, d => d.day))])
+    chartYScale.domain([0, d3.max(teams, team => d3.max(team.games, d => d.points))])
 
     /* Apply axis */
-    let xAxis = d3.axisBottom(chartXScale).ticks(d3.max(championship.teams, team => d3.max(team.games, d => d.day)) - 1);
+    let xAxis = d3.axisBottom(chartXScale).ticks(d3.max(teams, team => d3.max(team.games, d => d.day)) - 1);
     let yAxis = d3.axisLeft(chartYScale).ticks(8);
-
-    svg.append("g")
-    .attr("class", "x axis")
-    .attr("transform", `translate(0, ${chartHeight - (chartMargin * 2)})`)
-    .call(xAxis)
-    .append('text')
-    .attr("class", "label")
-    .attr("y", 35)
-    .attr("x", chartWidth - (chartMargin * 2) - 15)
-    .attr("fill", "#000")
-    .text("Games");
-
-    svg.append("g")
-    .attr("class", "y axis")
-    .call(yAxis)
-    .append('text')
-    .attr("y", -15)
-    .attr("x", 0)
-    .attr("fill", "#000")
-    .text("‰");
 
     /* Apply lines */
     var line = d3.line()
@@ -146,21 +138,40 @@ let generateChart = (championship, championshipTeams) => {
     .y(d => chartYScale(d.points))
     .curve(d3.curveMonotoneX);
 
-    let lines = svg.append('g')
-    .attr('class', 'lines');
+    svg.append("g")
+    .attr("class", "x axis")
+    .attr("transform", `translate(30, ${chartHeight - 40})`)
+    .call(xAxis)
+    .append('text')
+    .attr("class", "label")
+    .attr("fill", "#000")
+    .attr("y", 35)
+    .attr("x", chartWidth - 80)
+    .text("Days");
+
+    svg.append("g")
+    .attr("class", "y axis")
+    .attr("transform", `translate(30, 30)`)
+    .call(yAxis)
+    .append('text')
+    .attr("y", -5)
+    .attr("x", 0)
+    .attr("fill", "#000")
+    .text("Points");
 
     lines.selectAll('.line-group')
-    .data(championship.teams).enter()
+    .data(teams).enter()
     .append('g')
-    .attr('class', function(d) {return 'line-group team-' + d.id})
+    .attr('class', function(d) {
+        return 'line-group season-' + d.season + ' team-' + d.id})
     .on("mouseover", function(d, i) {
         svg.append("text")
         .attr("class", "title-text")
         .style("fill", getTeamProp(d, 'color'))
         .text(getTeamProp(d, 'nice_name'))
         .attr("text-anchor", "middle")
-        .attr("x", (chartWidth - chartMargin) / 2)
-        .attr("y", 5);
+        .attr("x", getCurrentChartWidth() / 2)
+        .attr("y", 42);
     })
     .on("mouseout", function(d) {
         svg.select(".title-text").remove();
@@ -193,10 +204,10 @@ let generateChart = (championship, championshipTeams) => {
 
     /* Add circles in the line */
     lines.selectAll("circle-group")
-    .data(championship.teams).enter()
+    .data(teams).enter()
     .append("g")
     .style("fill", (d, i) => getTeamProp(d, 'color'))
-    .attr("class", d =>  ('circles-group team-' + d.id))
+    .attr("class", d =>  ('circles-group season-' + d.season + ' team-' + d.id))
     .selectAll("circle")
     .data(d => d.games).enter()
     .append("g")
@@ -206,17 +217,17 @@ let generateChart = (championship, championshipTeams) => {
         .attr("class", "day-text")
         .style("fill", getTeamProp(d3.select(this.parentNode).datum(), 'color'))
         .attr("text-anchor", "middle")
-        .text(d.day + ' day')
-        .attr("x", (chartWidth - chartMargin) / 2)
-        .attr("y", 10);
+        .text('Day ' + d.day)
+        .attr("x", getCurrentChartWidth() / 2)
+        .attr("y", 42);
 
         svg.append("text")
         .attr("class", "title-text")
         .style("fill", getTeamProp(d3.select(this.parentNode).datum(), 'color'))
         .attr("text-anchor", "middle")
         .text(showCurrentScore(d3.select(this.parentNode).datum(), d))
-        .attr("x", (chartWidth - chartMargin) / 2)
-        .attr("y", 30);
+        .attr("x", getCurrentChartWidth() / 2)
+        .attr("y", 62);
 
         d3.select(this)
         .style("cursor", "pointer")
@@ -254,20 +265,19 @@ let generateChart = (championship, championshipTeams) => {
     });
 
     function resize() {
-        let chartWidth = parseInt(d3.select("#evolution").style("width"));
-        let windowsHeight = window.innerHeight;
-        let chartHeight = (chartWidth * 10 / 16 > windowsHeight) ? windowsHeight : chartWidth * 10 / 16;
+        let chartWidth = getCurrentChartWidth();
+        let chartHeight = setChartHeight(chartWidth);
 
         // Update the range of the scale with new width/height
-        chartXScale.range([0, chartWidth - (chartMargin * 2)]);
-        chartYScale.range([chartHeight - (chartMargin * 2), 0]);
+        chartXScale.range([0, chartWidth - 70]);
+        chartYScale.range([chartHeight - 70, 0]);
 
         d3.select('#evolution svg').attr("width", chartWidth)
         d3.select('#evolution svg').attr("height", chartHeight)
 
         // Update the axis and text with the new scale
         svg.select('.x.axis')
-        .attr("transform", `translate(0, ${chartHeight - (chartMargin * 2)})`)
+        .attr("transform", `translate(30, ${chartHeight - 40})`)
         .call(xAxis);
 
         svg.select('.y.axis')
@@ -281,8 +291,7 @@ let generateChart = (championship, championshipTeams) => {
         .attr("cx", d => chartXScale(d.day))
         .attr("cy", d => chartYScale(d.points))
 
-        svg.selectAll('.x .label').attr("x", chartWidth - (chartMargin * 2)  - 15)
-
+        svg.selectAll('.x .label').attr("x", chartWidth - 80)
 
     };
 
@@ -291,23 +300,54 @@ let generateChart = (championship, championshipTeams) => {
 
 }
 
-async function generateApp() {
+async function generateApp(seasons) {
+
+    let infoAllTeams = [];
+    let teams = [];
 
     for (const season of seasons) {
 
-        let championshipTeamsRes = await fetch('data/dest/' + season.id + '-teams.json')
+        let championshipInfoTeamsRes = await fetch('data/dest/' + season.id + '-teams.json')
         .then(response => response.json());
-        let championshipTeams = championshipTeamsRes.teams;
+        let infoTeams = championshipInfoTeamsRes.teams;
+
+        infoTeams = infoTeams.map(t => {
+            t.ligue = season.id.split('-')[0]
+            return t
+        })
+
+        infoAllTeams = [...infoAllTeams, ...infoTeams]
 
         if(season.toAdd) {
             let championship = await fetch('data/dest/' + season.id + '-teams_score.json')
             .then(response => response.json());
 
-            generateChart(championship, championshipTeams);
+            championship.teams = championship.teams.map(t => {
+                t.season = season.id
+                return t
+            })
+
+            teams = [...teams, ...championship.teams]
         }
 
-        generateTeamsList(championshipTeams, season)
+        generateTeamsList(infoTeams, season)
     }
+
+    console.log('teams', teams);
+    console.log('infoAllTeams', infoAllTeams);
+
+    generateChart(teams, infoAllTeams);
 }
 
-generateApp();
+const seasons = [
+    {
+        id: 'ligue1-2019_2020',
+        toAdd: true
+    },
+    {
+        id: 'firstleague-2019_2020',
+        toAdd: true
+    }
+]
+
+generateApp(seasons);
