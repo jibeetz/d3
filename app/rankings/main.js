@@ -60,7 +60,7 @@ let generateTeamsList = (teams, season) => {
                     groupTeamInput.checked = (event.target.checked) ? true : false
                 }
 
-                chartEls = document.querySelectorAll('.line-group.season-' + season.id + ', .circles-group.season-' + season.id);
+                chartEls = document.querySelectorAll('.line.season-' + season.id + ', .circles-group.season-' + season.id);
             } else {
                 chartEls = document.querySelectorAll('.team-' + event.srcElement.value);
             }
@@ -125,18 +125,14 @@ let generateChart = (teams, infoAllTeams) => {
     .attr('class', 'lines')
     .attr("transform", `translate(30, 30)`)
 
+    //-------------------
+
     chartXScale.domain([1, d3.max(teams, team => d3.max(team.games, d => d.day))])
     chartYScale.domain([0, d3.max(teams, team => d3.max(team.games, d => d.points))])
 
     /* Apply axis */
     let xAxis = d3.axisBottom(chartXScale).ticks(d3.max(teams, team => d3.max(team.games, d => d.day)) - 1);
     let yAxis = d3.axisLeft(chartYScale).ticks(8);
-
-    /* Apply lines */
-    var line = d3.line()
-    .x(d => chartXScale(d.day))
-    .y(d => chartYScale(d.points))
-    .curve(d3.curveMonotoneX);
 
     svg.append("g")
     .attr("class", "x axis")
@@ -159,47 +155,55 @@ let generateChart = (teams, infoAllTeams) => {
     .attr("fill", "#000")
     .text("Points");
 
-    lines.selectAll('.line-group')
+    /* Apply lines */
+    var line = d3.line()
+    .x(d => chartXScale(d.day))
+    .y(d => chartYScale(d.points))
+    .curve(d3.curveMonotoneX);
+
+    lines.selectAll('.lines')
     .data(teams).enter()
-    .append('g')
+    .append('path')
     .attr('class', function(d) {
-        return 'line-group season-' + d.season + ' team-' + d.id})
-    .on("mouseover", function(d, i) {
+        return 'line season-' + d.season + ' team-' + d.id})
+    .attr('d', d => line(d.games))
+    .style('stroke', (d) => getTeamProp(d, 'color'))
+    .on("mouseover", function(d) {
+
+        d3.selectAll('.line')
+        .classed('line-hidden', true);
+
+        d3.selectAll('.circles-group')
+        .classed('circle-hidden', true);
+
+        d3.select(this)
+        .classed('active', true);
+
+        d3.select('.circles-group.team-' + d.id)
+        .classed('active', true);
+
         svg.append("text")
         .attr("class", "title-text")
         .style("fill", getTeamProp(d, 'color'))
         .text(getTeamProp(d, 'nice_name'))
-        .attr("text-anchor", "middle")
         .attr("x", getCurrentChartWidth() / 2)
         .attr("y", 42);
     })
     .on("mouseout", function(d) {
-        svg.select(".title-text").remove();
-    })
-    .append('path')
-    .attr('class', 'line')
-    .attr('d', d => line(d.games))
-    .style('stroke', (d) => getTeamProp(d, 'color'))
-    .style('opacity', lineOpacity)
-    .style("stroke-width", lineStroke)
-    .on("mouseover", function(d) {
-        d3.selectAll('.line')
-        .style('opacity', otherLinesOpacityHover);
-        d3.selectAll('.circle')
-        .style('opacity', circleOpacityOnLineHover);
-        d3.select(this)
-        .style('opacity', lineOpacityHover)
-        .style("stroke-width", lineStrokeHover)
-        .style("cursor", "pointer");
-    })
-    .on("mouseout", function(d) {
+
         d3.selectAll(".line")
-        .style('opacity', lineOpacity);
-        d3.selectAll('.circle')
-        .style('opacity', circleOpacity);
+        .classed('line-hidden', false);
+
+        d3.selectAll('.circles-group')
+        .classed('circle-hidden', false);
+
         d3.select(this)
-        .style("stroke-width", lineStroke)
-        .style("cursor", "none");
+        .classed('active', false);
+
+        d3.select('.circles-group.team-' + d.id)
+        .classed('active', false);
+
+        svg.select(".title-text").remove();
     });
 
     /* Add circles in the line */
@@ -210,13 +214,20 @@ let generateChart = (teams, infoAllTeams) => {
     .attr("class", d =>  ('circles-group season-' + d.season + ' team-' + d.id))
     .selectAll("circle")
     .data(d => d.games).enter()
-    .append("g")
+    .append("circle")
+    .attr("class", "circle")
+    .attr("cx", d => chartXScale(d.day))
+    .attr("cy", d => chartYScale(d.points))
+    .attr("r", circleRadius)
     .on("mouseover", function(d) {
+        d3.select(this)
+        .transition()
+        .duration(duration)
+        .attr("r", circleRadiusHover);
 
         svg.append("text")
         .attr("class", "day-text")
         .style("fill", getTeamProp(d3.select(this.parentNode).datum(), 'color'))
-        .attr("text-anchor", "middle")
         .text('Day ' + d.day)
         .attr("x", getCurrentChartWidth() / 2)
         .attr("y", 42);
@@ -224,44 +235,28 @@ let generateChart = (teams, infoAllTeams) => {
         svg.append("text")
         .attr("class", "title-text")
         .style("fill", getTeamProp(d3.select(this.parentNode).datum(), 'color'))
-        .attr("text-anchor", "middle")
         .text(showCurrentScore(d3.select(this.parentNode).datum(), d))
         .attr("x", getCurrentChartWidth() / 2)
         .attr("y", 62);
 
-        d3.select(this)
-        .style("cursor", "pointer")
+        d3.select(this.parentNode)
         .append("text")
         .attr("class", "text")
         .text('Pts: ' + d.points)
-        .attr("text-anchor", "middle")
-        .attr("x", d => chartXScale(d.day))
-        .attr("y", d => chartYScale(d.points) - 15);
-    })
-    .on("mouseout", function(d) {
-        svg.select(".title-text").remove();
-        svg.select(".day-text").remove();
-        d3.select(this)
-        .style("cursor", "none")
-        .selectAll(".text").remove();
-    })
-    .append("circle")
-    .attr("class", "circle")
-    .attr("cx", d => chartXScale(d.day))
-    .attr("cy", d => chartYScale(d.points))
-    .attr("r", circleRadius)
-    .style('opacity', circleOpacity)
-    .on("mouseover", function(d) {
-        d3.select(this)
-        .transition()
-        .duration(duration)
-        .attr("r", circleRadiusHover);
+        .attr("x", d3.select(this).attr('cx'))
+        .attr("y", d3.select(this).attr('cy') - 15);
     })
     .on("mouseout", function(d) {
         d3.select(this)
         .transition()
         .duration(duration)
         .attr("r", circleRadius);
+
+        svg.select(".title-text").remove();
+        svg.select(".day-text").remove();
+
+        d3.select(this.parentNode)
+        .selectAll(".text").remove();
     });
 
     function resize() {
