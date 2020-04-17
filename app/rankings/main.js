@@ -36,37 +36,18 @@ let generateTeamsList = (infoTeams, season) => {
 
         if(els.length === 0 && event.target.checked) {
 
-            // let teamsToAdd = []
-            // let infoTeamsToAdd = []
-
             let seasonStr = event.target.parentElement.parentElement.parentElement.getAttribute('id').replace('season-', '')
 
             let championshipToAdd = await fetch('data/dest/' + seasonStr + '-teams_score.json')
             .then(response => response.json());
 
             championshipToAdd.teams = championshipToAdd.teams.map(t => {
+                t.isHidden = (t.id !== event.target.value);
                 t.season = season.id
                 return t
             })
 
-            let teamToAdd = championshipToAdd.teams.find(t => t.id === event.target.value)
-
-            infoTeams = infoTeams.map(t => {
-                t.ligue = season.id.split('-')[0]
-                return t
-            })
-
-            let infoTeamToAdd = infoTeams.find(t => t.acr === event.target.value)
-
-            // teamsToAdd.push(teamToAdd)
-            // infoTeamsToAdd.push(infoTeamToAdd)
-
-            let teamsObj = {
-                team: teamToAdd,
-                infoTeam: infoTeamToAdd
-            }
-
-            generateChart.update(teamsObj)
+            generateChart.update(championshipToAdd.teams)
 
             return;
         }
@@ -174,27 +155,18 @@ let generateChart = {
         d3.select(window).on('resize', () => this.resize());
     },
 
-    update: function(teamsObj) {
+    update: function(teams) {
 
-        this.allTeams = [...this.allTeams, ...this.teams]
-
-        if(teamsObj !== null) {
-            this.teams = [teamsObj.team]
-            this.infoAllTeams.push(teamsObj.infoTeam)
-
-            this.allTeams.push(teamsObj.team)
+        if(teams !== null) {
+            this.teams = [...this.teams, ...teams]
         }
-
-        // console.log('this.teams', this.teams);
-
-        // console.log('allTeams', allTeams);
 
         let s = this;
 
-        this.chartXScale = this.chartXScale.domain([1, d3.max(this.allTeams, team => d3.max(team.games, d => d.day))])
-        this.chartYScale = this.chartYScale.domain([0, d3.max(this.allTeams, team => d3.max(team.games, d => d.points))])
+        this.chartXScale = this.chartXScale.domain([1, d3.max(this.teams, team => d3.max(team.games, d => d.day))])
+        this.chartYScale = this.chartYScale.domain([0, d3.max(this.teams, team => d3.max(team.games, d => d.points))])
 
-        this.xAxis = d3.axisBottom(this.chartXScale).ticks(d3.max(this.allTeams, team => d3.max(team.games, d => d.day)) - 1);
+        this.xAxis = d3.axisBottom(this.chartXScale).ticks(d3.max(this.teams, team => d3.max(team.games, d => d.day)) - 1);
         this.yAxis = d3.axisLeft(this.chartYScale).ticks(8);
 
         this.xAxe
@@ -203,25 +175,15 @@ let generateChart = {
         this.yAxe
         .call(this.yAxis)
 
-        if(teamsObj !== null) {
-
-            this.svg.selectAll('.line')
-            .attr('d', d => this.line(d.games))
-
-            this.svg.selectAll('.circle')
-            .attr("cx", d => this.chartXScale(d.day))
-            .attr("cy", d => this.chartYScale(d.points))
-
-        }
-
-        this.lines
-        .selectAll('lines')
+        let lines = this.lines
+        .selectAll('.line')
         .data(this.teams)
+
+        lines
         .enter()
         .append('path')
-            .attr('class', (d) => 'line season-' + d.season + ' team-' + d.id)
+            .attr('class', (d) => {let isHidden = (d.isHidden) ? 'hidden' : ''; return 'line ' + isHidden + ' season-' + d.season + ' team-' + d.id})
             .style('stroke', (d) => this.getTeamProp(d, 'color'))
-            .attr('d', d => this.line(d.games))
             .on("mouseover", function(d) {
 
                 d3.selectAll('.line')
@@ -258,60 +220,90 @@ let generateChart = {
                 .classed('active', false);
 
                 s.svg.select(".title-text").remove();
+            })
+        .merge(lines)
+            .transition()
+            .duration(s.duration)
+            .attr('d', d => this.line(d.games));
+
+        let circleGroups = this.lines
+        .selectAll(".circles-group")
+        .data(this.teams)
+
+        circleGroups.exit().remove();
+
+        let circleGroupsEnter = circleGroups
+        .enter()
+        .append("g")
+            .style("fill", (d, i) => s.getTeamProp(d, 'color'))
+            .attr("class", d => {let isHidden = (d.isHidden) ? 'hidden' : ''; return 'circles-group ' + isHidden + ' season-' + d.season + ' team-' + d.id})
+
+        let circleGroupsCircles = circleGroups.merge(circleGroupsEnter)
+            .selectAll(".circle")
+            .data(d => d.games)
+
+            circleGroupsCircles.exit().remove();
+
+        let circleGroupsCirclesEnter = circleGroupsCircles
+            .enter()
+            .append("circle")
+
+            circleGroupsCirclesEnter
+            .attr("class", "circle")
+            .attr("r", this.circleRadius)
+            .on("mouseover", function(d) {
+
+                d3.select(this)
+                .transition()
+                .duration(s.duration)
+                .attr("r", s.circleRadiusHover);
+
+                s.svg.append("text")
+                .attr("class", "day-text")
+                .style("fill", s.getTeamProp(d3.select(this.parentNode).datum(), 'color'))
+                .text('Day ' + d.day)
+                .attr("x", s.chartWidth / 2)
+                .attr("y", 42);
+
+                s.svg.append("text")
+                .attr("class", "title-text")
+                .style("fill", s.getTeamProp(d3.select(this.parentNode).datum(), 'color'))
+                .text(s.showCurrentScore(d3.select(this.parentNode).datum(), d))
+                .attr("x", s.chartWidth / 2)
+                .attr("y", 62);
+
+                d3.select(this.parentNode)
+                .append("text")
+                .attr("class", "text")
+                .text('Pts: ' + d.points)
+                .attr("x", d3.select(this).attr('cx'))
+                .attr("y", d3.select(this).attr('cy') - 15);
+            })
+            .on("mouseout", function(d) {
+                d3.select(this)
+                .transition()
+                .duration(s.duration)
+                .attr("r", s.circleRadius);
+
+                s.svg.select(".title-text").remove();
+                s.svg.select(".day-text").remove();
+
+                d3.select(this.parentNode)
+                .selectAll(".text").remove();
             });
 
-        this.lines.selectAll("circle-group")
-        .data(this.teams).enter()
-        .append("g")
-        .style("fill", (d, i) => s.getTeamProp(d, 'color'))
-        .attr("class", d =>  ('circles-group season-' + d.season + ' team-' + d.id))
-        .selectAll("circle")
-        .data(d => d.games).enter()
-        .append("circle")
-        .attr("class", "circle")
-        .attr("cx", d => this.chartXScale(d.day))
-        .attr("cy", d => this.chartYScale(d.points))
-        .attr("r", this.circleRadius)
-        .on("mouseover", function(d) {
+        function updateCircles(selection, t) {
+            selection
+                .attr("cx", d => t.chartXScale(d.day))
+                .attr("cy", d => t.chartYScale(d.points))
+        }
 
-            d3.select(this)
+        updateCircles(circleGroupsCirclesEnter, this);
+
+        circleGroupsCircles
             .transition()
             .duration(s.duration)
-            .attr("r", s.circleRadiusHover);
-
-            s.svg.append("text")
-            .attr("class", "day-text")
-            .style("fill", s.getTeamProp(d3.select(this.parentNode).datum(), 'color'))
-            .text('Day ' + d.day)
-            .attr("x", s.chartWidth / 2)
-            .attr("y", 42);
-
-            s.svg.append("text")
-            .attr("class", "title-text")
-            .style("fill", s.getTeamProp(d3.select(this.parentNode).datum(), 'color'))
-            .text(s.showCurrentScore(d3.select(this.parentNode).datum(), d))
-            .attr("x", s.chartWidth / 2)
-            .attr("y", 62);
-
-            d3.select(this.parentNode)
-            .append("text")
-            .attr("class", "text")
-            .text('Pts: ' + d.points)
-            .attr("x", d3.select(this).attr('cx'))
-            .attr("y", d3.select(this).attr('cy') - 15);
-        })
-        .on("mouseout", function(d) {
-            d3.select(this)
-            .transition()
-            .duration(s.duration)
-            .attr("r", s.circleRadius);
-
-            s.svg.select(".title-text").remove();
-            s.svg.select(".day-text").remove();
-
-            d3.select(this.parentNode)
-            .selectAll(".text").remove();
-        });
+            .call(updateCircles, this)
     },
 
     resize: function() {
@@ -359,14 +351,14 @@ let generateChart = {
     },
 
     showCurrentScore: function(datum, d) {
-        console.log('this.allTeams', this.allTeams);
-        let teamsGame = [this.getTeamProp(datum, 'short_name'), this.getTeamProp(this.allTeams.find(t => d.opponent === t.id), 'short_name')]
+        let teamsGame = [this.getTeamProp(datum, 'short_name'), this.infoAllTeams.find(t => t.acr === d.opponent).short_name]
         let scoresGame = [d.goals_scored, d.goals_taken]
         let teamDom = (d.location === 'dom') ? teamsGame[0] : teamsGame[1];
         let teamExt = (d.location === 'dom') ? teamsGame[1] : teamsGame[0];
         let scoreDom = (d.location === 'dom') ? scoresGame[0] : scoresGame[1];
         let scoreExt = (d.location === 'dom') ? scoresGame[1] : scoresGame[0];
-        return teamDom + ' ' + scoreDom + ' - ' + scoreExt + ' ' + teamExt
+        let scores = (scoreDom === -1) ? '- Postponed -' : scoreDom + ' - ' + scoreExt;
+        return teamDom + ' ' + scores + ' ' + teamExt
     }
 }
 
@@ -394,6 +386,7 @@ async function generateApp(seasons) {
 
             championship.teams = championship.teams.map(t => {
                 t.season = season.id
+                t.isHidden = false
                 return t
             })
 
